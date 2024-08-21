@@ -12,3 +12,10 @@ Branch: LDS-1675
 Commit Message: Chore(AWS): Modify create in serviceAccount to migrate IAM to IRSA
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: 2e2cb626
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-21T09:17:23-03:00
+Branch: 1675-3
+Commit Message: Chore(AWS): Add service_account to migrate IAM to IRSA
+Repository: aws-infrastructure-live
+-------------------
