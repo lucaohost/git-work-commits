@@ -3,3 +3,4 @@
 2e2cb626|lucas.reginatto@ifood.com.br|2024-08-21T09:17:23-03:00|1675-3|Chore(AWS): Add service_account to migrate IAM to IRSA|aws-infrastructure-live
 2e2cb626|lucas.reginatto@ifood.com.br|2024-08-21T09:17:23-03:00|LDS-1677-2|Chore(AWS): Add service_account to migrate IAM to IRSA|aws-infrastructure-live
 8c70d7b0|lucas.reginatto@ifood.com.br|2024-08-22T10:37:18-03:00|1675-3|Chore(AWS): Fix k8s_namespace to change IAM login to IRSA|aws-infrastructure-live
+8c70d7b0|lucas.reginatto@ifood.com.br|2024-08-22T10:37:18-03:00|LDS-1677-2|Chore(AWS): Fix k8s_namespace to change IAM login to IRSA|aws-infrastructure-live
