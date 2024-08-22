@@ -40,3 +40,10 @@ Branch: LDS-1677-2
 Commit Message: Chore(AWS): Fix k8s_namespace to change IAM login to IRSA
 Repository: aws-infrastructure-live
 -------------------
+Commit: 3b1a7410
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-22T14:11:51-03:00
+Branch: LDS-1675-2
+Commit Message: Change name IAM role for the new one to migrate IAM to IRSA
+Repository: logistics-driver-support-notifications
+-------------------
