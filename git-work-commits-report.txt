@@ -33,3 +33,10 @@ Branch: 1675-3
 Commit Message: Chore(AWS): Fix k8s_namespace to change IAM login to IRSA
 Repository: aws-infrastructure-live
 -------------------
+Commit: 8c70d7b0
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-22T10:37:18-03:00
+Branch: LDS-1677-2
+Commit Message: Chore(AWS): Fix k8s_namespace to change IAM login to IRSA
+Repository: aws-infrastructure-live
+-------------------
