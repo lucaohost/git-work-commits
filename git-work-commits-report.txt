@@ -68,3 +68,10 @@ Branch: LDS-1677-2
 Commit Message: Chore(AWS): Fix k8s_service_account to migrate IAM login to IRSA
 Repository: aws-infrastructure-live
 -------------------
+Commit: 9733a76c
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-23T11:46:10-03:00
+Branch: LDS-1675-2
+Commit Message: Remove name from serviceAccount - The name field is not necessary to fill in as it will be based on the service_name - Related doc: https://ifood.atlassian.net/browse/LDS-1675
+Repository: logistics-driver-support-notifications
+-------------------
