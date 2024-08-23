@@ -8,3 +8,4 @@
 3b1a7410|lucas.reginatto@ifood.com.br|2024-08-22T14:11:51-03:00|LDS-1675|Change name IAM role for the new one to migrate IAM to IRSA|logistics-driver-support-notifications
 8098bc38|lucas.reginatto@ifood.com.br|2024-08-22T16:18:46-03:00|1675-3|Chore(AWS): Fix k8s_service_account to migrate IAM login to IRSA|aws-infrastructure-live
 8098bc38|lucas.reginatto@ifood.com.br|2024-08-22T16:18:46-03:00|LDS-1677-2|Chore(AWS): Fix k8s_service_account to migrate IAM login to IRSA|aws-infrastructure-live
+9733a76c|lucas.reginatto@ifood.com.br|2024-08-23T11:46:10-03:00|LDS-1675-2|CENSORED_COMMIT_MESSAGE|logistics-driver-support-notifications
