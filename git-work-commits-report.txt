@@ -103,3 +103,10 @@ Branch: LDS-1675
 Commit Message: Revert production changes to deploy sandbox
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: 489db5cb
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-28T18:05:25-03:00
+Branch: LDS-1675-2
+Commit Message: Merge branch 'main' into LDS-1675
+Repository: logistics-driver-support-notifications
+-------------------
