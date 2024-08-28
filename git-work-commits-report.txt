@@ -124,3 +124,10 @@ Branch: LDS-1675-2
 Commit Message: Add changelog after resolve conflicts
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: d89d56c8
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-28T18:08:33-03:00
+Branch: LDS-1675
+Commit Message: Add changelog after resolve conflicts
+Repository: logistics-driver-support-notifications
+-------------------
