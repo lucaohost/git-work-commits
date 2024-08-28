@@ -14,3 +14,4 @@
 40bd2171|lucas.reginatto@ifood.com.br|2024-08-28T15:22:58-03:00|LDS-1675-2|Revert production changes to deploy sandbox|logistics-driver-support-notifications
 40bd2171|lucas.reginatto@ifood.com.br|2024-08-28T15:22:58-03:00|LDS-1675|Revert production changes to deploy sandbox|logistics-driver-support-notifications
 489db5cb|lucas.reginatto@ifood.com.br|2024-08-28T18:05:25-03:00|LDS-1675-2|Merge branch 'main' into LDS-1675|logistics-driver-support-notifications
+489db5cb|lucas.reginatto@ifood.com.br|2024-08-28T18:05:25-03:00|LDS-1675|Merge branch 'main' into LDS-1675|logistics-driver-support-notifications
