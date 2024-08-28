@@ -82,3 +82,10 @@ Branch: LDS-1675
 Commit Message: Remove name from serviceAccount - The name field is not necessary to fill in as it will be based on the service_name - Related doc: https://ifood.atlassian.net/browse/LDS-1675
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: 11d05c20
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-08-28T15:20:05-03:00
+Branch: LDS-1675-2
+Commit Message: Revert production changes to deploy sandbox
+Repository: logistics-driver-support-notifications
+-------------------
