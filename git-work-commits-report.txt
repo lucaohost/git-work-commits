@@ -145,3 +145,10 @@ Branch: LDS-1675-2
 Commit Message: Chore(AWS): Change IAM login to IRSA Production
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: 1a211bf1
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-02T16:43:14-03:00
+Branch: LDS-1677-3
+Commit Message: Chore(AWS): Migrate Sandbox to IRSA logistics-driver-chat-notifications
+Repository: logistics-driver-chat-notifications
+-------------------
