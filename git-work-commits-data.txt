@@ -18,3 +18,4 @@
 d89d56c8|lucas.reginatto@ifood.com.br|2024-08-28T18:08:33-03:00|LDS-1675-2|Add changelog after resolve conflicts|logistics-driver-support-notifications
 d89d56c8|lucas.reginatto@ifood.com.br|2024-08-28T18:08:33-03:00|LDS-1675|Add changelog after resolve conflicts|logistics-driver-support-notifications
 915807ac|lucas.reginatto@ifood.com.br|2024-09-02T16:07:34-03:00|LDS-1675-2|Merge branch 'LDS-1675' into 'main'|logistics-driver-support-notifications
+f4528a84|lucas.reginatto@ifood.com.br|2024-09-02T16:15:30-03:00|LDS-1675-2|Chore(AWS): Change IAM login to IRSA Production|logistics-driver-support-notifications

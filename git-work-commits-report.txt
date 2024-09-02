@@ -138,3 +138,10 @@ Branch: LDS-1675-2
 Commit Message: Merge branch 'LDS-1675' into 'main'
 Repository: logistics-driver-support-notifications
 -------------------
+Commit: f4528a84
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-02T16:15:30-03:00
+Branch: LDS-1675-2
+Commit Message: Chore(AWS): Change IAM login to IRSA Production
+Repository: logistics-driver-support-notifications
+-------------------
