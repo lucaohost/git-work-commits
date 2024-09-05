@@ -152,3 +152,10 @@ Branch: LDS-1677-3
 Commit Message: Chore(AWS): Migrate Sandbox to IRSA logistics-driver-chat-notifications
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 3944efd3
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-05T10:02:12-03:00
+Branch: LDS-1675-2
+Commit Message: Add serviceAccount true
+Repository: logistics-driver-support-notifications
+-------------------
