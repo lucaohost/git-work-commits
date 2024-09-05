@@ -166,3 +166,10 @@ Branch: 1675-3
 Commit Message: Chore: Change k8s props to migrate IAM to IRSA Production
 Repository: aws-infrastructure-live
 -------------------
+Commit: 320a333e
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-05T10:06:08-03:00
+Branch: LDS-1677-2
+Commit Message: Chore: Change k8s props to migrate IAM to IRSA Production
+Repository: aws-infrastructure-live
+-------------------
