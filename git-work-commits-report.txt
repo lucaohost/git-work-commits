@@ -173,3 +173,10 @@ Branch: LDS-1677-2
 Commit Message: Chore: Change k8s props to migrate IAM to IRSA Production
 Repository: aws-infrastructure-live
 -------------------
+Commit: 9556cd44
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-05T11:22:12-03:00
+Branch: LDS-1677-2
+Commit Message: Chore(AWS): Migrate Sandbox to IRSA logistics-driver-chat-notifications
+Repository: aws-infrastructure-live
+-------------------

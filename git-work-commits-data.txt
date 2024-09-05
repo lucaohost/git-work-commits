@@ -23,3 +23,4 @@ f4528a84|lucas.reginatto@ifood.com.br|2024-09-02T16:15:30-03:00|LDS-1675-2|Chore
 3944efd3|lucas.reginatto@ifood.com.br|2024-09-05T10:02:12-03:00|LDS-1675-2|Add serviceAccount true|logistics-driver-support-notifications
 320a333e|lucas.reginatto@ifood.com.br|2024-09-05T10:06:08-03:00|1675-3|Chore: Change k8s props to migrate IAM to IRSA Production|aws-infrastructure-live
 320a333e|lucas.reginatto@ifood.com.br|2024-09-05T10:06:08-03:00|LDS-1677-2|Chore: Change k8s props to migrate IAM to IRSA Production|aws-infrastructure-live
+9556cd44|lucas.reginatto@ifood.com.br|2024-09-05T11:22:12-03:00|LDS-1677-2|Chore(AWS): Migrate Sandbox to IRSA logistics-driver-chat-notifications|aws-infrastructure-live
