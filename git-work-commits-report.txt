@@ -187,3 +187,10 @@ Branch: 1675-3
 Commit Message: Chore(AWS): Modify IAM role IRSA migration logistics-driver-chat-notifications Sandbox
 Repository: aws-infrastructure-live
 -------------------
+Commit: e142c517
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-05T16:33:11-03:00
+Branch: LDS-1677-2
+Commit Message: Chore(AWS): Modify IAM role IRSA migration logistics-driver-support-notifications Production
+Repository: aws-infrastructure-live
+-------------------
