@@ -27,3 +27,4 @@ f4528a84|lucas.reginatto@ifood.com.br|2024-09-02T16:15:30-03:00|LDS-1675-2|Chore
 ebbd5879|lucas.reginatto@ifood.com.br|2024-09-05T11:25:31-03:00|1675-3|Chore(AWS): Modify IAM role IRSA migration logistics-driver-chat-notifications Sandbox|aws-infrastructure-live
 e142c517|lucas.reginatto@ifood.com.br|2024-09-05T16:33:11-03:00|LDS-1677-2|Chore(AWS): Modify IAM role IRSA migration logistics-driver-support-notifications Production|aws-infrastructure-live
 b5282232|lucas.reginatto@ifood.com.br|2024-09-05T16:33:43-03:00|LDS-1677-2|Chore(AWS): Modify IAM role IRSA migration logistics-driver-support-notifications Sandbox|aws-infrastructure-live
+4649d112|lucas.reginatto@ifood.com.br|2024-09-10T14:44:55-03:00|LDS-1677-3|Remove unnecessary dependency|logistics-driver-chat-notifications
