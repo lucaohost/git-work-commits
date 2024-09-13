@@ -208,3 +208,10 @@ Branch: LDS-1677-3
 Commit Message: Remove unnecessary dependency
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: a6ddf2c9
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-13T16:00:41-03:00
+Branch: LDS-1677-3
+Commit Message: Add aws java sdk
+Repository: logistics-driver-chat-notifications
+-------------------
