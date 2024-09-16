@@ -229,3 +229,10 @@ Branch: LDS-1677-3
 Commit Message: Increase memory to test sandbox deploy
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 6ba136ec
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-16T17:38:50-03:00
+Branch: LDS-1677-3
+Commit Message: Add default aws credentials to test sandbox deploy
+Repository: logistics-driver-chat-notifications
+-------------------
