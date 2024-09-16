@@ -30,3 +30,4 @@ b5282232|lucas.reginatto@ifood.com.br|2024-09-05T16:33:43-03:00|LDS-1677-2|Chore
 4649d112|lucas.reginatto@ifood.com.br|2024-09-10T14:44:55-03:00|LDS-1677-3|Remove unnecessary dependency|logistics-driver-chat-notifications
 a6ddf2c9|lucas.reginatto@ifood.com.br|2024-09-13T16:00:41-03:00|LDS-1677-3|Add aws java sdk|logistics-driver-chat-notifications
 65354cfa|lucas.reginatto@ifood.com.br|2024-09-16T14:54:59-03:00|LDS-1677-3|Add full sqs configs to test sandbox deploy|logistics-driver-chat-notifications
+3f35f59c|lucas.reginatto@ifood.com.br|2024-09-16T16:44:26-03:00|LDS-1677-3|Increase memory to test sandbox deploy|logistics-driver-chat-notifications

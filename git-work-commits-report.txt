@@ -222,3 +222,10 @@ Branch: LDS-1677-3
 Commit Message: Add full sqs configs to test sandbox deploy
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 3f35f59c
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-16T16:44:26-03:00
+Branch: LDS-1677-3
+Commit Message: Increase memory to test sandbox deploy
+Repository: logistics-driver-chat-notifications
+-------------------
