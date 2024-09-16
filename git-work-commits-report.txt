@@ -215,3 +215,10 @@ Branch: LDS-1677-3
 Commit Message: Add aws java sdk
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 65354cfa
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-16T14:54:59-03:00
+Branch: LDS-1677-3
+Commit Message: Add full sqs configs to test sandbox deploy
+Repository: logistics-driver-chat-notifications
+-------------------
