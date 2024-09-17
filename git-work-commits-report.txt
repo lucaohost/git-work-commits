@@ -236,3 +236,10 @@ Branch: LDS-1677-3
 Commit Message: Add default aws credentials to test sandbox deploy
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 72bb1730
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-17T10:52:50-03:00
+Branch: LDS-1677-3
+Commit Message: Change aws config to test sandbox deploy
+Repository: logistics-driver-chat-notifications
+-------------------
