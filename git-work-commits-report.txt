@@ -257,3 +257,10 @@ Branch: LDS-1677-3
 Commit Message: Revert "Modify aws configurations"
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: d3a90002
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-17T14:30:47-03:00
+Branch: LDS-1677-3
+Commit Message: Modify aws configurations
+Repository: logistics-driver-chat-notifications
+-------------------
