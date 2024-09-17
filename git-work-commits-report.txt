@@ -250,3 +250,10 @@ Branch: LDS-1677-3
 Commit Message: Modify aws configurations
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: fdf001dc
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-17T14:28:31-03:00
+Branch: LDS-1677-3
+Commit Message: Revert "Modify aws configurations"
+Repository: logistics-driver-chat-notifications
+-------------------

@@ -34,3 +34,4 @@ a6ddf2c9|lucas.reginatto@ifood.com.br|2024-09-13T16:00:41-03:00|LDS-1677-3|Add a
 6ba136ec|lucas.reginatto@ifood.com.br|2024-09-16T17:38:50-03:00|LDS-1677-3|Add default aws credentials to test sandbox deploy|logistics-driver-chat-notifications
 72bb1730|lucas.reginatto@ifood.com.br|2024-09-17T10:52:50-03:00|LDS-1677-3|Change aws config to test sandbox deploy|logistics-driver-chat-notifications
 803d4c25|lucas.reginatto@ifood.com.br|2024-09-17T14:22:46-03:00|LDS-1677-3|Modify aws configurations|logistics-driver-chat-notifications
+fdf001dc|lucas.reginatto@ifood.com.br|2024-09-17T14:28:31-03:00|LDS-1677-3|Revert "Modify aws configurations"|logistics-driver-chat-notifications
