@@ -243,3 +243,10 @@ Branch: LDS-1677-3
 Commit Message: Change aws config to test sandbox deploy
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 803d4c25
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-17T14:22:46-03:00
+Branch: LDS-1677-3
+Commit Message: Modify aws configurations
+Repository: logistics-driver-chat-notifications
+-------------------
