@@ -299,3 +299,10 @@ Branch: LDS-1677-2
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: aws-infrastructure-live
 -------------------
+Commit: 8ecebfed
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T11:41:23-03:00
+Branch: LDS-1677-3
+Commit Message: Merge branch 'LDS-1677-4' into LDS-1677-3
+Repository: logistics-driver-chat-notifications
+-------------------
