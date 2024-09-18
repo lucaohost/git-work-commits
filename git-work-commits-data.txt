@@ -37,3 +37,4 @@ a6ddf2c9|lucas.reginatto@ifood.com.br|2024-09-13T16:00:41-03:00|LDS-1677-3|Add a
 fdf001dc|lucas.reginatto@ifood.com.br|2024-09-17T14:28:31-03:00|LDS-1677-3|Revert "Modify aws configurations"|logistics-driver-chat-notifications
 d3a90002|lucas.reginatto@ifood.com.br|2024-09-17T14:30:47-03:00|LDS-1677-3|Modify aws configurations|logistics-driver-chat-notifications
 74171fa8|lucas.reginatto@ifood.com.br|2024-09-18T09:29:10-03:00|LDS-1677-3|Chore(AWS): Migrate Production to IRSA|logistics-driver-chat-notifications
+ee4f891c|lucas.reginatto@ifood.com.br|2024-09-18T09:35:05-03:00|LDS-1677-3|Update changelog|logistics-driver-chat-notifications

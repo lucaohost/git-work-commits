@@ -271,3 +271,10 @@ Branch: LDS-1677-3
 Commit Message: Chore(AWS): Migrate Production to IRSA
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: ee4f891c
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T09:35:05-03:00
+Branch: LDS-1677-3
+Commit Message: Update changelog
+Repository: logistics-driver-chat-notifications
+-------------------
