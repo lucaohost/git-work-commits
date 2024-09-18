@@ -320,3 +320,10 @@ Branch: LDS-1677-3
 Commit Message: Remove configuração de credenciais desnecessária - No AwsConfig é dado new AmazonConfiguration, onde por default é utilizado CredentialProvideType Default
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 305f0125
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T17:30:23-03:00
+Branch: LDS-1677-3
+Commit Message: Remove propiedades desnecessárias application-dev - essas props já são atribuída no application.yml
+Repository: logistics-driver-chat-notifications
+-------------------
