@@ -40,3 +40,4 @@ d3a90002|lucas.reginatto@ifood.com.br|2024-09-17T14:30:47-03:00|LDS-1677-3|Modif
 ee4f891c|lucas.reginatto@ifood.com.br|2024-09-18T09:35:05-03:00|LDS-1677-3|Update changelog|logistics-driver-chat-notifications
 62385247|lucas.reginatto@ifood.com.br|2024-09-18T09:36:11-03:00|LDS-1677-3|Remove unnecessary serviceAccount name|logistics-driver-chat-notifications
 374ff4a2|lucas.reginatto@ifood.com.br|2024-09-18T09:55:31-03:00|LDS-1677-2|Chore(AWS): Migrate Production to IRSA logistics-driver-chat-notifications|aws-infrastructure-live
+580d6b38|lucas.reginatto@ifood.com.br|2024-09-18T11:16:44-03:00|LDS-1677-2|CENSORED_COMMIT_MESSAGE|aws-infrastructure-live
