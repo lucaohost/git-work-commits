@@ -43,3 +43,4 @@ ee4f891c|lucas.reginatto@ifood.com.br|2024-09-18T09:35:05-03:00|LDS-1677-3|Updat
 580d6b38|lucas.reginatto@ifood.com.br|2024-09-18T11:16:44-03:00|LDS-1677-2|CENSORED_COMMIT_MESSAGE|aws-infrastructure-live
 8ecebfed|lucas.reginatto@ifood.com.br|2024-09-18T11:41:23-03:00|LDS-1677-3|Merge branch 'LDS-1677-4' into LDS-1677-3|logistics-driver-chat-notifications
 b96f48fe|lucas.reginatto@ifood.com.br|2024-09-18T16:57:07-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+305f0125|lucas.reginatto@ifood.com.br|2024-09-18T17:30:23-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications

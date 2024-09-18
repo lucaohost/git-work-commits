@@ -313,3 +313,10 @@ Branch: LDS-1677-3
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 305f0125
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T17:30:23-03:00
+Branch: LDS-1677-3
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-driver-chat-notifications
+-------------------
