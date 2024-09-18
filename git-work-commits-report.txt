@@ -278,3 +278,10 @@ Branch: LDS-1677-3
 Commit Message: Update changelog
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 62385247
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T09:36:11-03:00
+Branch: LDS-1677-3
+Commit Message: Remove unnecessary serviceAccount name
+Repository: logistics-driver-chat-notifications
+-------------------
