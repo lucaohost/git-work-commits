@@ -313,3 +313,10 @@ Branch: LDS-1677-3
 Commit Message: Merge branch 'LDS-1677-4' into LDS-1677-3
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: b96f48fe
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T16:57:07-03:00
+Branch: LDS-1677-3
+Commit Message: Remove configuração de credenciais desnecessária - No AwsConfig é dado new AmazonConfiguration, onde por default é utilizado CredentialProvideType Default
+Repository: logistics-driver-chat-notifications
+-------------------
