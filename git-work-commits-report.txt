@@ -306,3 +306,10 @@ Branch: LDS-1677-2
 Commit Message: Atualiza policy_statements logistics-driver-chat-notifications - Realizando migração para IRSA, o time de PSE fez essa modificação em sandbox e estou replicando para production - O resource diferente um pouco porque a amazon account de production é diferente
 Repository: aws-infrastructure-live
 -------------------
+Commit: 8ecebfed
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-18T11:41:23-03:00
+Branch: LDS-1677-3
+Commit Message: Merge branch 'LDS-1677-4' into LDS-1677-3
+Repository: logistics-driver-chat-notifications
+-------------------
