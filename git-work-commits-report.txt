@@ -334,3 +334,10 @@ Branch: LDS-1677-3
 Commit Message: Corrige amazon account em sandbox - acabei copiando as props de prod e alterei de forma errada, então estou revertendo a modificação
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 05f3caaa
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-19T17:51:02-03:00
+Branch: LDS-1677-3
+Commit Message: Corrige SQS não subindo - Adiconei AWS Configs faltantes, que tinham sido removidas - Corrigi scritp de test - Atualizei versão gradle adapter para equiparar ao gradle geral Co-authored-by: Thiago Henrique De Oliveira <thiago.henrique@ifood.com.br>
+Repository: logistics-driver-chat-notifications
+-------------------
