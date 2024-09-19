@@ -327,3 +327,10 @@ Branch: LDS-1677-3
 Commit Message: Remove propiedades desnecessárias application-dev - essas props já são atribuída no application.yml
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 195a61d9
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-19T11:25:50-03:00
+Branch: LDS-1677-3
+Commit Message: Corrige amazon account em sandbox - acabei copiando as props de prod e alterei de forma errada, então estou revertendo a modificação
+Repository: logistics-driver-chat-notifications
+-------------------
