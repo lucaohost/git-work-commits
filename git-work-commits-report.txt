@@ -341,3 +341,10 @@ Branch: LDS-1677-3
 Commit Message: Corrige SQS não subindo - Adiconei AWS Configs faltantes, que tinham sido removidas - Corrigi scritp de test - Atualizei versão gradle adapter para equiparar ao gradle geral Co-authored-by: Thiago Henrique De Oliveira <thiago.henrique@ifood.com.br>
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: e31a6664
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-19T18:21:37-03:00
+Branch: LDS-1730
+Commit Message: Add docker compose support in makefile - Use docker compose instead docker-compose if it’s installed
+Repository: logistics-driver-chat-notifications
+-------------------
