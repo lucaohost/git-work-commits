@@ -348,3 +348,10 @@ Branch: LDS-1730
 Commit Message: Add changelog
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 0a37feaa
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-09-25T23:19:24-03:00
+Branch: main
+Commit Message: Initial commit
+Repository: environment-ifood
+-------------------
