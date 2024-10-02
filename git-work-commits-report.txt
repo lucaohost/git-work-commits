@@ -362,3 +362,10 @@ Branch: LDS-1730
 Commit Message: Chore(AWS): IRSA Migration
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: b28926af
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-02T10:20:15-03:00
+Branch: LDS-1730
+Commit Message: Merge branch 'LDS-1677-3' into 'main'
+Repository: logistics-driver-chat-notifications
+-------------------
