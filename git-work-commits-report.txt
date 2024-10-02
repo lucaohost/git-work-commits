@@ -383,3 +383,10 @@ Branch: LDS-1730
 Commit Message: Update vulnerable dependencies
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 78a29216
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-02T11:50:44-03:00
+Branch: LDS-1730
+Commit Message: Update changelog
+Repository: logistics-driver-chat-notifications
+-------------------
