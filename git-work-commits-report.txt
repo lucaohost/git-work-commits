@@ -355,3 +355,10 @@ Branch: main
 Commit Message: Initial commit
 Repository: environment-ifood
 -------------------
+Commit: c862577d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-02T10:20:14-03:00
+Branch: LDS-1730
+Commit Message: Chore(AWS): IRSA Migration
+Repository: logistics-driver-chat-notifications
+-------------------
