@@ -51,3 +51,4 @@ ea43ed37|lucas.reginatto@ifood.com.br|2024-09-19T18:31:40-03:00|LDS-1730|Add cha
 0a37feaa|lucas.reginatto@ifood.com.br|2024-09-25T23:19:24-03:00|main|Initial commit|environment-ifood
 c862577d|lucas.reginatto@ifood.com.br|2024-10-02T10:20:14-03:00|LDS-1730|Chore(AWS): IRSA Migration|logistics-driver-chat-notifications
 b28926af|lucas.reginatto@ifood.com.br|2024-10-02T10:20:15-03:00|LDS-1730|Merge branch 'LDS-1677-3' into 'main'|logistics-driver-chat-notifications
+34d2fe01|lucas.reginatto@ifood.com.br|2024-10-02T11:42:43-03:00|LDS-1730|Merge branch 'main' into LDS-1730|logistics-driver-chat-notifications
