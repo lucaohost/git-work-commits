@@ -376,3 +376,10 @@ Branch: LDS-1730
 Commit Message: Merge branch 'main' into LDS-1730
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 3267f696
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-02T11:48:33-03:00
+Branch: LDS-1730
+Commit Message: Update vulnerable dependencies
+Repository: logistics-driver-chat-notifications
+-------------------
