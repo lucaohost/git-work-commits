@@ -418,3 +418,10 @@ Branch: LDS-1730
 Commit Message: Add sandbox test to verify if still working well
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: a4149358
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-03T17:11:54-03:00
+Branch: LDS-1730
+Commit Message: Add sandbox test to verify if still working well
+Repository: logistics-driver-chat-notifications
+-------------------
