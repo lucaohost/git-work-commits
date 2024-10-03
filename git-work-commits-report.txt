@@ -404,3 +404,10 @@ Branch: LDS-1730
 Commit Message: Trigger pipeline and add sandbox test
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: bc95883b
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-03T17:08:52-03:00
+Branch: LDS-1730
+Commit Message: Bump org.apache.avro:avro to 1.11.4
+Repository: logistics-driver-chat-notifications
+-------------------
