@@ -404,3 +404,10 @@ Branch: LDS-1730
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 8fce705f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-03T17:10:38-03:00
+Branch: LDS-1730
+Commit Message: update changelog
+Repository: logistics-driver-chat-notifications
+-------------------
