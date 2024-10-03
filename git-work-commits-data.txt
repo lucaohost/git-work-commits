@@ -54,3 +54,4 @@ b28926af|lucas.reginatto@ifood.com.br|2024-10-02T10:20:15-03:00|LDS-1730|Merge b
 34d2fe01|lucas.reginatto@ifood.com.br|2024-10-02T11:42:43-03:00|LDS-1730|Merge branch 'main' into LDS-1730|logistics-driver-chat-notifications
 3267f696|lucas.reginatto@ifood.com.br|2024-10-02T11:48:33-03:00|LDS-1730|Update vulnerable dependencies|logistics-driver-chat-notifications
 78a29216|lucas.reginatto@ifood.com.br|2024-10-02T11:50:44-03:00|LDS-1730|Update changelog|logistics-driver-chat-notifications
+7829530d|lucas.reginatto@ifood.com.br|2024-10-03T10:33:47-03:00|LDS-1730|Trigger pipeline and add sandbox test|logistics-driver-chat-notifications

@@ -390,3 +390,10 @@ Branch: LDS-1730
 Commit Message: Update changelog
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: 7829530d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-03T10:33:47-03:00
+Branch: LDS-1730
+Commit Message: Trigger pipeline and add sandbox test
+Repository: logistics-driver-chat-notifications
+-------------------
