@@ -446,3 +446,10 @@ Branch: LDS-1730
 Commit Message: Bump org.apache.avro:avro to 1.11.4
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: a1b4af53
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-04T17:43:45-03:00
+Branch: SWDHERO-69
+Commit Message: Update Handshake endpoints to accept unknown fields - I don't know the context yet, but I'm trying to discover.
+Repository: logistics-chatbot-actions
+-------------------
