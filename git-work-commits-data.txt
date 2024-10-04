@@ -60,3 +60,4 @@ bc95883b|lucas.reginatto@ifood.com.br|2024-10-03T17:08:52-03:00|LDS-1730|CENSORE
 ae89c876|lucas.reginatto@ifood.com.br|2024-10-03T17:11:14-03:00|LDS-1730|Add sandbox test to verify if still working well|logistics-driver-chat-notifications
 a4149358|lucas.reginatto@ifood.com.br|2024-10-03T17:11:54-03:00|LDS-1730|Add sandbox test to verify if still working well|logistics-driver-chat-notifications
 47155f2b|lucas.reginatto@ifood.com.br|2024-10-03T17:41:37-03:00|LDS-1730|Remove test|logistics-driver-chat-notifications
+a404fd72|lucas.reginatto@ifood.com.br|2024-10-04T10:43:33-03:00|LDS-1730|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
