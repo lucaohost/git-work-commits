@@ -63,3 +63,4 @@ a4149358|lucas.reginatto@ifood.com.br|2024-10-03T17:11:54-03:00|LDS-1730|Add san
 a404fd72|lucas.reginatto@ifood.com.br|2024-10-04T10:43:33-03:00|LDS-1730|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
 a1b4af53|lucas.reginatto@ifood.com.br|2024-10-04T17:43:45-03:00|SWDHERO-69|CENSORED_COMMIT_MESSAGE|logistics-chatbot-actions
 e8d91587|lucas.reginatto@ifood.com.br|2024-10-08T10:02:08-03:00|LDS-1730|Merge branch 'main' into LDS-1730|logistics-driver-chat-notifications
+dc5025e9|lucas.reginatto@ifood.com.br|2024-10-08T10:03:41-03:00|LDS-1730|fix changelog|logistics-driver-chat-notifications
