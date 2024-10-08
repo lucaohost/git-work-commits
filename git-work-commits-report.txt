@@ -446,3 +446,10 @@ Branch: SWDHERO-69
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-chatbot-actions
 -------------------
+Commit: e8d91587
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-08T10:02:08-03:00
+Branch: LDS-1730
+Commit Message: Merge branch 'main' into LDS-1730
+Repository: logistics-driver-chat-notifications
+-------------------
