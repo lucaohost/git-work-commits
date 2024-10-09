@@ -460,3 +460,10 @@ Branch: LDS-1730
 Commit Message: fix changelog
 Repository: logistics-driver-chat-notifications
 -------------------
+Commit: febe6a66
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-09T15:13:30-03:00
+Branch: SWDHERO-69
+Commit Message: Add unknown fields in handshake
+Repository: logistics-chatbot-actions
+-------------------
