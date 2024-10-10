@@ -488,3 +488,10 @@ Branch: SWDHERO-69
 Commit Message: Add changelog
 Repository: logistics-chatbot-actions
 -------------------
+Commit: c6b4cab3
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-10T11:09:45-03:00
+Branch: SWDHERO-69
+Commit Message: Remove changed line
+Repository: logistics-chatbot-actions
+-------------------

@@ -68,3 +68,4 @@ febe6a66|lucas.reginatto@ifood.com.br|2024-10-09T15:13:30-03:00|SWDHERO-69|Add u
 54a1ebed|lucas.reginatto@ifood.com.br|2024-10-10T11:01:12-03:00|SWDHERO-69|Remove accept unknown field in wrong places|logistics-chatbot-actions
 a259e857|lucas.reginatto@ifood.com.br|2024-10-10T11:01:52-03:00|SWDHERO-69|Merge branch 'main' into SWDHERO-69|logistics-chatbot-actions
 6b0358f6|lucas.reginatto@ifood.com.br|2024-10-10T11:07:58-03:00|SWDHERO-69|Add changelog|logistics-chatbot-actions
+c6b4cab3|lucas.reginatto@ifood.com.br|2024-10-10T11:09:45-03:00|SWDHERO-69|Remove changed line|logistics-chatbot-actions
