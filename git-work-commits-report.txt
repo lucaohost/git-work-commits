@@ -474,3 +474,10 @@ Branch: SWDHERO-69
 Commit Message: Remove accept unknown field in wrong places
 Repository: logistics-chatbot-actions
 -------------------
+Commit: a259e857
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-10T11:01:52-03:00
+Branch: SWDHERO-69
+Commit Message: Merge branch 'main' into SWDHERO-69
+Repository: logistics-chatbot-actions
+-------------------
