@@ -467,3 +467,10 @@ Branch: SWDHERO-69
 Commit Message: Add unknown fields in handshake
 Repository: logistics-chatbot-actions
 -------------------
+Commit: 54a1ebed
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-10T11:01:12-03:00
+Branch: SWDHERO-69
+Commit Message: Remove accept unknown field in wrong places
+Repository: logistics-chatbot-actions
+-------------------
