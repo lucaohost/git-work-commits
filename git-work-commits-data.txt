@@ -70,3 +70,4 @@ a259e857|lucas.reginatto@ifood.com.br|2024-10-10T11:01:52-03:00|SWDHERO-69|Merge
 6b0358f6|lucas.reginatto@ifood.com.br|2024-10-10T11:07:58-03:00|SWDHERO-69|Add changelog|logistics-chatbot-actions
 c6b4cab3|lucas.reginatto@ifood.com.br|2024-10-10T11:09:45-03:00|SWDHERO-69|Remove changed line|logistics-chatbot-actions
 195413be|lucas.reginatto@ifood.com.br|2024-10-10T11:11:41-03:00|SWDHERO-69|Merge branch 'main' into SWDHERO-69|logistics-chatbot-actions
+db7a66d3|lucas.reginatto@ifood.com.br|2024-10-15T08:47:28-03:00|SWDHERO-69|Merge branch 'main' into SWDHERO-69|logistics-chatbot-actions
