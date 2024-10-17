@@ -509,3 +509,10 @@ Branch: SWDHERO-69
 Commit Message: Merge branch 'main' into SWDHERO-69
 Repository: logistics-chatbot-actions
 -------------------
+Commit: 28a8c6a6
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-17T16:10:44-03:00
+Branch: DXAH-1636
+Commit Message: Feat: Migrate offline payment to new service
+Repository: agent-helper-bff
+-------------------
