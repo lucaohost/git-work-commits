@@ -523,3 +523,10 @@ Branch: DXAH-1636
 Commit Message: Modify api key header
 Repository: agent-helper-bff
 -------------------
+Commit: 091626eb
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-18T15:36:57-03:00
+Branch: DXAH-1636
+Commit Message: Add URI_PATTERN enum
+Repository: agent-helper-bff
+-------------------
