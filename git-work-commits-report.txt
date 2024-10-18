@@ -516,3 +516,10 @@ Branch: DXAH-1636
 Commit Message: Feat: Migrate offline payment to new service
 Repository: agent-helper-bff
 -------------------
+Commit: 31da0e49
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-18T15:26:33-03:00
+Branch: DXAH-1636
+Commit Message: Modify api key header
+Repository: agent-helper-bff
+-------------------
