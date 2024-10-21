@@ -530,3 +530,10 @@ Branch: DXAH-1636
 Commit Message: Add URI_PATTERN enum
 Repository: agent-helper-bff
 -------------------
+Commit: 0bae2288
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-21T10:50:01-03:00
+Branch: DXAH-1636
+Commit Message: Merge branch 'main' into DXAH-1636
+Repository: agent-helper-bff
+-------------------

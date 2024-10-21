@@ -74,3 +74,4 @@ db7a66d3|lucas.reginatto@ifood.com.br|2024-10-15T08:47:28-03:00|SWDHERO-69|Merge
 28a8c6a6|lucas.reginatto@ifood.com.br|2024-10-17T16:10:44-03:00|DXAH-1636|Feat: Migrate offline payment to new service|agent-helper-bff
 31da0e49|lucas.reginatto@ifood.com.br|2024-10-18T15:26:33-03:00|DXAH-1636|Modify api key header|agent-helper-bff
 091626eb|lucas.reginatto@ifood.com.br|2024-10-18T15:36:57-03:00|DXAH-1636|Add URI_PATTERN enum|agent-helper-bff
+0bae2288|lucas.reginatto@ifood.com.br|2024-10-21T10:50:01-03:00|DXAH-1636|Merge branch 'main' into DXAH-1636|agent-helper-bff
