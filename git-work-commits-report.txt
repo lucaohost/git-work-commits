@@ -537,3 +537,10 @@ Branch: DXAH-1636
 Commit Message: Merge branch 'main' into DXAH-1636
 Repository: agent-helper-bff
 -------------------
+Commit: 12f63429
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-21T15:40:38-03:00
+Branch: DXAH-1636
+Commit Message: Add and fix LogisticsFinanceMPOSClientImplTests
+Repository: agent-helper-bff
+-------------------
