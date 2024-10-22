@@ -586,3 +586,10 @@ Branch: DXAH-1636
 Commit Message: Refactor feature toggle to avoid conflicts
 Repository: agent-helper-bff
 -------------------
+Commit: 4a72b519
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-22T11:43:02-03:00
+Branch: DXAH-1636
+Commit Message: fix changelog
+Repository: agent-helper-bff
+-------------------
