@@ -544,3 +544,10 @@ Branch: DXAH-1636
 Commit Message: Add and fix LogisticsFinanceMPOSClientImplTests
 Repository: agent-helper-bff
 -------------------
+Commit: 87e681f6
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-21T22:18:57-03:00
+Branch: DXAH-1636
+Commit Message: Add tests payment migration
+Repository: agent-helper-bff
+-------------------
