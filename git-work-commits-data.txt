@@ -81,3 +81,4 @@ db7a66d3|lucas.reginatto@ifood.com.br|2024-10-15T08:47:28-03:00|SWDHERO-69|Merge
 f28e0103|lucas.reginatto@ifood.com.br|2024-10-22T10:12:26-03:00|DXAH-1636|Refactor tests payment migration|agent-helper-bff
 71ba0386|lucas.reginatto@ifood.com.br|2024-10-22T10:20:11-03:00|DXAH-1636|Merge branch 'main' into DXAH-1636|agent-helper-bff
 75341709|lucas.reginatto@ifood.com.br|2024-10-22T11:00:04-03:00|DXAH-1636|Add changelog|agent-helper-bff
+3d2030a3|lucas.reginatto@ifood.com.br|2024-10-22T11:15:20-03:00|DXAH-1636|Refactor feature toggle to avoid conflicts|agent-helper-bff
