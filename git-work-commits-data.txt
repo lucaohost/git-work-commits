@@ -77,3 +77,4 @@ db7a66d3|lucas.reginatto@ifood.com.br|2024-10-15T08:47:28-03:00|SWDHERO-69|Merge
 0bae2288|lucas.reginatto@ifood.com.br|2024-10-21T10:50:01-03:00|DXAH-1636|Merge branch 'main' into DXAH-1636|agent-helper-bff
 12f63429|lucas.reginatto@ifood.com.br|2024-10-21T15:40:38-03:00|DXAH-1636|Add and fix LogisticsFinanceMPOSClientImplTests|agent-helper-bff
 87e681f6|lucas.reginatto@ifood.com.br|2024-10-21T22:18:57-03:00|DXAH-1636|Add tests payment migration|agent-helper-bff
+1121d781|lucas.reginatto@ifood.com.br|2024-10-22T09:58:46-03:00|DXAH-1636|Add tests payment migration|agent-helper-bff

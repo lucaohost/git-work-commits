@@ -551,3 +551,10 @@ Branch: DXAH-1636
 Commit Message: Add tests payment migration
 Repository: agent-helper-bff
 -------------------
+Commit: 1121d781
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-22T09:58:46-03:00
+Branch: DXAH-1636
+Commit Message: Add tests payment migration
+Repository: agent-helper-bff
+-------------------
