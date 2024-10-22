@@ -565,3 +565,10 @@ Branch: DXAH-1636
 Commit Message: Refactor tests payment migration
 Repository: agent-helper-bff
 -------------------
+Commit: 71ba0386
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-22T10:20:11-03:00
+Branch: DXAH-1636
+Commit Message: Merge branch 'main' into DXAH-1636
+Repository: agent-helper-bff
+-------------------
