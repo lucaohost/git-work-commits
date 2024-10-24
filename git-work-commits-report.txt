@@ -600,3 +600,10 @@ Branch: DXAH-1636
 Commit Message: Merge branch 'main' into DXAH-1636
 Repository: agent-helper-bff
 -------------------
+Commit: 606126c8
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-24T14:12:13-03:00
+Branch: feature/DXAH-1879
+Commit Message: feat: Add new offline payment logic
+Repository: logistics-web-bff
+-------------------
