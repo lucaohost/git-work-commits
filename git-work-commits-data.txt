@@ -85,3 +85,4 @@ f28e0103|lucas.reginatto@ifood.com.br|2024-10-22T10:12:26-03:00|DXAH-1636|Refact
 4a72b519|lucas.reginatto@ifood.com.br|2024-10-22T11:43:02-03:00|DXAH-1636|fix changelog|agent-helper-bff
 3848e31e|lucas.reginatto@ifood.com.br|2024-10-23T10:47:24-03:00|DXAH-1636|Merge branch 'main' into DXAH-1636|agent-helper-bff
 606126c8|lucas.reginatto@ifood.com.br|2024-10-24T14:12:13-03:00|feature/DXAH-1879|feat: Add new offline payment logic|logistics-web-bff
+5c3e656f|lucas.reginatto@ifood.com.br|2024-10-24T16:08:01-03:00|DXAH-1636|Commit to retrigger pipeline|agent-helper-bff
