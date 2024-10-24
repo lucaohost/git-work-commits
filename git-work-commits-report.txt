@@ -614,3 +614,10 @@ Branch: DXAH-1636
 Commit Message: Commit to retrigger pipeline
 Repository: agent-helper-bff
 -------------------
+Commit: 625c7574
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-24T18:05:02-03:00
+Branch: feature/DXAH-1879
+Commit Message: docs: Update README to avoid package-log.json modifications
+Repository: logistics-web-bff
+-------------------
