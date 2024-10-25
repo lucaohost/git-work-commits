@@ -621,3 +621,10 @@ Branch: feature/DXAH-1879
 Commit Message: docs: Update README to avoid package-log.json modifications
 Repository: logistics-web-bff
 -------------------
+Commit: 5aa7d4ef
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-25T18:16:06-03:00
+Branch: feature/DXAH-1879
+Commit Message: test: Add tests to new offline payment endpoint
+Repository: logistics-web-bff
+-------------------
