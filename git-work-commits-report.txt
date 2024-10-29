@@ -635,3 +635,10 @@ Branch: feature/DXAH-1879
 Commit Message: test: Add tests to new offline payment endpoint
 Repository: logistics-web-bff
 -------------------
+Commit: 96cd02ec
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-29T10:38:48-03:00
+Branch: feature/DXAH-1879
+Commit Message: Modify Mpos http config service - The base path it will not be used in all requests - Removing await because VSCode is warning it's useless in this case
+Repository: logistics-web-bff
+-------------------
