@@ -628,3 +628,10 @@ Branch: feature/DXAH-1879
 Commit Message: test: Add tests to new offline payment endpoint
 Repository: logistics-web-bff
 -------------------
+Commit: 96cd02ec
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-29T10:38:48-03:00
+Branch: feature/DXAH-1879
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-web-bff
+-------------------

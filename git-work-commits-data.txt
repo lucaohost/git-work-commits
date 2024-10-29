@@ -88,3 +88,4 @@ f28e0103|lucas.reginatto@ifood.com.br|2024-10-22T10:12:26-03:00|DXAH-1636|Refact
 5c3e656f|lucas.reginatto@ifood.com.br|2024-10-24T16:08:01-03:00|DXAH-1636|Commit to retrigger pipeline|agent-helper-bff
 625c7574|lucas.reginatto@ifood.com.br|2024-10-24T18:05:02-03:00|feature/DXAH-1879|docs: Update README to avoid package-log.json modifications|logistics-web-bff
 5aa7d4ef|lucas.reginatto@ifood.com.br|2024-10-25T18:16:06-03:00|feature/DXAH-1879|test: Add tests to new offline payment endpoint|logistics-web-bff
+96cd02ec|lucas.reginatto@ifood.com.br|2024-10-29T10:38:48-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
