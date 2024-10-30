@@ -656,3 +656,10 @@ Branch: feature/DXAH-1879
 Commit Message: Add changelog
 Repository: logistics-web-bff
 -------------------
+Commit: 78789a53
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-30T18:10:31-03:00
+Branch: feature/DXAH-1879
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-web-bff
+-------------------
