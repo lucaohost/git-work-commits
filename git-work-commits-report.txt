@@ -677,3 +677,10 @@ Branch: feature/DXAH-1879
 Commit Message: refactor: Change base URL offline payments - It's in the same network, we can call the k8s cluster directly - No need to use APIs registered in Kong
 Repository: logistics-web-bff
 -------------------
+Commit: 4b6b6e68
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-31T17:05:30-03:00
+Branch: feature/DXAH-1879
+Commit Message: feat: Add yolo url
+Repository: logistics-web-bff
+-------------------
