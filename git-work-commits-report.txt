@@ -670,3 +670,10 @@ Branch: feature/DXAH-1879
 Commit Message: Add new offline payment - I needed create a new http client, because the host is different
 Repository: logistics-web-bff
 -------------------
+Commit: c2cc247e
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-31T14:06:53-03:00
+Branch: feature/DXAH-1879
+Commit Message: refactor: Change base URL offline payments - It's in the same network, we can call the k8s cluster directly - No need to use APIs registered in Kong
+Repository: logistics-web-bff
+-------------------
