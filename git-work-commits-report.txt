@@ -670,3 +670,10 @@ Branch: feature/DXAH-1879
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-web-bff
 -------------------
+Commit: 4b6b6e68
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-10-31T17:05:30-03:00
+Branch: feature/DXAH-1879
+Commit Message: feat: Add yolo url
+Repository: logistics-web-bff
+-------------------
