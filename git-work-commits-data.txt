@@ -95,3 +95,4 @@ b5f4b8f2|lucas.reginatto@ifood.com.br|2024-10-29T15:33:59-03:00|feature/DXAH-187
 78789a53|lucas.reginatto@ifood.com.br|2024-10-30T18:10:31-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 c2cc247e|lucas.reginatto@ifood.com.br|2024-10-31T14:06:53-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 4b6b6e68|lucas.reginatto@ifood.com.br|2024-10-31T17:05:30-03:00|feature/DXAH-1879|feat: Add yolo url|logistics-web-bff
+a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-1879-2|CENSORED_COMMIT_MESSAGE|logistics-web-bff
