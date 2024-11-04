@@ -691,3 +691,10 @@ Branch: feature/DXAH-1879
 Commit Message: fix: Change httpClient use depending on feature toggle
 Repository: logistics-web-bff
 -------------------
+Commit: cf56daf7
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-04T18:23:06-03:00
+Branch: feature/DXAH-1879
+Commit Message: fix: HttpService injection in mpo event client
+Repository: logistics-web-bff
+-------------------

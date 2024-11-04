@@ -97,3 +97,4 @@ c2cc247e|lucas.reginatto@ifood.com.br|2024-10-31T14:06:53-03:00|feature/DXAH-187
 4b6b6e68|lucas.reginatto@ifood.com.br|2024-10-31T17:05:30-03:00|feature/DXAH-1879|feat: Add yolo url|logistics-web-bff
 a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-1879-2|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 4f56e96d|lucas.reginatto@ifood.com.br|2024-11-04T15:12:53-03:00|feature/DXAH-1879|fix: Change httpClient use depending on feature toggle|logistics-web-bff
+cf56daf7|lucas.reginatto@ifood.com.br|2024-11-04T18:23:06-03:00|feature/DXAH-1879|fix: HttpService injection in mpo event client|logistics-web-bff
