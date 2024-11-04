@@ -684,3 +684,10 @@ Branch: feature/DXAH-1879
 Commit Message: feat: Add yolo url
 Repository: logistics-web-bff
 -------------------
+Commit: a4dfddb5
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-04T10:34:32-03:00
+Branch: feature/DXAH-1879-2
+Commit Message: feat: Sadnbox test with clean main - I'm getting 500 when I deploy my branch in sandbox - I want to test if I'll have the same problem with the main branch in sandbox
+Repository: logistics-web-bff
+-------------------

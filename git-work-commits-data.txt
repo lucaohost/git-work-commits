@@ -96,3 +96,4 @@ b5f4b8f2|lucas.reginatto@ifood.com.br|2024-10-29T15:33:59-03:00|feature/DXAH-187
 78789a53|lucas.reginatto@ifood.com.br|2024-10-30T18:10:31-03:00|feature/DXAH-1879|Add new offline payment - I needed create a new http client, because the host is different|logistics-web-bff
 c2cc247e|lucas.reginatto@ifood.com.br|2024-10-31T14:06:53-03:00|feature/DXAH-1879|refactor: Change base URL offline payments - It's in the same network, we can call the k8s cluster directly - No need to use APIs registered in Kong|logistics-web-bff
 4b6b6e68|lucas.reginatto@ifood.com.br|2024-10-31T17:05:30-03:00|feature/DXAH-1879|feat: Add yolo url|logistics-web-bff
+a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-1879-2|feat: Sadnbox test with clean main - I'm getting 500 when I deploy my branch in sandbox - I want to test if I'll have the same problem with the main branch in sandbox|logistics-web-bff
