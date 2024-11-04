@@ -684,3 +684,10 @@ Branch: feature/DXAH-1879-2
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-web-bff
 -------------------
+Commit: 4f56e96d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-04T15:12:53-03:00
+Branch: feature/DXAH-1879
+Commit Message: fix: Change httpClient use depending on feature toggle
+Repository: logistics-web-bff
+-------------------
