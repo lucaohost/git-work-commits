@@ -719,3 +719,10 @@ Branch: feature/DXAH-1879
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-web-bff
 -------------------
+Commit: 89bf346d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-05T14:03:39-03:00
+Branch: feature/DXAH-1879
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-web-bff
+-------------------
