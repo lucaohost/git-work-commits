@@ -698,3 +698,10 @@ Branch: feature/DXAH-1879
 Commit Message: fix: HttpService injection in mpo event client
 Repository: logistics-web-bff
 -------------------
+Commit: 1fc60c5b
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-05T13:52:51-03:00
+Branch: feature/DXAH-1879
+Commit Message: test: Change offline payment attempts tests
+Repository: logistics-web-bff
+-------------------
