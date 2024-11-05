@@ -99,3 +99,4 @@ a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-187
 4f56e96d|lucas.reginatto@ifood.com.br|2024-11-04T15:12:53-03:00|feature/DXAH-1879|fix: Change httpClient use depending on feature toggle|logistics-web-bff
 cf56daf7|lucas.reginatto@ifood.com.br|2024-11-04T18:23:06-03:00|feature/DXAH-1879|fix: HttpService injection in mpo event client|logistics-web-bff
 1fc60c5b|lucas.reginatto@ifood.com.br|2024-11-05T13:52:51-03:00|feature/DXAH-1879|test: Change offline payment attempts tests|logistics-web-bff
+8175be42|lucas.reginatto@ifood.com.br|2024-11-05T14:00:02-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
