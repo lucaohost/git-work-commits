@@ -733,3 +733,10 @@ Branch: feature/DXAH-1981
 Commit Message: Feat: Migrate endpoint offline payment
 Repository: logistics-web-bff
 -------------------
+Commit: 63d6f812
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-11T14:29:56-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'feature/DXAH-1879' into 'main'
+Repository: logistics-web-bff
+-------------------

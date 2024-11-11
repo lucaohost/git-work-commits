@@ -103,3 +103,4 @@ cf56daf7|lucas.reginatto@ifood.com.br|2024-11-04T18:23:06-03:00|feature/DXAH-187
 2d228206|lucas.reginatto@ifood.com.br|2024-11-05T14:02:00-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 89bf346d|lucas.reginatto@ifood.com.br|2024-11-05T14:03:39-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 32893dcf|lucas.reginatto@ifood.com.br|2024-11-11T14:29:56-03:00|feature/DXAH-1981|Feat: Migrate endpoint offline payment|logistics-web-bff
+63d6f812|lucas.reginatto@ifood.com.br|2024-11-11T14:29:56-03:00|feature/DXAH-1981|Merge branch 'feature/DXAH-1879' into 'main'|logistics-web-bff
