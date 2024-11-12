@@ -740,3 +740,10 @@ Branch: feature/DXAH-1981
 Commit Message: Merge branch 'feature/DXAH-1879' into 'main'
 Repository: logistics-web-bff
 -------------------
+Commit: dcbfb7ef
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-12T11:24:11-03:00
+Branch: feature/DXAH-1879
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-delivery-offline-payment
+-------------------
