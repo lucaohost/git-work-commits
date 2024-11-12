@@ -754,3 +754,10 @@ Branch: feature/DXAH-1879
 Commit Message: feat: Add GET method for logistics-web-bff - When logistics-web-bff try to get failed-payments it's receiving 403 Forbiden
 Repository: logistics-delivery-offline-payment
 -------------------
+Commit: 9ac6274c
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-12T11:44:18-03:00
+Branch: feature/DXAH-1879
+Commit Message: Add changelog
+Repository: logistics-delivery-offline-payment
+-------------------
