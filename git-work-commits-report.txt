@@ -754,3 +754,10 @@ Branch: feature/DXAH-1879
 Commit Message: Add changelog
 Repository: logistics-delivery-offline-payment
 -------------------
+Commit: 1e8cd0f3
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-19T18:31:46-03:00
+Branch: feature/DXAH-1981
+Commit Message: Add Manual Allocation endpoint
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
