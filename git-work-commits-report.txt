@@ -761,3 +761,10 @@ Branch: feature/DXAH-1981
 Commit Message: Add Manual Allocation endpoint
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 711c807b
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-22T17:11:58-03:00
+Branch: feature/DXAH-1981
+Commit Message: Add Manual Allocation endpoint
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
