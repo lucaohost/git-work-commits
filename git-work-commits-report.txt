@@ -782,3 +782,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Add Manual Allocation endpoint
 Repository: logistics-web-bff
 -------------------
+Commit: 6c4494e0
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-26T09:41:48-03:00
+Branch: feature/DXAH-1981
+Commit Message: Fix imports
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
