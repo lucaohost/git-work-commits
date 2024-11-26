@@ -775,3 +775,10 @@ Branch: feature/DXAH-1981
 Commit Message: Modify result wrapping
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 24d74d2d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-26T09:22:59-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Add Manual Allocation endpoint
+Repository: logistics-web-bff
+-------------------
