@@ -112,3 +112,4 @@ dcbfb7ef|lucas.reginatto@ifood.com.br|2024-11-12T11:24:11-03:00|feature/DXAH-187
 24d74d2d|lucas.reginatto@ifood.com.br|2024-11-26T09:22:59-03:00|feature/DXAH-1981|feat: Add Manual Allocation endpoint|logistics-web-bff
 6c4494e0|lucas.reginatto@ifood.com.br|2024-11-26T09:41:48-03:00|feature/DXAH-1981|Fix imports|logistics-delivery-lifecycle-shadow
 084637b9|lucas.reginatto@ifood.com.br|2024-11-26T10:47:51-03:00|feature/DXAH-1981|Fix Manual Allocation LDM route|logistics-delivery-lifecycle-shadow
+64e4ffb8|lucas.reginatto@ifood.com.br|2024-11-26T16:52:34-03:00|feature/DXAH-1981|Add fixed tests|logistics-delivery-lifecycle-shadow

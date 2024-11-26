@@ -796,3 +796,10 @@ Branch: feature/DXAH-1981
 Commit Message: Fix Manual Allocation LDM route
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 64e4ffb8
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-26T16:52:34-03:00
+Branch: feature/DXAH-1981
+Commit Message: Add fixed tests
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
