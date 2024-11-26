@@ -789,3 +789,10 @@ Branch: feature/DXAH-1981
 Commit Message: Fix imports
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 084637b9
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-26T10:47:51-03:00
+Branch: feature/DXAH-1981
+Commit Message: Fix Manual Allocation LDM route
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
