@@ -108,3 +108,4 @@ dcbfb7ef|lucas.reginatto@ifood.com.br|2024-11-12T11:24:11-03:00|feature/DXAH-187
 9ac6274c|lucas.reginatto@ifood.com.br|2024-11-12T11:44:18-03:00|feature/DXAH-1879|Add changelog|logistics-delivery-offline-payment
 1e8cd0f3|lucas.reginatto@ifood.com.br|2024-11-19T18:31:46-03:00|feature/DXAH-1981|Add Manual Allocation endpoint|logistics-delivery-lifecycle-shadow
 711c807b|lucas.reginatto@ifood.com.br|2024-11-22T17:11:58-03:00|feature/DXAH-1981|Add Manual Allocation endpoint|logistics-delivery-lifecycle-shadow
+89250e4f|lucas.reginatto@ifood.com.br|2024-11-26T08:49:03-03:00|feature/DXAH-1981|Modify result wrapping|logistics-delivery-lifecycle-shadow
