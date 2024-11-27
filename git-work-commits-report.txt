@@ -803,3 +803,10 @@ Branch: feature/DXAH-1981
 Commit Message: Add fixed tests
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: bb1c2044
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-27T15:05:37-03:00
+Branch: feature/DXAH-1981
+Commit Message: fix: ManualAllocationOperation type
+Repository: logistics-web-bff
+-------------------
