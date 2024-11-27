@@ -810,3 +810,10 @@ Branch: feature/DXAH-1981
 Commit Message: fix: ManualAllocationOperation type
 Repository: logistics-web-bff
 -------------------
+Commit: f2357d2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-27T15:09:06-03:00
+Branch: feature/DXAH-1981
+Commit Message: Comment unit tests, to test in sandbox
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
