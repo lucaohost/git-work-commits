@@ -831,3 +831,10 @@ Branch: feature/DXAH-1981
 Commit Message: fix: Response type manual allocation
 Repository: logistics-web-bff
 -------------------
+Commit: 71cf49ba
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-28T16:55:07-03:00
+Branch: feature/DXAH-1981
+Commit Message: test: Update manual allocation controllers tests
+Repository: logistics-web-bff
+-------------------

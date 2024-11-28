@@ -117,3 +117,4 @@ bb1c2044|lucas.reginatto@ifood.com.br|2024-11-27T15:05:37-03:00|feature/DXAH-198
 f2357d2f|lucas.reginatto@ifood.com.br|2024-11-27T15:09:06-03:00|feature/DXAH-1981|Comment unit tests, to test in sandbox|logistics-delivery-lifecycle-shadow
 f4f104fe|lucas.reginatto@ifood.com.br|2024-11-28T15:19:04-03:00|feature/DXAH-1981|test: Add tests LDL controller|logistics-web-bff
 fd897059|lucas.reginatto@ifood.com.br|2024-11-28T16:49:55-03:00|feature/DXAH-1981|fix: Response type manual allocation|logistics-web-bff
+71cf49ba|lucas.reginatto@ifood.com.br|2024-11-28T16:55:07-03:00|feature/DXAH-1981|test: Update manual allocation controllers tests|logistics-web-bff
