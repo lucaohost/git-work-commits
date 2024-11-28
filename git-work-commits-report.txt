@@ -824,3 +824,10 @@ Branch: feature/DXAH-1981
 Commit Message: test: Add tests LDL controller
 Repository: logistics-web-bff
 -------------------
+Commit: fd897059
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-28T16:49:55-03:00
+Branch: feature/DXAH-1981
+Commit Message: fix: Response type manual allocation
+Repository: logistics-web-bff
+-------------------
