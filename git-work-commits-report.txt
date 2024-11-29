@@ -873,3 +873,10 @@ Branch: feature/DXAH-1981
 Commit Message: test: Update LDL Controller tests
 Repository: logistics-web-bff
 -------------------
+Commit: 9e270ff5
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-29T16:42:54-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Update LDM request usages
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
