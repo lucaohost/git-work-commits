@@ -845,3 +845,10 @@ Branch: feature/DXAH-1981
 Commit Message: fix: Manual allocation endpoint
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: fc3b15dc
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-29T15:33:25-03:00
+Branch: feature/DXAH-1981
+Commit Message: fix: Request to LDM
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
