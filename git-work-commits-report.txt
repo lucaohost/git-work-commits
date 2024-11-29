@@ -838,3 +838,10 @@ Branch: feature/DXAH-1981
 Commit Message: test: Update manual allocation controllers tests
 Repository: logistics-web-bff
 -------------------
+Commit: e0c907da
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-29T15:08:34-03:00
+Branch: feature/DXAH-1981
+Commit Message: fix: Manual allocation endpoint
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
