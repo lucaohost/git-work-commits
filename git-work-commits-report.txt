@@ -859,3 +859,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Update Manual Allocation Request
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 34d232d4
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-29T16:37:52-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Update Manual Allocation Request
+Repository: logistics-web-bff
+-------------------
