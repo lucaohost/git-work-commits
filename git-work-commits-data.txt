@@ -120,3 +120,4 @@ fd897059|lucas.reginatto@ifood.com.br|2024-11-28T16:49:55-03:00|feature/DXAH-198
 71cf49ba|lucas.reginatto@ifood.com.br|2024-11-28T16:55:07-03:00|feature/DXAH-1981|test: Update manual allocation controllers tests|logistics-web-bff
 e0c907da|lucas.reginatto@ifood.com.br|2024-11-29T15:08:34-03:00|feature/DXAH-1981|fix: Manual allocation endpoint|logistics-delivery-lifecycle-shadow
 fc3b15dc|lucas.reginatto@ifood.com.br|2024-11-29T15:33:25-03:00|feature/DXAH-1981|fix: Request to LDM|logistics-delivery-lifecycle-shadow
+8effadff|lucas.reginatto@ifood.com.br|2024-11-29T16:20:51-03:00|feature/DXAH-1981|feat: Update Manual Allocation Request|logistics-delivery-lifecycle-shadow

@@ -852,3 +852,10 @@ Branch: feature/DXAH-1981
 Commit Message: fix: Request to LDM
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 8effadff
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-11-29T16:20:51-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Update Manual Allocation Request
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
