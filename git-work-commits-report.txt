@@ -880,3 +880,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Update LDM request usages
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 05c57449
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-06T10:39:05-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'main' into feature/DXAH-1981
+Repository: logistics-web-bff
+-------------------
