@@ -901,3 +901,10 @@ Branch: feature/DXAH-1981
 Commit Message: Merge branch 'main' into feature/DXAH-1981
 Repository: logistics-web-bff
 -------------------
+Commit: 0a18b7d5
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-09T11:48:25-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Remove imports of old logic
+Repository: logistics-web-bff
+-------------------

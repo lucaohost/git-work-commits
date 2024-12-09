@@ -127,3 +127,4 @@ fc3b15dc|lucas.reginatto@ifood.com.br|2024-11-29T15:33:25-03:00|feature/DXAH-198
 05c57449|lucas.reginatto@ifood.com.br|2024-12-06T10:39:05-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-web-bff
 055c51ee|lucas.reginatto@ifood.com.br|2024-12-09T10:34:01-03:00|feature/DXAH-1981|test: Update manual allocations tests|logistics-web-bff
 4225da75|lucas.reginatto@ifood.com.br|2024-12-09T11:47:35-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-web-bff
+0a18b7d5|lucas.reginatto@ifood.com.br|2024-12-09T11:48:25-03:00|feature/DXAH-1981|feat: Remove imports of old logic|logistics-web-bff
