@@ -887,3 +887,10 @@ Branch: feature/DXAH-1981
 Commit Message: Merge branch 'main' into feature/DXAH-1981
 Repository: logistics-web-bff
 -------------------
+Commit: 055c51ee
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-09T10:34:01-03:00
+Branch: feature/DXAH-1981
+Commit Message: test: Update manual allocations tests
+Repository: logistics-web-bff
+-------------------
