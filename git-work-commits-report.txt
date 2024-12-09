@@ -894,3 +894,10 @@ Branch: feature/DXAH-1981
 Commit Message: test: Update manual allocations tests
 Repository: logistics-web-bff
 -------------------
+Commit: 4225da75
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-09T11:47:35-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'main' into feature/DXAH-1981
+Repository: logistics-web-bff
+-------------------
