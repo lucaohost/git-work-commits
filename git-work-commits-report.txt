@@ -936,3 +936,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Manual allocation
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: b343e2a3
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-10T17:23:32-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Remove test logs
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
