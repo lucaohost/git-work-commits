@@ -915,3 +915,10 @@ Branch: feature/DXAH-1981
 Commit Message: test: Update LDL tests
 Repository: logistics-web-bff
 -------------------
+Commit: 7ed7314b
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-10T10:53:58-03:00
+Branch: feature/DXAH-1981
+Commit Message: feat: Add userId in Manual Allocation request
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
