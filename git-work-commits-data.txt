@@ -130,3 +130,4 @@ fc3b15dc|lucas.reginatto@ifood.com.br|2024-11-29T15:33:25-03:00|feature/DXAH-198
 0a18b7d5|lucas.reginatto@ifood.com.br|2024-12-09T11:48:25-03:00|feature/DXAH-1981|feat: Remove imports of old logic|logistics-web-bff
 61344dc5|lucas.reginatto@ifood.com.br|2024-12-10T10:42:48-03:00|feature/DXAH-1981|test: Update LDL tests|logistics-web-bff
 7ed7314b|lucas.reginatto@ifood.com.br|2024-12-10T10:53:58-03:00|feature/DXAH-1981|feat: Add userId in Manual Allocation request|logistics-delivery-lifecycle-shadow
+c0bbe0e9|lucas.reginatto@ifood.com.br|2024-12-10T10:54:23-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-delivery-lifecycle-shadow

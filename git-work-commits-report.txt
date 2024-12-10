@@ -922,3 +922,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Add userId in Manual Allocation request
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: c0bbe0e9
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-10T10:54:23-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'main' into feature/DXAH-1981
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
