@@ -964,3 +964,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Add changelog
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: efd9a3fc
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-11T13:25:48-03:00
+Branch: feature/DXAH-1981
+Commit Message: refactor: Remove unnecessary imports
+Repository: logistics-web-bff
+-------------------
