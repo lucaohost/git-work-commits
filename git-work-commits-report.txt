@@ -978,3 +978,10 @@ Branch: build/SEC-590702
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: logistics-box-admin-api
 -------------------
+Commit: 534c719b
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-11T16:08:25-03:00
+Branch: build/SEC-590702
+Commit Message: docs: Add environment URLs
+Repository: logistics-box-admin-api
+-------------------
