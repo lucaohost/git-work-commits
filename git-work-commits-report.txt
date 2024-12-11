@@ -971,3 +971,10 @@ Branch: feature/DXAH-1981
 Commit Message: refactor: Remove unnecessary imports
 Repository: logistics-web-bff
 -------------------
+Commit: 4a61152c
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-11T14:43:03-03:00
+Branch: build/SEC-590702
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: logistics-box-admin-api
+-------------------
