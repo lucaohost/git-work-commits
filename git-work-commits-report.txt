@@ -943,3 +943,10 @@ Branch: feature/DXAH-1981
 Commit Message: feat: Remove test logs
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 706141f8
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-11T07:35:16-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'main' into feature/DXAH-1981
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
