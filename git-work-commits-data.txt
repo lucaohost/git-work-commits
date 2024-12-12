@@ -139,3 +139,4 @@ fe394091|lucas.reginatto@ifood.com.br|2024-12-11T09:43:52-03:00|feature/DXAH-198
 efd9a3fc|lucas.reginatto@ifood.com.br|2024-12-11T13:25:48-03:00|feature/DXAH-1981|refactor: Remove unnecessary imports|logistics-web-bff
 4a61152c|lucas.reginatto@ifood.com.br|2024-12-11T14:43:03-03:00|build/SEC-590702|CENSORED_COMMIT_MESSAGE|logistics-box-admin-api
 534c719b|lucas.reginatto@ifood.com.br|2024-12-11T16:08:25-03:00|build/SEC-590702|docs: Add environment URLs|logistics-box-admin-api
+b98957c9|lucas.reginatto@ifood.com.br|2024-12-12T10:04:28-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-delivery-lifecycle-shadow

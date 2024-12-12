@@ -985,3 +985,10 @@ Branch: build/SEC-590702
 Commit Message: docs: Add environment URLs
 Repository: logistics-box-admin-api
 -------------------
+Commit: b98957c9
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-12T10:04:28-03:00
+Branch: feature/DXAH-1981
+Commit Message: Merge branch 'main' into feature/DXAH-1981
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
