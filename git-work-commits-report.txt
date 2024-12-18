@@ -992,3 +992,10 @@ Branch: feature/DXAH-1981
 Commit Message: Merge branch 'main' into feature/DXAH-1981
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: d26dfcfa
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-18T14:02:26-03:00
+Branch: feature/DXAH-2077
+Commit Message: feat: Change Event Type PLACED_AT_BOX
+Repository: ifood-box-api
+-------------------
