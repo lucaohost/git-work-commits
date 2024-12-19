@@ -999,3 +999,10 @@ Branch: feature/DXAH-2077
 Commit Message: feat: Change Event Type PLACED_AT_BOX
 Repository: ifood-box-api
 -------------------
+Commit: a8682ac0
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-19T18:25:34-03:00
+Branch: feature/DXAH-2077
+Commit Message: feat: Change PlacedAtBoxOrder Publisher
+Repository: ifood-box-api
+-------------------
