@@ -1027,3 +1027,10 @@ Branch: feature/DXAH-2077
 Commit Message: test: Update OrderDeliveredLifeCycle Tests
 Repository: ifood-box-api
 -------------------
+Commit: f21fe1d1
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-19T19:26:15-03:00
+Branch: feature/DXAH-2077
+Commit Message: test: Update OrderDriverFeedbackServiceTest
+Repository: ifood-box-api
+-------------------
