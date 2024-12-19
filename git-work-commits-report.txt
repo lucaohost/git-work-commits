@@ -1006,3 +1006,10 @@ Branch: feature/DXAH-2077
 Commit Message: feat: Change PlacedAtBoxOrder Publisher
 Repository: ifood-box-api
 -------------------
+Commit: c62c9493
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-19T18:26:28-03:00
+Branch: feature/DXAH-2077
+Commit Message: fix: Add logger in EligibleOrderPublisher
+Repository: ifood-box-api
+-------------------

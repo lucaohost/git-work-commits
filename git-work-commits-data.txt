@@ -142,3 +142,4 @@ efd9a3fc|lucas.reginatto@ifood.com.br|2024-12-11T13:25:48-03:00|feature/DXAH-198
 b98957c9|lucas.reginatto@ifood.com.br|2024-12-12T10:04:28-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-delivery-lifecycle-shadow
 d26dfcfa|lucas.reginatto@ifood.com.br|2024-12-18T14:02:26-03:00|feature/DXAH-2077|feat: Change Event Type PLACED_AT_BOX|ifood-box-api
 a8682ac0|lucas.reginatto@ifood.com.br|2024-12-19T18:25:34-03:00|feature/DXAH-2077|feat: Change PlacedAtBoxOrder Publisher|ifood-box-api
+c62c9493|lucas.reginatto@ifood.com.br|2024-12-19T18:26:28-03:00|feature/DXAH-2077|fix: Add logger in EligibleOrderPublisher|ifood-box-api
