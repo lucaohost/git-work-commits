@@ -149,3 +149,4 @@ f21fe1d1|lucas.reginatto@ifood.com.br|2024-12-19T19:26:15-03:00|feature/DXAH-207
 6e2e3881|lucas.reginatto@ifood.com.br|2024-12-19T19:36:39-03:00|feature/DXAH-2077|CENSORED_COMMIT_MESSAGE|ifood-box-api
 ee455c07|lucas.reginatto@ifood.com.br|2024-12-20T10:40:43-03:00|feature/DXAH-2077|test: Add logs for sandbox tests|ifood-box-api
 8573fb80|lucas.reginatto@ifood.com.br|2024-12-20T10:49:51-03:00|feature/DXAH-2077|test: Add logs for sandbox tests|ifood-box-api
+6f328ef7|lucas.reginatto@ifood.com.br|2024-12-20T10:54:03-03:00|feature/DXAH-2077|refactor: Remove queueSender from PlacedAtBoxOrderV3Publisher|ifood-box-api

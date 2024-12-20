@@ -1055,3 +1055,10 @@ Branch: feature/DXAH-2077
 Commit Message: test: Add logs for sandbox tests
 Repository: ifood-box-api
 -------------------
+Commit: 6f328ef7
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-20T10:54:03-03:00
+Branch: feature/DXAH-2077
+Commit Message: refactor: Remove queueSender from PlacedAtBoxOrderV3Publisher
+Repository: ifood-box-api
+-------------------
