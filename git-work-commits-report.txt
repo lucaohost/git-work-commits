@@ -1069,3 +1069,10 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Import logger
 Repository: ifood-box-api
 -------------------
+Commit: 6b583178
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-20T14:04:33-03:00
+Branch: feature/DXAH-2077
+Commit Message: refactor: Suggested modifications
+Repository: ifood-box-api
+-------------------
