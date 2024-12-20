@@ -1048,3 +1048,10 @@ Branch: feature/DXAH-2077
 Commit Message: build: Bump kafka-clients vulnerable version
 Repository: ifood-box-api
 -------------------
+Commit: ee455c07
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-20T10:40:43-03:00
+Branch: feature/DXAH-2077
+Commit Message: test: Add logs for sandbox tests
+Repository: ifood-box-api
+-------------------
