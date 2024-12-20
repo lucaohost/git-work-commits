@@ -147,3 +147,4 @@ c62c9493|lucas.reginatto@ifood.com.br|2024-12-19T18:26:28-03:00|feature/DXAH-207
 c6697668|lucas.reginatto@ifood.com.br|2024-12-19T19:04:05-03:00|feature/DXAH-2077|test: Update OrderDeliveredLifeCycle Tests|ifood-box-api
 f21fe1d1|lucas.reginatto@ifood.com.br|2024-12-19T19:26:15-03:00|feature/DXAH-2077|test: Update OrderDriverFeedbackServiceTest|ifood-box-api
 6e2e3881|lucas.reginatto@ifood.com.br|2024-12-19T19:36:39-03:00|feature/DXAH-2077|CENSORED_COMMIT_MESSAGE|ifood-box-api
+ee455c07|lucas.reginatto@ifood.com.br|2024-12-20T10:40:43-03:00|feature/DXAH-2077|test: Add logs for sandbox tests|ifood-box-api
