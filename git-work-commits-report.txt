@@ -1083,3 +1083,10 @@ Branch: feature/DXAH-2077
 Commit Message: feat: Add new eventType in ReservationEvent logic
 Repository: ifood-box-api
 -------------------
+Commit: e6e6821a
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-21T01:05:57-03:00
+Branch: feature/DXAH-2077
+Commit Message: test: Add logs to test in Production
+Repository: ifood-box-api
+-------------------
