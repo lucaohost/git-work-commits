@@ -1076,3 +1076,10 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Suggested modifications
 Repository: ifood-box-api
 -------------------
+Commit: af58f6f8
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-21T01:05:20-03:00
+Branch: feature/DXAH-2077
+Commit Message: feat: Add new eventType in ReservationEvent logic
+Repository: ifood-box-api
+-------------------
