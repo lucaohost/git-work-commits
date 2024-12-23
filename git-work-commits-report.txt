@@ -1111,3 +1111,10 @@ Branch: feature/DXAH-2077
 Commit Message: test: Update PlacedAtBoxQueueMessageHandler tests
 Repository: ifood-box-api
 -------------------
+Commit: f7e13eb0
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-23T16:42:13-03:00
+Branch: feature/DXAH-2077
+Commit Message: refactor: Remove unnecessary imports
+Repository: ifood-box-api
+-------------------

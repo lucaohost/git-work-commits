@@ -157,3 +157,4 @@ e6e6821a|lucas.reginatto@ifood.com.br|2024-12-21T01:05:57-03:00|feature/DXAH-207
 7f451145|lucas.reginatto@ifood.com.br|2024-12-23T10:31:03-03:00|feature/DXAH-2077|test: Update tests|ifood-box-api
 6381ff92|lucas.reginatto@ifood.com.br|2024-12-23T15:36:00-03:00|feature/DXAH-2077|test: Update BoxController tests|ifood-box-api
 29bd724f|lucas.reginatto@ifood.com.br|2024-12-23T16:35:42-03:00|feature/DXAH-2077|test: Update PlacedAtBoxQueueMessageHandler tests|ifood-box-api
+f7e13eb0|lucas.reginatto@ifood.com.br|2024-12-23T16:42:13-03:00|feature/DXAH-2077|refactor: Remove unnecessary imports|ifood-box-api
