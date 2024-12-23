@@ -154,3 +154,4 @@ ee455c07|lucas.reginatto@ifood.com.br|2024-12-20T10:40:43-03:00|feature/DXAH-207
 6b583178|lucas.reginatto@ifood.com.br|2024-12-20T14:04:33-03:00|feature/DXAH-2077|refactor: Suggested modifications|ifood-box-api
 af58f6f8|lucas.reginatto@ifood.com.br|2024-12-21T01:05:20-03:00|feature/DXAH-2077|feat: Add new eventType in ReservationEvent logic|ifood-box-api
 e6e6821a|lucas.reginatto@ifood.com.br|2024-12-21T01:05:57-03:00|feature/DXAH-2077|test: Add logs to test in Production|ifood-box-api
+7f451145|lucas.reginatto@ifood.com.br|2024-12-23T10:31:03-03:00|feature/DXAH-2077|test: Update tests|ifood-box-api

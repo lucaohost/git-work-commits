@@ -1090,3 +1090,10 @@ Branch: feature/DXAH-2077
 Commit Message: test: Add logs to test in Production
 Repository: ifood-box-api
 -------------------
+Commit: 7f451145
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-23T10:31:03-03:00
+Branch: feature/DXAH-2077
+Commit Message: test: Update tests
+Repository: ifood-box-api
+-------------------
