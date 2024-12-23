@@ -1097,3 +1097,10 @@ Branch: feature/DXAH-2077
 Commit Message: test: Update tests
 Repository: ifood-box-api
 -------------------
+Commit: 6381ff92
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-23T15:36:00-03:00
+Branch: feature/DXAH-2077
+Commit Message: test: Update BoxController tests
+Repository: ifood-box-api
+-------------------
