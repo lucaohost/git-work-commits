@@ -163,3 +163,4 @@ ace58db1|lucas.reginatto@ifood.com.br|2024-12-24T09:30:47-03:00|main|test: Add t
 66415d7d|lucas.reginatto@ifood.com.br|2024-12-24T09:44:41-03:00|main|feat: Add git work commits base logic|git-work-commits
 f1fb2cf4|lucas.reginatto@ifood.com.br|2024-12-24T15:06:10-03:00|feature/DXAH-1971|feat: Add pause/resume LDL|logistics-web-bff
 4cb193d0|lucas.reginatto@ifood.com.br|2024-12-24T15:24:51-03:00|feature/DXAH-1971|docs: Add changelog|logistics-web-bff
+fb164a9d|lucas.reginatto@ifood.com.br|2024-12-24T17:13:23-03:00|feature/DXAH-1971|feat: Add LDL calls to pause/resume|logistics-web-bff
