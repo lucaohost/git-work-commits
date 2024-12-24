@@ -1118,3 +1118,10 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Remove unnecessary imports
 Repository: ifood-box-api
 -------------------
+Commit: f1fb2cf4
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T15:06:10-03:00
+Branch: feature/DXAH-1971
+Commit Message: feat: Add pause/resume LDL
+Repository: logistics-web-bff
+-------------------
