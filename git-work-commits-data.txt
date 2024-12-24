@@ -160,3 +160,4 @@ e6e6821a|lucas.reginatto@ifood.com.br|2024-12-21T01:05:57-03:00|feature/DXAH-207
 29bd724f|lucas.reginatto@ifood.com.br|2024-12-23T16:35:42-03:00|feature/DXAH-2077|test: Update PlacedAtBoxQueueMessageHandler tests|ifood-box-api
 f7e13eb0|lucas.reginatto@ifood.com.br|2024-12-23T16:42:13-03:00|feature/DXAH-2077|refactor: Remove unnecessary imports|ifood-box-api
 ace58db1|lucas.reginatto@ifood.com.br|2024-12-24T09:30:47-03:00|main|test: Add test commmit from work environment|git-work-commits
+66415d7d|lucas.reginatto@ifood.com.br|2024-12-24T09:44:41-03:00|main|feat: Add git work commits base logic|git-work-commits
