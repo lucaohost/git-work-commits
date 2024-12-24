@@ -1132,3 +1132,10 @@ Branch: feature/DXAH-1971
 Commit Message: docs: Add changelog
 Repository: logistics-web-bff
 -------------------
+Commit: fb164a9d
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T17:13:23-03:00
+Branch: feature/DXAH-1971
+Commit Message: feat: Add LDL calls to pause/resume
+Repository: logistics-web-bff
+-------------------
