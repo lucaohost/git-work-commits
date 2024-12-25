@@ -1,4 +1,4 @@
--Commit: 8a97b0d5
+Commit: 8a97b0d5
 Author: lucas.reginatto@ifood.com.br
 Date: 2024-08-20T17:59:36-03:00
 Branch: LDS-1675-2
