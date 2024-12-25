@@ -25,14 +25,14 @@ gu() {
 reflect_commits() {
     local commit_msg="$1"
     commit_info=$(git log --author="professional.email@company.com" --pretty=format:"%h|%ae|%ad|$(git symbolic-ref --short HEAD)|%s|$(basename $(git rev-parse --show-toplevel))" --abbrev=8 --date=iso -n 1)
-    # Save date in a format easily to traverse for shellscript
+    # Save data in a format easily to traverse for shellscript
     echo $commit_info >> $HOME/git/git-work-commits/git-work-commits-data.txt
 
     # Extract commit info
-    IFS='|' read -r hascommit author date branch commitMsg repository <<< "$commit_info"
+    IFS='|' read -r hashCommit author date branch commitMsg repository <<< "$commit_info"
 
     # Generate a report easier to read
-    echo "Commit: $hascommit" >> $HOME/git/git-work-commits/git-work-commits-report.txt
+    echo "Commit: $hashCommit" >> $HOME/git/git-work-commits/git-work-commits-report.txt
     echo "Author: $author" >> $HOME/git/git-work-commits/git-work-commits-report.txt
     echo "Date: $date" >> $HOME/git/git-work-commits/git-work-commits-report.txt
     echo "Branch: $branch" >> $HOME/git/git-work-commits/git-work-commits-report.txt
