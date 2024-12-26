@@ -162,3 +162,4 @@ f1fb2cf4|lucas.reginatto@ifood.com.br|2024-12-24T15:06:10-03:00|feature/DXAH-197
 4cb193d0|lucas.reginatto@ifood.com.br|2024-12-24T15:24:51-03:00|feature/DXAH-1971|docs: Add changelog|logistics-web-bff
 fb164a9d|lucas.reginatto@ifood.com.br|2024-12-24T17:13:23-03:00|feature/DXAH-1971|feat: Add LDL calls to pause/resume|logistics-web-bff
 dc6e16cc|lucas.reginatto@ifood.com.br|2024-12-26T15:59:09-03:00|feature/DXAH-2077|refactor: Rename toggles and improve logs|ifood-box-api
+9db18058|lucas.reginatto@ifood.com.br|2024-12-26T17:49:15-03:00|feature/DXAH-2077|refactor: Improve logs|ifood-box-api

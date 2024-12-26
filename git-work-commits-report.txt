@@ -1146,3 +1146,10 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Rename toggles and improve logs
 Repository: ifood-box-api
 -------------------
+Commit: 9db18058
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-26T17:49:15-03:00
+Branch: feature/DXAH-2077
+Commit Message: refactor: Improve logs
+Repository: ifood-box-api
+-------------------
