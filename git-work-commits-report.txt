@@ -1160,3 +1160,10 @@ Branch: feature/DXAH-1971
 Commit Message: fix: Change request to pause order
 Repository: logistics-web-bff
 -------------------
+Commit: 89006b91
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-27T17:27:11-03:00
+Branch: feature/DXAH-2101
+Commit Message: feat: Add pause/resume endpoints
+Repository: logistics-delivery-lifecycle-shadow
+-------------------

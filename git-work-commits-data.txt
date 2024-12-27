@@ -164,3 +164,4 @@ fb164a9d|lucas.reginatto@ifood.com.br|2024-12-24T17:13:23-03:00|feature/DXAH-197
 dc6e16cc|lucas.reginatto@ifood.com.br|2024-12-26T15:59:09-03:00|feature/DXAH-2077|refactor: Rename toggles and improve logs|ifood-box-api
 9db18058|lucas.reginatto@ifood.com.br|2024-12-26T17:49:15-03:00|feature/DXAH-2077|refactor: Improve logs|ifood-box-api
 37704798|lucas.reginatto@ifood.com.br|2024-12-27T17:10:58-03:00|feature/DXAH-1971|fix: Change request to pause order|logistics-web-bff
+89006b91|lucas.reginatto@ifood.com.br|2024-12-27T17:27:11-03:00|feature/DXAH-2101|feat: Add pause/resume endpoints|logistics-delivery-lifecycle-shadow
