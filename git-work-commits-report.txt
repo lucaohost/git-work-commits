@@ -1153,3 +1153,10 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Improve logs
 Repository: ifood-box-api
 -------------------
+Commit: 37704798
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-27T17:10:58-03:00
+Branch: feature/DXAH-1971
+Commit Message: fix: Change request to pause order
+Repository: logistics-web-bff
+-------------------
