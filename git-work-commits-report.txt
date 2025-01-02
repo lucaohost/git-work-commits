@@ -1167,3 +1167,10 @@ Branch: feature/DXAH-2101
 Commit Message: feat: Add pause/resume endpoints
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 725ead8f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-02T14:12:31-03:00
+Branch: feature/DXAH-2077
+Commit Message: build: Update vulnerable dependencies
+Repository: ifood-box-api
+-------------------
