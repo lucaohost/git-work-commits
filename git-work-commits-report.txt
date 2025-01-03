@@ -1188,3 +1188,10 @@ Branch: feature/DXAH-2077
 Commit Message: build: Update vulnerable dependency
 Repository: ifood-box-api
 -------------------
+Commit: 019fef52
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-03T17:36:36-03:00
+Branch: feature/DXAH-1971
+Commit Message: test: Add new test to new endpoint LDL pause/resume
+Repository: logistics-web-bff
+-------------------

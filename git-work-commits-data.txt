@@ -168,3 +168,4 @@ dc6e16cc|lucas.reginatto@ifood.com.br|2024-12-26T15:59:09-03:00|feature/DXAH-207
 725ead8f|lucas.reginatto@ifood.com.br|2025-01-02T14:12:31-03:00|feature/DXAH-2077|build: Update vulnerable dependencies|ifood-box-api
 4cc17f89|lucas.reginatto@ifood.com.br|2025-01-03T09:59:20-03:00|feature/DXAH-2077|build: Update vulnerable dependency without exclusions|ifood-box-api
 efa58bfb|lucas.reginatto@ifood.com.br|2025-01-03T10:12:40-03:00|feature/DXAH-2077|build: Update vulnerable dependency|ifood-box-api
+019fef52|lucas.reginatto@ifood.com.br|2025-01-03T17:36:36-03:00|feature/DXAH-1971|test: Add new test to new endpoint LDL pause/resume|logistics-web-bff
