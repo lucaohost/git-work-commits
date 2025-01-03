@@ -1181,3 +1181,10 @@ Branch: feature/DXAH-2077
 Commit Message: build: Update vulnerable dependency without exclusions
 Repository: ifood-box-api
 -------------------
+Commit: efa58bfb
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-03T10:12:40-03:00
+Branch: feature/DXAH-2077
+Commit Message: build: Update vulnerable dependency
+Repository: ifood-box-api
+-------------------
