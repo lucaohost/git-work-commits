@@ -1195,3 +1195,10 @@ Branch: feature/DXAH-1971
 Commit Message: test: Add new test to new endpoint LDL pause/resume
 Repository: logistics-web-bff
 -------------------
+Commit: fa0c46da
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-06T10:07:47-03:00
+Branch: feature/DXAH-2134
+Commit Message: fix: Placeholder on setting new password
+Repository: logistics-box-admin-web
+-------------------
