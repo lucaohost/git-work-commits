@@ -1209,3 +1209,10 @@ Branch: feature/DXAH-2134
 Commit Message: docs: Add changelog to pass pipeline
 Repository: logistics-box-admin-web
 -------------------
+Commit: 69120f65
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-06T16:45:56-03:00
+Branch: feature/DXAH-2077
+Commit Message: Merge branch 'master' into feature/DXAH-2077
+Repository: ifood-box-api
+-------------------
