@@ -170,3 +170,4 @@ dc6e16cc|lucas.reginatto@ifood.com.br|2024-12-26T15:59:09-03:00|feature/DXAH-207
 efa58bfb|lucas.reginatto@ifood.com.br|2025-01-03T10:12:40-03:00|feature/DXAH-2077|build: Update vulnerable dependency|ifood-box-api
 019fef52|lucas.reginatto@ifood.com.br|2025-01-03T17:36:36-03:00|feature/DXAH-1971|test: Add new test to new endpoint LDL pause/resume|logistics-web-bff
 fa0c46da|lucas.reginatto@ifood.com.br|2025-01-06T10:07:47-03:00|feature/DXAH-2134|fix: Placeholder on setting new password|logistics-box-admin-web
+77b73fba|lucas.reginatto@ifood.com.br|2025-01-06T11:11:40-03:00|feature/DXAH-2134|docs: Add changelog to pass pipeline|logistics-box-admin-web

@@ -1202,3 +1202,10 @@ Branch: feature/DXAH-2134
 Commit Message: fix: Placeholder on setting new password
 Repository: logistics-box-admin-web
 -------------------
+Commit: 77b73fba
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-06T11:11:40-03:00
+Branch: feature/DXAH-2134
+Commit Message: docs: Add changelog to pass pipeline
+Repository: logistics-box-admin-web
+-------------------
