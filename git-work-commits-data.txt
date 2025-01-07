@@ -8,8 +8,7 @@
 3b1a7410|lucas.reginatto@ifood.com.br|2024-08-22T14:11:51-03:00|LDS-1675|Change name IAM role for the new one to migrate IAM to IRSA|logistics-driver-support-notifications
 8098bc38|lucas.reginatto@ifood.com.br|2024-08-22T16:18:46-03:00|1675-3|Chore(AWS): Fix k8s_service_account to migrate IAM login to IRSA|aws-infrastructure-live
 8098bc38|lucas.reginatto@ifood.com.br|2024-08-22T16:18:46-03:00|LDS-1677-2|Chore(AWS): Fix k8s_service_account to migrate IAM login to IRSA|aws-infrastructure-live
-9733a76c|lucas.reginatto@ifood.com.br|2024-08-23T11:46:10-03:00|LDS-1675-2|Remove name from serviceAccount - The name field is not necessary to fill in as it will be based on the service_name - Related doc: https://ifood.atlassian.net/browse/LDS-1675|logistics-driver-support-notifications
-9733a76c|lucas.reginatto@ifood.com.br|2024-08-23T11:46:10-03:00|LDS-1675|Remove name from serviceAccount - The name field is not necessary to fill in as it will be based on the service_name - Related doc: https://ifood.atlassian.net/browse/LDS-1675|logistics-driver-support-notifications
+9733a76c|lucas.reginatto@ifood.com.br|2024-08-23T11:46:10-03:00|LDS-1675-2|CENSORED_COMMIT_MESSAGE|logistics-driver-support-notifications
 11d05c20|lucas.reginatto@ifood.com.br|2024-08-28T15:20:05-03:00|LDS-1675-2|Revert production changes to deploy sandbox|logistics-driver-support-notifications
 11d05c20|lucas.reginatto@ifood.com.br|2024-08-28T15:20:05-03:00|LDS-1675|Revert production changes to deploy sandbox|logistics-driver-support-notifications
 40bd2171|lucas.reginatto@ifood.com.br|2024-08-28T15:22:58-03:00|LDS-1675-2|Revert production changes to deploy sandbox|logistics-driver-support-notifications
@@ -41,13 +40,13 @@ d3a90002|lucas.reginatto@ifood.com.br|2024-09-17T14:30:47-03:00|LDS-1677-3|Modif
 ee4f891c|lucas.reginatto@ifood.com.br|2024-09-18T09:35:05-03:00|LDS-1677-3|Update changelog|logistics-driver-chat-notifications
 62385247|lucas.reginatto@ifood.com.br|2024-09-18T09:36:11-03:00|LDS-1677-3|Remove unnecessary serviceAccount name|logistics-driver-chat-notifications
 374ff4a2|lucas.reginatto@ifood.com.br|2024-09-18T09:55:31-03:00|LDS-1677-2|Chore(AWS): Migrate Production to IRSA logistics-driver-chat-notifications|aws-infrastructure-live
-580d6b38|lucas.reginatto@ifood.com.br|2024-09-18T11:16:44-03:00|LDS-1677-2|Atualiza policy_statements logistics-driver-chat-notifications - Realizando migração para IRSA, o time de PSE fez essa modificação em sandbox e estou replicando para production - O resource diferente um pouco porque a amazon account de production é diferente|aws-infrastructure-live
+580d6b38|lucas.reginatto@ifood.com.br|2024-09-18T11:16:44-03:00|LDS-1677-2|CENSORED_COMMIT_MESSAGE|aws-infrastructure-live
 8ecebfed|lucas.reginatto@ifood.com.br|2024-09-18T11:41:23-03:00|LDS-1677-3|Merge branch 'LDS-1677-4' into LDS-1677-3|logistics-driver-chat-notifications
-b96f48fe|lucas.reginatto@ifood.com.br|2024-09-18T16:57:07-03:00|LDS-1677-3|Remove configuração de credenciais desnecessária - No AwsConfig é dado new AmazonConfiguration, onde por default é utilizado CredentialProvideType Default|logistics-driver-chat-notifications
-305f0125|lucas.reginatto@ifood.com.br|2024-09-18T17:30:23-03:00|LDS-1677-3|Remove propiedades desnecessárias application-dev - essas props já são atribuída no application.yml|logistics-driver-chat-notifications
-195a61d9|lucas.reginatto@ifood.com.br|2024-09-19T11:25:50-03:00|LDS-1677-3|Corrige amazon account em sandbox - acabei copiando as props de prod e alterei de forma errada, então estou revertendo a modificação|logistics-driver-chat-notifications
-05f3caaa|lucas.reginatto@ifood.com.br|2024-09-19T17:51:02-03:00|LDS-1677-3|Corrige SQS não subindo - Adiconei AWS Configs faltantes, que tinham sido removidas - Corrigi scritp de test - Atualizei versão gradle adapter para equiparar ao gradle geral Co-authored-by: Thiago Henrique De Oliveira <thiago.henrique@ifood.com.br>|logistics-driver-chat-notifications
-e31a6664|lucas.reginatto@ifood.com.br|2024-09-19T18:21:37-03:00|LDS-1730|Add docker compose support in makefile - Use docker compose instead docker-compose if it’s installed|logistics-driver-chat-notifications
+b96f48fe|lucas.reginatto@ifood.com.br|2024-09-18T16:57:07-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+305f0125|lucas.reginatto@ifood.com.br|2024-09-18T17:30:23-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+195a61d9|lucas.reginatto@ifood.com.br|2024-09-19T11:25:50-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+05f3caaa|lucas.reginatto@ifood.com.br|2024-09-19T17:51:02-03:00|LDS-1677-3|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+e31a6664|lucas.reginatto@ifood.com.br|2024-09-19T18:21:37-03:00|LDS-1730|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
 ea43ed37|lucas.reginatto@ifood.com.br|2024-09-19T18:31:40-03:00|LDS-1730|Add changelog|logistics-driver-chat-notifications
 0a37feaa|lucas.reginatto@ifood.com.br|2024-09-25T23:19:24-03:00|main|Initial commit|environment-ifood
 c862577d|lucas.reginatto@ifood.com.br|2024-10-02T10:20:14-03:00|LDS-1730|Chore(AWS): IRSA Migration|logistics-driver-chat-notifications
@@ -56,13 +55,13 @@ b28926af|lucas.reginatto@ifood.com.br|2024-10-02T10:20:15-03:00|LDS-1730|Merge b
 3267f696|lucas.reginatto@ifood.com.br|2024-10-02T11:48:33-03:00|LDS-1730|Update vulnerable dependencies|logistics-driver-chat-notifications
 78a29216|lucas.reginatto@ifood.com.br|2024-10-02T11:50:44-03:00|LDS-1730|Update changelog|logistics-driver-chat-notifications
 7829530d|lucas.reginatto@ifood.com.br|2024-10-03T10:33:47-03:00|LDS-1730|Trigger pipeline and add sandbox test|logistics-driver-chat-notifications
-bc95883b|lucas.reginatto@ifood.com.br|2024-10-03T17:08:52-03:00|LDS-1730|Bump org.apache.avro:avro to 1.11.4|logistics-driver-chat-notifications
+bc95883b|lucas.reginatto@ifood.com.br|2024-10-03T17:08:52-03:00|LDS-1730|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
 8fce705f|lucas.reginatto@ifood.com.br|2024-10-03T17:10:38-03:00|LDS-1730|update changelog|logistics-driver-chat-notifications
 ae89c876|lucas.reginatto@ifood.com.br|2024-10-03T17:11:14-03:00|LDS-1730|Add sandbox test to verify if still working well|logistics-driver-chat-notifications
 a4149358|lucas.reginatto@ifood.com.br|2024-10-03T17:11:54-03:00|LDS-1730|Add sandbox test to verify if still working well|logistics-driver-chat-notifications
 47155f2b|lucas.reginatto@ifood.com.br|2024-10-03T17:41:37-03:00|LDS-1730|Remove test|logistics-driver-chat-notifications
-a404fd72|lucas.reginatto@ifood.com.br|2024-10-04T10:43:33-03:00|LDS-1730|Bump org.apache.avro:avro to 1.11.4|logistics-driver-chat-notifications
-a1b4af53|lucas.reginatto@ifood.com.br|2024-10-04T17:43:45-03:00|SWDHERO-69|Update Handshake endpoints to accept unknown fields - I don't know the context yet, but I'm trying to discover.|logistics-chatbot-actions
+a404fd72|lucas.reginatto@ifood.com.br|2024-10-04T10:43:33-03:00|LDS-1730|CENSORED_COMMIT_MESSAGE|logistics-driver-chat-notifications
+a1b4af53|lucas.reginatto@ifood.com.br|2024-10-04T17:43:45-03:00|SWDHERO-69|CENSORED_COMMIT_MESSAGE|logistics-chatbot-actions
 e8d91587|lucas.reginatto@ifood.com.br|2024-10-08T10:02:08-03:00|LDS-1730|Merge branch 'main' into LDS-1730|logistics-driver-chat-notifications
 dc5025e9|lucas.reginatto@ifood.com.br|2024-10-08T10:03:41-03:00|LDS-1730|fix changelog|logistics-driver-chat-notifications
 febe6a66|lucas.reginatto@ifood.com.br|2024-10-09T15:13:30-03:00|SWDHERO-69|Add unknown fields in handshake|logistics-chatbot-actions
@@ -89,23 +88,23 @@ f28e0103|lucas.reginatto@ifood.com.br|2024-10-22T10:12:26-03:00|DXAH-1636|Refact
 5c3e656f|lucas.reginatto@ifood.com.br|2024-10-24T16:08:01-03:00|DXAH-1636|Commit to retrigger pipeline|agent-helper-bff
 625c7574|lucas.reginatto@ifood.com.br|2024-10-24T18:05:02-03:00|feature/DXAH-1879|docs: Update README to avoid package-log.json modifications|logistics-web-bff
 5aa7d4ef|lucas.reginatto@ifood.com.br|2024-10-25T18:16:06-03:00|feature/DXAH-1879|test: Add tests to new offline payment endpoint|logistics-web-bff
-96cd02ec|lucas.reginatto@ifood.com.br|2024-10-29T10:38:48-03:00|feature/DXAH-1879|Modify Mpos http config service - The base path it will not be used in all requests - Removing await because VSCode is warning it's useless in this case|logistics-web-bff
+96cd02ec|lucas.reginatto@ifood.com.br|2024-10-29T10:38:48-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 81de43a2|lucas.reginatto@ifood.com.br|2024-10-29T14:52:58-03:00|feature/DXAH-1879|Fix tests to new payment attempts endpoint|logistics-web-bff
 d0dbf494|lucas.reginatto@ifood.com.br|2024-10-29T15:09:55-03:00|feature/DXAH-1879|Remove unnecessary feature toggle mock|logistics-web-bff
 b5f4b8f2|lucas.reginatto@ifood.com.br|2024-10-29T15:33:59-03:00|feature/DXAH-1879|Add changelog|logistics-web-bff
-78789a53|lucas.reginatto@ifood.com.br|2024-10-30T18:10:31-03:00|feature/DXAH-1879|Add new offline payment - I needed create a new http client, because the host is different|logistics-web-bff
-c2cc247e|lucas.reginatto@ifood.com.br|2024-10-31T14:06:53-03:00|feature/DXAH-1879|refactor: Change base URL offline payments - It's in the same network, we can call the k8s cluster directly - No need to use APIs registered in Kong|logistics-web-bff
+78789a53|lucas.reginatto@ifood.com.br|2024-10-30T18:10:31-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
+c2cc247e|lucas.reginatto@ifood.com.br|2024-10-31T14:06:53-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 4b6b6e68|lucas.reginatto@ifood.com.br|2024-10-31T17:05:30-03:00|feature/DXAH-1879|feat: Add yolo url|logistics-web-bff
-a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-1879-2|feat: Sadnbox test with clean main - I'm getting 500 when I deploy my branch in sandbox - I want to test if I'll have the same problem with the main branch in sandbox|logistics-web-bff
+a4dfddb5|lucas.reginatto@ifood.com.br|2024-11-04T10:34:32-03:00|feature/DXAH-1879-2|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 4f56e96d|lucas.reginatto@ifood.com.br|2024-11-04T15:12:53-03:00|feature/DXAH-1879|fix: Change httpClient use depending on feature toggle|logistics-web-bff
 cf56daf7|lucas.reginatto@ifood.com.br|2024-11-04T18:23:06-03:00|feature/DXAH-1879|fix: HttpService injection in mpo event client|logistics-web-bff
 1fc60c5b|lucas.reginatto@ifood.com.br|2024-11-05T13:52:51-03:00|feature/DXAH-1879|test: Change offline payment attempts tests|logistics-web-bff
-8175be42|lucas.reginatto@ifood.com.br|2024-11-05T14:00:02-03:00|feature/DXAH-1879|test: Change delivery search order tests - Now, the host for offline payment attempts is different|logistics-web-bff
-2d228206|lucas.reginatto@ifood.com.br|2024-11-05T14:02:00-03:00|feature/DXAH-1879|test: Change delivery search v2 tests - Now, the host for offline payment attempts is different|logistics-web-bff
-89bf346d|lucas.reginatto@ifood.com.br|2024-11-05T14:03:39-03:00|feature/DXAH-1879|test: Change search order tests - Now, the host for offline payment attempts is different|logistics-web-bff
+8175be42|lucas.reginatto@ifood.com.br|2024-11-05T14:00:02-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
+2d228206|lucas.reginatto@ifood.com.br|2024-11-05T14:02:00-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
+89bf346d|lucas.reginatto@ifood.com.br|2024-11-05T14:03:39-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-web-bff
 32893dcf|lucas.reginatto@ifood.com.br|2024-11-11T14:29:56-03:00|feature/DXAH-1981|Feat: Migrate endpoint offline payment|logistics-web-bff
 63d6f812|lucas.reginatto@ifood.com.br|2024-11-11T14:29:56-03:00|feature/DXAH-1981|Merge branch 'feature/DXAH-1879' into 'main'|logistics-web-bff
-dcbfb7ef|lucas.reginatto@ifood.com.br|2024-11-12T11:24:11-03:00|feature/DXAH-1879|feat: Add GET method for logistics-web-bff - When logistics-web-bff try to get failed-payments it's receiving 403 Forbiden|logistics-delivery-offline-payment
+dcbfb7ef|lucas.reginatto@ifood.com.br|2024-11-12T11:24:11-03:00|feature/DXAH-1879|CENSORED_COMMIT_MESSAGE|logistics-delivery-offline-payment
 9ac6274c|lucas.reginatto@ifood.com.br|2024-11-12T11:44:18-03:00|feature/DXAH-1879|Add changelog|logistics-delivery-offline-payment
 1e8cd0f3|lucas.reginatto@ifood.com.br|2024-11-19T18:31:46-03:00|feature/DXAH-1981|Add Manual Allocation endpoint|logistics-delivery-lifecycle-shadow
 711c807b|lucas.reginatto@ifood.com.br|2024-11-22T17:11:58-03:00|feature/DXAH-1981|Add Manual Allocation endpoint|logistics-delivery-lifecycle-shadow
@@ -138,7 +137,7 @@ b343e2a3|lucas.reginatto@ifood.com.br|2024-12-10T17:23:32-03:00|feature/DXAH-198
 10972744|lucas.reginatto@ifood.com.br|2024-12-11T09:06:18-03:00|feature/DXAH-1981|test: Add test to Manual Allocation|logistics-delivery-lifecycle-shadow
 fe394091|lucas.reginatto@ifood.com.br|2024-12-11T09:43:52-03:00|feature/DXAH-1981|feat: Add changelog|logistics-delivery-lifecycle-shadow
 efd9a3fc|lucas.reginatto@ifood.com.br|2024-12-11T13:25:48-03:00|feature/DXAH-1981|refactor: Remove unnecessary imports|logistics-web-bff
-4a61152c|lucas.reginatto@ifood.com.br|2024-12-11T14:43:03-03:00|build/SEC-590702|build: Update vulnerable version in spring-security-web|logistics-box-admin-api
+4a61152c|lucas.reginatto@ifood.com.br|2024-12-11T14:43:03-03:00|build/SEC-590702|CENSORED_COMMIT_MESSAGE|logistics-box-admin-api
 534c719b|lucas.reginatto@ifood.com.br|2024-12-11T16:08:25-03:00|build/SEC-590702|docs: Add environment URLs|logistics-box-admin-api
 b98957c9|lucas.reginatto@ifood.com.br|2024-12-12T10:04:28-03:00|feature/DXAH-1981|Merge branch 'main' into feature/DXAH-1981|logistics-delivery-lifecycle-shadow
 d26dfcfa|lucas.reginatto@ifood.com.br|2024-12-18T14:02:26-03:00|feature/DXAH-2077|feat: Change Event Type PLACED_AT_BOX|ifood-box-api
@@ -147,7 +146,7 @@ c62c9493|lucas.reginatto@ifood.com.br|2024-12-19T18:26:28-03:00|feature/DXAH-207
 9ea9eccd|lucas.reginatto@ifood.com.br|2024-12-19T18:26:51-03:00|feature/DXAH-2077|test: Update test PlacedAtBox|ifood-box-api
 c6697668|lucas.reginatto@ifood.com.br|2024-12-19T19:04:05-03:00|feature/DXAH-2077|test: Update OrderDeliveredLifeCycle Tests|ifood-box-api
 f21fe1d1|lucas.reginatto@ifood.com.br|2024-12-19T19:26:15-03:00|feature/DXAH-2077|test: Update OrderDriverFeedbackServiceTest|ifood-box-api
-6e2e3881|lucas.reginatto@ifood.com.br|2024-12-19T19:36:39-03:00|feature/DXAH-2077|build: Bump kafka-clients vulnerable version|ifood-box-api
+6e2e3881|lucas.reginatto@ifood.com.br|2024-12-19T19:36:39-03:00|feature/DXAH-2077|CENSORED_COMMIT_MESSAGE|ifood-box-api
 ee455c07|lucas.reginatto@ifood.com.br|2024-12-20T10:40:43-03:00|feature/DXAH-2077|test: Add logs for sandbox tests|ifood-box-api
 8573fb80|lucas.reginatto@ifood.com.br|2024-12-20T10:49:51-03:00|feature/DXAH-2077|test: Add logs for sandbox tests|ifood-box-api
 6f328ef7|lucas.reginatto@ifood.com.br|2024-12-20T10:54:03-03:00|feature/DXAH-2077|refactor: Remove queueSender from PlacedAtBoxOrderV3Publisher|ifood-box-api
