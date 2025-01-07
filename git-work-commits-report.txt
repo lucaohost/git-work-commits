@@ -1237,3 +1237,10 @@ Branch: feature/DXAH-2077
 Commit Message: Merge branch 'master' into feature/DXAH-2077
 Repository: ifood-box-api
 -------------------
+Commit: 5c277d2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T15:02:59-03:00
+Branch: main
+Commit Message: CENSORED_COMMIT_MESSAGE
+Repository: environment
+-------------------
