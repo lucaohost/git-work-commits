@@ -18,6 +18,19 @@ gu() {
     fi
 }
 ```
+Or in case of sensitive information
+## guc (Git Update Censored)
+```bash
+guc() {
+    local commit_msg="$*" # Need to use $* to get all words passed without quotes
+    git add -A
+    git commit -m "$(printf "%b" "$commit_msg")"  # Interprets \n as a new line
+    git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)
+    if [ $(hostname) != "LucaS" ]; then # Prevents the script from running on my personal laptop
+        reflect_commits "CENSORED_COMMIT_MESSAGE"
+    fi
+}
+```
 
 ## Commit Reflection Logic
 
