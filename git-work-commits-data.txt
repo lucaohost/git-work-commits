@@ -172,3 +172,4 @@ efa58bfb|lucas.reginatto@ifood.com.br|2025-01-03T10:12:40-03:00|feature/DXAH-207
 fa0c46da|lucas.reginatto@ifood.com.br|2025-01-06T10:07:47-03:00|feature/DXAH-2134|fix: Placeholder on setting new password|logistics-box-admin-web
 77b73fba|lucas.reginatto@ifood.com.br|2025-01-06T11:11:40-03:00|feature/DXAH-2134|docs: Add changelog to pass pipeline|logistics-box-admin-web
 69120f65|lucas.reginatto@ifood.com.br|2025-01-06T16:45:56-03:00|feature/DXAH-2077|Merge branch 'master' into feature/DXAH-2077|ifood-box-api
+0ac9aa10|lucas.reginatto@ifood.com.br|2025-01-09T17:05:47-03:00|feature/DXAH-1971|refactor: Update Swagger annotations in DeliveryLifecycleController|logistics-web-bff
