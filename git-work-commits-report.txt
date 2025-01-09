@@ -1237,3 +1237,10 @@ Branch: main
 Commit Message: CENSORED_COMMIT_MESSAGE
 Repository: environment
 -------------------
+Commit: 0ac9aa10
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-09T17:05:47-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Update Swagger annotations in DeliveryLifecycleController
+Repository: logistics-web-bff
+-------------------
