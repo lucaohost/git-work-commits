@@ -1223,3 +1223,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Update Swagger annotations in DeliveryLifecycleController
 Repository: logistics-web-bff
 -------------------
+Commit: e98545e2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-09T18:35:30-03:00
+Branch: feature/DXAH-1971
+Commit Message: test: Add new tests on LDL Controller
+Repository: logistics-web-bff
+-------------------
