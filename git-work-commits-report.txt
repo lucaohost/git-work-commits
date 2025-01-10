@@ -1265,3 +1265,10 @@ Branch: main
 Commit Message: feat: Add repositories to use personal email
 Repository: environment
 -------------------
+Commit: 5c277d2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T15:02:59-03:00
+Branch: main
+Commit Message: feat: Update commit email based on repository and computer
+Repository: environment
+-------------------
