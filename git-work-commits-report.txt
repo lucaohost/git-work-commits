@@ -1286,3 +1286,10 @@ Branch: main
 Commit Message: feat: Add error handling for empty commit info
 Repository: environment
 -------------------
+Commit: ee3aeb64
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-10T17:06:20-03:00
+Branch: main
+Commit Message: docs: Shell script -z flag
+Repository: my-notes
+-------------------
