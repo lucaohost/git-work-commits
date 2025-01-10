@@ -180,3 +180,4 @@ e98545e2|lucas.reginatto@ifood.com.br|2025-01-09T18:35:30-03:00|feature/DXAH-197
 af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-1971||logistics-web-bff
 b25bbc3e|lucas.reginatto@ifood.com.br|2025-01-10T16:39:31-03:00|main||environment
 5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
+73062dd4|lucas.reginatto@ifood.com.br|2025-01-10T16:46:31-03:00|main|private-notes|docs: Name patterns
