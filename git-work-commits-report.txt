@@ -1279,3 +1279,10 @@ Branch: main
 Commit Message: docs: Name patterns
 Repository: private-notes
 -------------------
+Commit: 5c277d2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T15:02:59-03:00
+Branch: main
+Commit Message: feat: Add error handling for empty commit info
+Repository: environment
+-------------------
