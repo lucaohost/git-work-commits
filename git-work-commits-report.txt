@@ -1300,3 +1300,10 @@ Branch: main
 Commit Message: feat: Avoid reflect personal commits repos in company laptop
 Repository: environment
 -------------------
+Commit: 5c277d2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2024-12-24T15:02:59-03:00
+Branch: main
+Commit Message: reafctor: Remove complexity on commits reflection
+Repository: environment
+-------------------
