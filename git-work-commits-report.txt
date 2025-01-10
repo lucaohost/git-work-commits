@@ -1118,20 +1118,6 @@ Branch: feature/DXAH-2077
 Commit Message: refactor: Remove unnecessary imports
 Repository: ifood-box-api
 -------------------
-Commit: ace58db1
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T09:30:47-03:00
-Branch: main
-Commit Message: test: Add test commmit from work environment
-Repository: git-work-commits
--------------------
-Commit: 66415d7d
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T09:44:41-03:00
-Branch: main
-Commit Message: feat: Add git work commits base logic
-Repository: git-work-commits
--------------------
 Commit: f1fb2cf4
 Author: lucas.reginatto@ifood.com.br
 Date: 2024-12-24T15:06:10-03:00
@@ -1230,13 +1216,6 @@ Branch: feature/DXAH-2077
 Commit Message: Merge branch 'master' into feature/DXAH-2077
 Repository: ifood-box-api
 -------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: CENSORED_COMMIT_MESSAGE
-Repository: environment
--------------------
 Commit: 0ac9aa10
 Author: lucas.reginatto@ifood.com.br
 Date: 2025-01-09T17:05:47-03:00
@@ -1257,67 +1236,4 @@ Date: 2025-01-10T09:54:25-03:00
 Branch: feature/DXAH-1971
 Commit Message: build: Merge branch 'main' into feature/DXAH-1971 to avoid conflicts
 Repository: logistics-web-bff
--------------------
-Commit: b25bbc3e
-Author: lucas.reginatto@ifood.com.br
-Date: 2025-01-10T16:39:31-03:00
-Branch: main
-Commit Message: feat: Add repositories to use personal email
-Repository: environment
--------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: feat: Update commit email based on repository and computer
-Repository: environment
--------------------
-Commit:73062dd4 
-Author:lucas.reginatto@ifood.com.br
-Date: 2025-01-10T16:46:31-03:00
-Branch: main
-Commit Message: docs: Name patterns
-Repository: private-notes
--------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: feat: Add error handling for empty commit info
-Repository: environment
--------------------
-Commit: ee3aeb64
-Author: lucas.reginatto@ifood.com.br
-Date: 2025-01-10T17:06:20-03:00
-Branch: main
-Commit Message: docs: Shell script -z flag
-Repository: my-notes
--------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: feat: Avoid reflect personal commits repos in company laptop
-Repository: environment
--------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: reafctor: Remove complexity on commits reflection
-Repository: environment
--------------------
-Commit: ee3aeb64
-Author: lucas.reginatto@ifood.com.br
-Date: 2025-01-10T17:06:20-03:00
-Branch: main
-Commit Message: docs: Difference between exit and return
-Repository: my-notes
--------------------
-Commit: 5c277d2f
-Author: lucas.reginatto@ifood.com.br
-Date: 2024-12-24T15:02:59-03:00
-Branch: main
-Commit Message: refactor: Remove personal repository commits reflection
-Repository: environment
 -------------------

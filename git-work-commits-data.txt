@@ -24,14 +24,14 @@ f4528a84|lucas.reginatto@ifood.com.br|2024-09-02T16:15:30-03:00|LDS-1675-2|Chore
 320a333e|lucas.reginatto@ifood.com.br|2024-09-05T10:06:08-03:00|1675-3|Chore: Change k8s props to migrate IAM to IRSA Production|aws-infrastructure-live
 320a333e|lucas.reginatto@ifood.com.br|2024-09-05T10:06:08-03:00|LDS-1677-2|Chore: Change k8s props to migrate IAM to IRSA Production|aws-infrastructure-live
 9556cd44|lucas.reginatto@ifood.com.br|2024-09-05T11:22:12-03:00|LDS-1677-2|Chore(AWS): Migrate Sandbox to IRSA logistics-driver-chat-notifications|aws-infrastructure-live
-ebbd5879|lucas.reginatto@ifood.com.br|2024-09-05T11:25:31-03:00|1675-3|Chore(AWS): Modify IAM role IRSA migration logistics-driver-chat-notificarions Sandbox|aws-infrastructure-live
+ebbd5879|lucas.reginatto@ifood.com.br|2024-09-05T11:25:31-03:00|1675-3|Chore(AWS): Modify IAM role IRSA migration logistics-driver-chat-notifications Sandbox|aws-infrastructure-live
 e142c517|lucas.reginatto@ifood.com.br|2024-09-05T16:33:11-03:00|LDS-1677-2|Chore(AWS): Modify IAM role IRSA migration logistics-driver-support-notifications Production|aws-infrastructure-live
 b5282232|lucas.reginatto@ifood.com.br|2024-09-05T16:33:43-03:00|LDS-1677-2|Chore(AWS): Modify IAM role IRSA migration logistics-driver-support-notifications Sandbox|aws-infrastructure-live
 4649d112|lucas.reginatto@ifood.com.br|2024-09-10T14:44:55-03:00|LDS-1677-3|Remove unnecessary dependency|logistics-driver-chat-notifications
 a6ddf2c9|lucas.reginatto@ifood.com.br|2024-09-13T16:00:41-03:00|LDS-1677-3|Add aws java sdk|logistics-driver-chat-notifications
 65354cfa|lucas.reginatto@ifood.com.br|2024-09-16T14:54:59-03:00|LDS-1677-3|Add full sqs configs to test sandbox deploy|logistics-driver-chat-notifications
 3f35f59c|lucas.reginatto@ifood.com.br|2024-09-16T16:44:26-03:00|LDS-1677-3|Increase memory to test sandbox deploy|logistics-driver-chat-notifications
-6ba136ec|lucas.reginatto@ifood.com.br|2024-09-16T17:38:50-03:00|LDS-1677-3|Add default aws credentails to test sandbox deploy|logistics-driver-chat-notifications
+6ba136ec|lucas.reginatto@ifood.com.br|2024-09-16T17:38:50-03:00|LDS-1677-3|Add default aws credentials to test sandbox deploy|logistics-driver-chat-notifications
 72bb1730|lucas.reginatto@ifood.com.br|2024-09-17T10:52:50-03:00|LDS-1677-3|Change aws config to test sandbox deploy|logistics-driver-chat-notifications
 803d4c25|lucas.reginatto@ifood.com.br|2024-09-17T14:22:46-03:00|LDS-1677-3|Modify aws configurations|logistics-driver-chat-notifications
 fdf001dc|lucas.reginatto@ifood.com.br|2024-09-17T14:28:31-03:00|LDS-1677-3|Revert "Modify aws configurations"|logistics-driver-chat-notifications
@@ -158,8 +158,6 @@ e6e6821a|lucas.reginatto@ifood.com.br|2024-12-21T01:05:57-03:00|feature/DXAH-207
 6381ff92|lucas.reginatto@ifood.com.br|2024-12-23T15:36:00-03:00|feature/DXAH-2077|test: Update BoxController tests|ifood-box-api
 29bd724f|lucas.reginatto@ifood.com.br|2024-12-23T16:35:42-03:00|feature/DXAH-2077|test: Update PlacedAtBoxQueueMessageHandler tests|ifood-box-api
 f7e13eb0|lucas.reginatto@ifood.com.br|2024-12-23T16:42:13-03:00|feature/DXAH-2077|refactor: Remove unnecessary imports|ifood-box-api
-ace58db1|lucas.reginatto@ifood.com.br|2024-12-24T09:30:47-03:00|main|test: Add test commmit from work environment|git-work-commits
-66415d7d|lucas.reginatto@ifood.com.br|2024-12-24T09:44:41-03:00|main|feat: Add git work commits base logic|git-work-commits
 f1fb2cf4|lucas.reginatto@ifood.com.br|2024-12-24T15:06:10-03:00|feature/DXAH-1971|feat: Add pause/resume LDL|logistics-web-bff
 4cb193d0|lucas.reginatto@ifood.com.br|2024-12-24T15:24:51-03:00|feature/DXAH-1971|docs: Add changelog|logistics-web-bff
 fb164a9d|lucas.reginatto@ifood.com.br|2024-12-24T17:13:23-03:00|feature/DXAH-1971|feat: Add LDL calls to pause/resume|logistics-web-bff
@@ -174,16 +172,6 @@ efa58bfb|lucas.reginatto@ifood.com.br|2025-01-03T10:12:40-03:00|feature/DXAH-207
 fa0c46da|lucas.reginatto@ifood.com.br|2025-01-06T10:07:47-03:00|feature/DXAH-2134|fix: Placeholder on setting new password|logistics-box-admin-web
 77b73fba|lucas.reginatto@ifood.com.br|2025-01-06T11:11:40-03:00|feature/DXAH-2134|docs: Add changelog to pass pipeline|logistics-box-admin-web
 69120f65|lucas.reginatto@ifood.com.br|2025-01-06T16:45:56-03:00|feature/DXAH-2077|Merge branch 'master' into feature/DXAH-2077|ifood-box-api
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main|CENSORED_COMMIT_MESSAGE|environment
 0ac9aa10|lucas.reginatto@ifood.com.br|2025-01-09T17:05:47-03:00|feature/DXAH-1971|refactor: Update Swagger annotations in DeliveryLifecycleController|logistics-web-bff
 e98545e2|lucas.reginatto@ifood.com.br|2025-01-09T18:35:30-03:00|feature/DXAH-1971||logistics-web-bff
 af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-1971||logistics-web-bff
-b25bbc3e|lucas.reginatto@ifood.com.br|2025-01-10T16:39:31-03:00|main||environment
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
-73062dd4|lucas.reginatto@ifood.com.br|2025-01-10T16:46:31-03:00|main|private-notes|docs: Name patterns
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
-ee3aeb64|lucas.reginatto@ifood.com.br|2025-01-10T17:06:20-03:00|main|docs: Shell script|my-notes
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
-ee3aeb64|lucas.reginatto@ifood.com.br|2025-01-10T17:06:20-03:00|main|docs: Shell script|my-notes
-5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
