@@ -1258,3 +1258,10 @@ Branch: feature/DXAH-1971
 Commit Message: build: Merge branch 'main' into feature/DXAH-1971 to avoid conflicts
 Repository: logistics-web-bff
 -------------------
+Commit: b25bbc3e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-10T16:39:31-03:00
+Branch: main
+Commit Message: feat: Add repositories to use personal email
+Repository: environment
+-------------------
