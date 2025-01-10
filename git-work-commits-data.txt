@@ -185,3 +185,4 @@ b25bbc3e|lucas.reginatto@ifood.com.br|2025-01-10T16:39:31-03:00|main||environmen
 ee3aeb64|lucas.reginatto@ifood.com.br|2025-01-10T17:06:20-03:00|main|docs: Shell script|my-notes
 5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
 5c277d2f|lucas.reginatto@ifood.com.br|2024-12-24T15:02:59-03:00|main||environment
+ee3aeb64|lucas.reginatto@ifood.com.br|2025-01-10T17:06:20-03:00|main|docs: Shell script|my-notes

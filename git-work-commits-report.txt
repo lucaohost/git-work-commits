@@ -1307,3 +1307,10 @@ Branch: main
 Commit Message: reafctor: Remove complexity on commits reflection
 Repository: environment
 -------------------
+Commit: ee3aeb64
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-10T17:06:20-03:00
+Branch: main
+Commit Message: docs: Difference between exit and return
+Repository: my-notes
+-------------------
