@@ -176,3 +176,4 @@ fa0c46da|lucas.reginatto@ifood.com.br|2025-01-06T10:07:47-03:00|feature/DXAH-213
 e98545e2|lucas.reginatto@ifood.com.br|2025-01-09T18:35:30-03:00|feature/DXAH-1971|test: Add new tests on LDL Controller|logistics-web-bff
 af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-1971|build: Merge branch 'main' into feature/DXAH-1971 to avoid conflicts|logistics-web-bff
 0a96c8d8|lucas.reginatto@ifood.com.br|2025-01-11T21:12:42-03:00|feature/DXAH-1971|test: Add test to LDL resume order endpoint|logistics-web-bff
+db69798d|lucas.reginatto@ifood.com.br|2025-01-11T20:57:00-03:00|feature/DXAH-1971|refactor: Update endpoint for resuming delivery order in DeliveryLifecycleShadowClient|logistics-web-bff
