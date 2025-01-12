@@ -1244,3 +1244,10 @@ Branch: feature/DXAH-1971
 Commit Message: test: Add test to LDL resume order endpoint
 Repository: logistics-web-bff
 -------------------
+Commit: db69798d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-11T20:57:00-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Update endpoint for resuming delivery order in DeliveryLifecycleShadowClient
+Repository: logistics-web-bff
+-------------------

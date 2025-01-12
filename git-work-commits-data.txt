@@ -173,6 +173,7 @@ fa0c46da|lucas.reginatto@ifood.com.br|2025-01-06T10:07:47-03:00|feature/DXAH-213
 77b73fba|lucas.reginatto@ifood.com.br|2025-01-06T11:11:40-03:00|feature/DXAH-2134|docs: Add changelog to pass pipeline|logistics-box-admin-web
 69120f65|lucas.reginatto@ifood.com.br|2025-01-06T16:45:56-03:00|feature/DXAH-2077|Merge branch 'master' into feature/DXAH-2077|ifood-box-api
 0ac9aa10|lucas.reginatto@ifood.com.br|2025-01-09T17:05:47-03:00|feature/DXAH-1971|refactor: Update Swagger annotations in DeliveryLifecycleController|logistics-web-bff
-e98545e2|lucas.reginatto@ifood.com.br|2025-01-09T18:35:30-03:00|feature/DXAH-1971||logistics-web-bff
-af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-1971||logistics-web-bff
+e98545e2|lucas.reginatto@ifood.com.br|2025-01-09T18:35:30-03:00|feature/DXAH-1971|test: Add new tests on LDL Controller|logistics-web-bff
+af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-1971|build: Merge branch 'main' into feature/DXAH-1971 to avoid conflicts|logistics-web-bff
 0a96c8d8|lucas.reginatto@ifood.com.br|2025-01-11T21:12:42-03:00|feature/DXAH-1971|test: Add test to LDL resume order endpoint|logistics-web-bff
+db69798d|lucas.reginatto@ifood.com.br|2025-01-11T20:57:00-03:00|feature/DXAH-1971|refactor: Update endpoint for resuming delivery order in DeliveryLifecycleShadowClient|logistics-web-bff
