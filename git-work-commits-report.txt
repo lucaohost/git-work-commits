@@ -1237,3 +1237,10 @@ Branch: feature/DXAH-1971
 Commit Message: build: Merge branch 'main' into feature/DXAH-1971 to avoid conflicts
 Repository: logistics-web-bff
 -------------------
+Commit: 0a96c8d8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-11T21:12:42-03:00
+Branch: feature/DXAH-1971
+Commit Message: test: Add test to LDL resume order endpoint
+Repository: logistics-web-bff
+-------------------
