@@ -179,3 +179,4 @@ af8d1a17|lucas.reginatto@ifood.com.br|2025-01-10T09:54:25-03:00|feature/DXAH-197
 db69798d|lucas.reginatto@ifood.com.br|2025-01-11T20:57:00-03:00|feature/DXAH-1971|refactor: Update endpoint for resuming delivery order in DeliveryLifecycleShadowClient|logistics-web-bff
 26345259|lucas.reginatto@ifood.com.br|2025-01-13T09:50:20-03:00|feature/DXAH-1971|refactor: Update delivery lifecycle controller tests|logistics-web-bff
 882a92b8|lucas.reginatto@ifood.com.br|2025-01-13T11:00:10-03:00|feature/DXAH-2101|build: Solve conflicts|logistics-delivery-lifecycle-shadow
+9b861b90|lucas.reginatto@ifood.com.br|2025-01-13T16:24:28-03:00|feature/DXAH-1971|refactor: Remove unused mocks in delivery lifecycle controller tests|logistics-web-bff
