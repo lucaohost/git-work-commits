@@ -1251,3 +1251,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Update endpoint for resuming delivery order in DeliveryLifecycleShadowClient
 Repository: logistics-web-bff
 -------------------
+Commit: 26345259
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-13T09:50:20-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Update delivery lifecycle controller tests
+Repository: logistics-web-bff
+-------------------
