@@ -1258,3 +1258,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Update delivery lifecycle controller tests
 Repository: logistics-web-bff
 -------------------
+Commit: 882a92b8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-13T11:00:10-03:00
+Branch: feature/DXAH-2101
+Commit Message: build: Solve conflicts
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
