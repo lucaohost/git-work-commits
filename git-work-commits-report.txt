@@ -1279,3 +1279,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Update pauseOrder and resumeOrder methods in DeliveryLifecycleShadowClient
 Repository: logistics-web-bff
 -------------------
+Commit: 0838a173
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T10:51:00-03:00
+Branch: feature/DXAH-2101
+Commit Message: refactor: Add paylaod to pause/resume LDL endpoints
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
