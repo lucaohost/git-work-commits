@@ -1335,3 +1335,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Remove unnecessary validation on LDL controller
 Repository: logistics-web-bff
 -------------------
+Commit: ad130f89
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T15:21:27-03:00
+Branch: feature/DXAH-2101
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
