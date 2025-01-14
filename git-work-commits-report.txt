@@ -1349,3 +1349,10 @@ Branch: feature/DXAH-2101
 Commit Message: feat: Add specific toggles for rollout
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 6d66c88a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T15:42:52-03:00
+Branch: feature/DXAH-2101
+Commit Message: Merge branch 'main' into feature/DXAH-2101
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
