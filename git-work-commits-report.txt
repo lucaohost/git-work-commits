@@ -1328,3 +1328,10 @@ Branch: feature/DXAH-2101
 Commit Message: test: Add tests to LDL Pause/Resume new endpoints
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: f9c96e00
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T15:06:07-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Remove unnecessary validation on LDL controller
+Repository: logistics-web-bff
+-------------------
