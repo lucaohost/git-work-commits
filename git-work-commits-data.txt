@@ -182,3 +182,4 @@ db69798d|lucas.reginatto@ifood.com.br|2025-01-11T20:57:00-03:00|feature/DXAH-197
 9b861b90|lucas.reginatto@ifood.com.br|2025-01-13T16:24:28-03:00|feature/DXAH-1971|refactor: Remove unused mocks in delivery lifecycle controller tests|logistics-web-bff
 09a97493|lucas.reginatto@ifood.com.br|2025-01-14T10:32:09-03:00|feature/DXAH-1971|refactor: Update pauseOrder and resumeOrder methods in DeliveryLifecycleShadowClient|logistics-web-bff
 0838a173|lucas.reginatto@ifood.com.br|2025-01-14T10:51:00-03:00|feature/DXAH-2101|refactor: Add paylaod to pause/resume LDL endpoints|logistics-delivery-lifecycle-shadow
+ce83181a|lucas.reginatto@ifood.com.br|2025-01-14T10:51:35-03:00|feature/DXAH-2101|Merge branch 'main' into feature/DXAH-2101|logistics-delivery-lifecycle-shadow
