@@ -1272,3 +1272,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Remove unused mocks in delivery lifecycle controller tests
 Repository: logistics-web-bff
 -------------------
+Commit: 09a97493
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T10:32:09-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Update pauseOrder and resumeOrder methods in DeliveryLifecycleShadowClient
+Repository: logistics-web-bff
+-------------------
