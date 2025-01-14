@@ -1286,3 +1286,10 @@ Branch: feature/DXAH-2101
 Commit Message: refactor: Add paylaod to pause/resume LDL endpoints
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: ce83181a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T10:51:35-03:00
+Branch: feature/DXAH-2101
+Commit Message: Merge branch 'main' into feature/DXAH-2101
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
