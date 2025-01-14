@@ -1307,3 +1307,10 @@ Branch: feature/DXAH-1971
 Commit Message: test: Update LDL controller tests
 Repository: logistics-web-bff
 -------------------
+Commit: 47321f42
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T12:03:32-03:00
+Branch: feature/DXAH-2101
+Commit Message: refactor: Add payload on pause/resume endppoints
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
