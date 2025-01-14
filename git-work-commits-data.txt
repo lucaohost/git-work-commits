@@ -184,3 +184,4 @@ db69798d|lucas.reginatto@ifood.com.br|2025-01-11T20:57:00-03:00|feature/DXAH-197
 0838a173|lucas.reginatto@ifood.com.br|2025-01-14T10:51:00-03:00|feature/DXAH-2101|refactor: Add paylaod to pause/resume LDL endpoints|logistics-delivery-lifecycle-shadow
 ce83181a|lucas.reginatto@ifood.com.br|2025-01-14T10:51:35-03:00|feature/DXAH-2101|Merge branch 'main' into feature/DXAH-2101|logistics-delivery-lifecycle-shadow
 1d8b220f|lucas.reginatto@ifood.com.br|2025-01-14T11:16:33-03:00|feature/DXAH-1971|refactor: Split endpoints pause/resume and add body request|logistics-web-bff
+2ec9e484|lucas.reginatto@ifood.com.br|2025-01-14T11:44:56-03:00|feature/DXAH-1971|test: Update LDL controller tests|logistics-web-bff
