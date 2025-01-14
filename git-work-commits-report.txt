@@ -1293,3 +1293,10 @@ Branch: feature/DXAH-2101
 Commit Message: Merge branch 'main' into feature/DXAH-2101
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 1d8b220f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T11:16:33-03:00
+Branch: feature/DXAH-1971
+Commit Message: refactor: Split endpoints pause/resume and add body request
+Repository: logistics-web-bff
+-------------------
