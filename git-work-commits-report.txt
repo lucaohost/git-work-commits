@@ -1300,3 +1300,10 @@ Branch: feature/DXAH-1971
 Commit Message: refactor: Split endpoints pause/resume and add body request
 Repository: logistics-web-bff
 -------------------
+Commit: 2ec9e484
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-14T11:44:56-03:00
+Branch: feature/DXAH-1971
+Commit Message: test: Update LDL controller tests
+Repository: logistics-web-bff
+-------------------
