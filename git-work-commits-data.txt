@@ -194,3 +194,4 @@ ad130f89|lucas.reginatto@ifood.com.br|2025-01-14T15:21:27-03:00|feature/DXAH-210
 6d66c88a|lucas.reginatto@ifood.com.br|2025-01-14T15:42:52-03:00|feature/DXAH-2101|Merge branch 'main' into feature/DXAH-2101|logistics-delivery-lifecycle-shadow
 2eb61fcf|lucas.reginatto@ifood.com.br|2025-01-15T13:32:29-03:00|feature/DXAH-1971-2|fix: Header on LDL Pause/Resume request|logistics-web-bff
 60e3713b|lucas.reginatto@ifood.com.br|2025-01-15T14:10:20-03:00|feature/DXAH-2101|fix: Path to LDM Pause/Resume requests|logistics-delivery-lifecycle-shadow
+5dcb6a1c|lucas.reginatto@ifood.com.br|2025-01-15T15:07:11-03:00|feature/DXAH-2101|fix: Return type on LDM Pause/Resume request|logistics-delivery-lifecycle-shadow
