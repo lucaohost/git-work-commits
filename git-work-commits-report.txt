@@ -1377,3 +1377,10 @@ Branch: feature/DXAH-2101
 Commit Message: fix: Return type on LDM Pause/Resume request
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: ce206107
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-15T15:46:48-03:00
+Branch: feature/DXAH-2101
+Commit Message: build: Solving conflicts
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
