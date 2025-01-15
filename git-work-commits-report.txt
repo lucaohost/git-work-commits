@@ -1356,3 +1356,10 @@ Branch: feature/DXAH-2101
 Commit Message: Merge branch 'main' into feature/DXAH-2101
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 2eb61fcf
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-15T13:32:29-03:00
+Branch: feature/DXAH-1971-2
+Commit Message: fix: Header on LDL Pause/Resume request
+Repository: logistics-web-bff
+-------------------
