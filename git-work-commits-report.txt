@@ -1405,3 +1405,10 @@ Branch: feature/DXAH-2134-2
 Commit Message: build: Retrigger new pipeline
 Repository: logistics-box-admin-web
 -------------------
+Commit: c5fb0bdb
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-17T15:08:55-03:00
+Branch: feature/DXAH-2134-2
+Commit Message: docs: Add changelog
+Repository: logistics-box-admin-web
+-------------------
