@@ -197,3 +197,4 @@ ad130f89|lucas.reginatto@ifood.com.br|2025-01-14T15:21:27-03:00|feature/DXAH-210
 5dcb6a1c|lucas.reginatto@ifood.com.br|2025-01-15T15:07:11-03:00|feature/DXAH-2101|fix: Return type on LDM Pause/Resume request|logistics-delivery-lifecycle-shadow
 ce206107|lucas.reginatto@ifood.com.br|2025-01-15T15:46:48-03:00|feature/DXAH-2101|build: Solving conflicts|logistics-delivery-lifecycle-shadow
 159187ef|lucas.reginatto@ifood.com.br|2025-01-16T11:20:05-03:00|feature/DXAH-2101|feat: Add isReplication header on Pause/Resume LDL requests|logistics-delivery-lifecycle-shadow
+139647da|lucas.reginatto@ifood.com.br|2025-01-17T14:59:28-03:00|feature/DXAH-2134-2|build: Retrigger new pipeline|logistics-box-admin-web

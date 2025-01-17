@@ -1391,3 +1391,10 @@ Branch: feature/DXAH-2101
 Commit Message: feat: Add isReplication header on Pause/Resume LDL requests
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: 139647da
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-17T14:59:28-03:00
+Branch: feature/DXAH-2134-2
+Commit Message: build: Retrigger new pipeline
+Repository: logistics-box-admin-web
+-------------------
