@@ -1426,3 +1426,10 @@ Branch: feature/DXAH-2182
 Commit Message: docs: Add changeloig
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: eeb85402
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-20T17:48:51-03:00
+Branch: feature/DXAH-2182
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-lifecycle-shadow
+-------------------
