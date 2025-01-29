@@ -1433,3 +1433,10 @@ Branch: feature/DXAH-2182
 Commit Message: docs: Add changelog
 Repository: logistics-delivery-lifecycle-shadow
 -------------------
+Commit: fc42545a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-29T11:18:58-03:00
+Branch: fix/DXAH-2218
+Commit Message: fix: Generate random UUID to not override PLACED events
+Repository: ifood-box-api
+-------------------
