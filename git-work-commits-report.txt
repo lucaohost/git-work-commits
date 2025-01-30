@@ -1447,3 +1447,10 @@ Branch: fix/DXAH-2218
 Commit Message: docs: Add changelog
 Repository: ifood-box-api
 -------------------
+Commit: e1774850
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-01-30T10:54:37-03:00
+Branch: feature/DXAH-2077
+Commit Message: feat: Verify existing reservations for order before creating a new one
+Repository: ifood-box-api
+-------------------
