@@ -1461,3 +1461,10 @@ Branch: feature/DXAH-2148
 Commit Message: feat: Verify existing reservations for order before creating a new one
 Repository: ifood-box-api
 -------------------
+Commit: 5540360a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-04T10:58:48-03:00
+Branch: feature/DXAH-2148
+Commit Message: refactor: Single imports on tests
+Repository: ifood-box-api
+-------------------
