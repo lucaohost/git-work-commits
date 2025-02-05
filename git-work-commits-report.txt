@@ -1489,3 +1489,10 @@ Branch: feature/DXAH-2148
 Commit Message: fix: Query on Reservation Repository
 Repository: ifood-box-api
 -------------------
+Commit: 9e40d04a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-05T16:08:17-03:00
+Branch: feature/DXAH-2148
+Commit Message: fix: Query to get reservation by eligibleOrder
+Repository: ifood-box-api
+-------------------
