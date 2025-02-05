@@ -1475,3 +1475,10 @@ Branch: feature/DXAH-2148
 Commit Message: fix: Order annotation value
 Repository: ifood-box-api
 -------------------
+Commit: 35b5fb2d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-05T14:57:04-03:00
+Branch: feature/DXAH-2148
+Commit Message: refactor: Return on reservation repository
+Repository: ifood-box-api
+-------------------
