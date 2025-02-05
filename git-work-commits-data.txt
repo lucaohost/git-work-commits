@@ -208,3 +208,4 @@ fc42545a|lucas.reginatto@ifood.com.br|2025-01-29T11:18:58-03:00|fix/DXAH-2218|fi
 e1774850|lucas.reginatto@ifood.com.br|2025-01-30T10:54:37-03:00|feature/DXAH-2077|feat: Verify existing reservations for order before creating a new one|ifood-box-api
 b86f6e21|lucas.reginatto@ifood.com.br|2025-02-04T10:55:05-03:00|feature/DXAH-2148|feat: Verify existing reservations for order before creating a new one|ifood-box-api
 5540360a|lucas.reginatto@ifood.com.br|2025-02-04T10:58:48-03:00|feature/DXAH-2148|refactor: Single imports on tests|ifood-box-api
+da69014a|lucas.reginatto@ifood.com.br|2025-02-05T14:37:44-03:00|feature/DXAH-2148|fix: Order annotation value|ifood-box-api

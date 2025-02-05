@@ -1468,3 +1468,10 @@ Branch: feature/DXAH-2148
 Commit Message: refactor: Single imports on tests
 Repository: ifood-box-api
 -------------------
+Commit: da69014a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-05T14:37:44-03:00
+Branch: feature/DXAH-2148
+Commit Message: fix: Order annotation value
+Repository: ifood-box-api
+-------------------
