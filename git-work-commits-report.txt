@@ -1482,3 +1482,10 @@ Branch: feature/DXAH-2148
 Commit Message: refactor: Return on reservation repository
 Repository: ifood-box-api
 -------------------
+Commit: 73ac2f09
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-05T15:17:59-03:00
+Branch: feature/DXAH-2148
+Commit Message: fix: Query on Reservation Repository
+Repository: ifood-box-api
+-------------------
