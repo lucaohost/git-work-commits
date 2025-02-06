@@ -213,3 +213,4 @@ da69014a|lucas.reginatto@ifood.com.br|2025-02-05T14:37:44-03:00|feature/DXAH-214
 73ac2f09|lucas.reginatto@ifood.com.br|2025-02-05T15:17:59-03:00|feature/DXAH-2148|fix: Query on Reservation Repository|ifood-box-api
 9e40d04a|lucas.reginatto@ifood.com.br|2025-02-05T16:08:17-03:00|feature/DXAH-2148|fix: Query to get reservation by eligibleOrder|ifood-box-api
 6c4cea1f|lucas.reginatto@ifood.com.br|2025-02-06T10:57:10-03:00|feature/DXAH-2148|test: Add toggles and logs to monitor in prod|ifood-box-api
+95ee0638|lucas.reginatto@ifood.com.br|2025-02-06T11:53:28-03:00|feature/DXAH-2148|test: Update tests os DuplicatedReservationOrderVisitor|ifood-box-api
