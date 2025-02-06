@@ -1503,3 +1503,10 @@ Branch: feature/DXAH-2148
 Commit Message: test: Add toggles and logs to monitor in prod
 Repository: ifood-box-api
 -------------------
+Commit: 95ee0638
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-06T11:53:28-03:00
+Branch: feature/DXAH-2148
+Commit Message: test: Update tests os DuplicatedReservationOrderVisitor
+Repository: ifood-box-api
+-------------------
