@@ -1517,3 +1517,10 @@ Branch: feature/DXAH-2148
 Commit Message: refactor: Suggested modifications
 Repository: ifood-box-api
 -------------------
+Commit: 5e219c55
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-06T14:46:33-03:00
+Branch: feature/DXAH-2148
+Commit Message: refactor: Suggested modifications
+Repository: ifood-box-api
+-------------------
