@@ -217,3 +217,4 @@ da69014a|lucas.reginatto@ifood.com.br|2025-02-05T14:37:44-03:00|feature/DXAH-214
 c13ebcce|lucas.reginatto@ifood.com.br|2025-02-06T14:46:33-03:00|feature/DXAH-2148|refactor: Suggested modifications|ifood-box-api
 5e219c55|lucas.reginatto@ifood.com.br|2025-02-06T14:46:33-03:00|feature/DXAH-2148|refactor: Suggested modifications|ifood-box-api
 5aa01fe3|lucas.reginatto@ifood.com.br|2025-02-06T17:50:09-03:00|fix/DXAH-2148|fix: Null Pointer Exception on validation of Duplicated Order Reservation|ifood-box-api
+518f037e|lucas.reginatto@ifood.com.br|2025-02-07T11:40:16-03:00|fix/DXAH-2148|refactor: Add try/catch and logs on DuplicatedOrderReservationVisitor|ifood-box-api
