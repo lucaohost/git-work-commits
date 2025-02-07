@@ -1531,3 +1531,10 @@ Branch: fix/DXAH-2148
 Commit Message: fix: Null Pointer Exception on validation of Duplicated Order Reservation
 Repository: ifood-box-api
 -------------------
+Commit: 518f037e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-07T11:40:16-03:00
+Branch: fix/DXAH-2148
+Commit Message: refactor: Add try/catch and logs on DuplicatedOrderReservationVisitor
+Repository: ifood-box-api
+-------------------
