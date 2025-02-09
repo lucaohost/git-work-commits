@@ -1545,3 +1545,10 @@ Branch: fix/DXAH-2148
 Commit Message: refactor: Change constants to private
 Repository: ifood-box-api
 -------------------
+Commit: efc14456
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-02-09T15:48:18-03:00
+Branch: master
+Commit Message: chore: Add python local version for pyenv
+Repository: PCVS
+-------------------
