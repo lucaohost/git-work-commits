@@ -1552,3 +1552,10 @@ Branch: master
 Commit Message: chore: Add python local version for pyenv
 Repository: PCVS
 -------------------
+Commit: e70471a9
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-10T17:52:22-03:00
+Branch: fix/DXAH-2148
+Commit Message: docs: Add changelog and remove monitoring logs
+Repository: ifood-box-api
+-------------------
