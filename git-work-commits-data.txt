@@ -220,3 +220,4 @@ c13ebcce|lucas.reginatto@ifood.com.br|2025-02-06T14:46:33-03:00|feature/DXAH-214
 518f037e|lucas.reginatto@ifood.com.br|2025-02-07T11:40:16-03:00|fix/DXAH-2148|refactor: Add try/catch and logs on DuplicatedOrderReservationVisitor|ifood-box-api
 7fc76b8d|lucas.reginatto@ifood.com.br|2025-02-07T11:42:44-03:00|fix/DXAH-2148|refactor: Change constants to private|ifood-box-api
 efc14456|lucas.reginatto@unisinos.com.br|2025-02-09T15:48:18-03:00|master|chore: Add python local version for pyenv|PCVS
+e70471a9|lucas.reginatto@ifood.com.br|2025-02-10T17:52:22-03:00|fix/DXAH-2148|docs: Add changelog and remove monitoring logs|ifood-box-api
