@@ -1559,3 +1559,10 @@ Branch: fix/DXAH-2148
 Commit Message: docs: Add changelog and remove monitoring logs
 Repository: ifood-box-api
 -------------------
+Commit: f08a518f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-17T14:29:36-03:00
+Branch: feature/DXAH-2270
+Commit Message: refactor: Order complement service
+Repository: logistics-web-bff
+-------------------
