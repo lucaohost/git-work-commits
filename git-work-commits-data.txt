@@ -224,3 +224,4 @@ e70471a9|lucas.reginatto@ifood.com.br|2025-02-10T17:52:22-03:00|fix/DXAH-2148|do
 f08a518f|lucas.reginatto@ifood.com.br|2025-02-17T14:29:36-03:00|feature/DXAH-2270|refactor: Order complement service|logistics-web-bff
 084c178d|lucas.reginatto@ifood.com.br|2025-02-17T14:29:36-03:00|feature/DXAH-2270|refactor: Order complement service|logistics-web-bff
 5f155316|lucas.reginatto@ifood.com.br|2025-02-17T16:27:18-03:00|feature/DXAH-2270|feat: Add new fields on Wrong Address request|logistics-web-bff
+5f155316|lucas.reginatto@ifood.com.br|2025-02-17T16:27:18-03:00|feature/DXAH-2270|feat: Add new fields on Wrong Address request|logistics-web-bff
