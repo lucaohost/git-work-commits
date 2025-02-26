@@ -1594,3 +1594,10 @@ Branch: feature/DXAH-2270
 Commit Message: test: Update wrong address integration tests
 Repository: logistics-web-bff
 -------------------
+Commit: 94f4d9a8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-26T11:50:50-03:00
+Branch: SWDHERO-69
+Commit Message: Merge branch 'main' into SWDHERO-69
+Repository: logistics-chatbot-actions
+-------------------
