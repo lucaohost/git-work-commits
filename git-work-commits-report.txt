@@ -1601,3 +1601,10 @@ Branch: SWDHERO-69
 Commit Message: Merge branch 'main' into SWDHERO-69
 Repository: logistics-chatbot-actions
 -------------------
+Commit: 7c0aed2f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-27T18:27:03-03:00
+Branch: feature/DXAH-2273
+Commit Message: chore: Adjust pods memory to decrease cost
+Repository: logistics-hub-manager
+-------------------
