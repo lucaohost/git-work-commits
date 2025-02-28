@@ -1629,3 +1629,10 @@ Branch: chore/DXAH-2273
 Commit Message: chore: Ajuste memory and cpu memory to reduce costs
 Repository: cross-docking-expediter
 -------------------
+Commit: 9ba0cb0e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-28T15:45:23-03:00
+Branch: chore/DXAH-2273
+Commit Message: docs: Add changelog
+Repository: cross-docking-expediter
+-------------------
