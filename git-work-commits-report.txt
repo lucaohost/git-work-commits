@@ -1636,3 +1636,10 @@ Branch: chore/DXAH-2273
 Commit Message: docs: Add changelog
 Repository: cross-docking-expediter
 -------------------
+Commit: 03a384a2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-28T15:53:21-03:00
+Branch: chore/DXAH-2273
+Commit Message: fix: Changelog version
+Repository: cross-docking-expediter
+-------------------
