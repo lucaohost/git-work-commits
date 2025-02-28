@@ -1643,3 +1643,10 @@ Branch: chore/DXAH-2273
 Commit Message: fix: Changelog version
 Repository: cross-docking-expediter
 -------------------
+Commit: 9b3601ab
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-28T16:46:56-03:00
+Branch: feature/DXAH-2273
+Commit Message: chore: Fix mantainers emails
+Repository: logistics-hub-manager
+-------------------
