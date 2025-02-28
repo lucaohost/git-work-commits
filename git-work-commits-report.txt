@@ -1615,3 +1615,10 @@ Branch: feature/DXAH-2273
 Commit Message: docs: Add changelog
 Repository: logistics-hub-manager
 -------------------
+Commit: f86f91ff
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-28T15:39:37-03:00
+Branch: feature/DXAH-2273
+Commit Message: chore: Update pods memory and cpu to reduce costs
+Repository: logistics-hub-manager
+-------------------

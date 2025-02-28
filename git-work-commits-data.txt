@@ -229,3 +229,4 @@ f08a518f|lucas.reginatto@ifood.com.br|2025-02-17T14:29:36-03:00|feature/DXAH-227
 94f4d9a8|lucas.reginatto@ifood.com.br|2025-02-26T11:50:50-03:00|SWDHERO-69|Merge branch 'main' into SWDHERO-69|logistics-chatbot-actions
 7c0aed2f|lucas.reginatto@ifood.com.br|2025-02-27T18:27:03-03:00|feature/DXAH-2273|chore: Adjust pods memory to decrease cost|logistics-hub-manager
 da5daf21|lucas.reginatto@ifood.com.br|2025-02-28T15:19:35-03:00|feature/DXAH-2273|docs: Add changelog|logistics-hub-manager
+f86f91ff|lucas.reginatto@ifood.com.br|2025-02-28T15:39:37-03:00|feature/DXAH-2273|chore: Update pods memory and cpu to reduce costs|logistics-hub-manager
