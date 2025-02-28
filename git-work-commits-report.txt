@@ -1622,3 +1622,10 @@ Branch: feature/DXAH-2273
 Commit Message: chore: Update pods memory and cpu to reduce costs
 Repository: logistics-hub-manager
 -------------------
+Commit: 0c0cc1fa
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-02-28T15:42:34-03:00
+Branch: chore/DXAH-2273
+Commit Message: chore: Ajuste memory and cpu memory to reduce costs
+Repository: cross-docking-expediter
+-------------------
