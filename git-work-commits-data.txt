@@ -233,3 +233,4 @@ f86f91ff|lucas.reginatto@ifood.com.br|2025-02-28T15:39:37-03:00|feature/DXAH-227
 0c0cc1fa|lucas.reginatto@ifood.com.br|2025-02-28T15:42:34-03:00|chore/DXAH-2273|chore: Ajuste memory and cpu memory to reduce costs|cross-docking-expediter
 9ba0cb0e|lucas.reginatto@ifood.com.br|2025-02-28T15:45:23-03:00|chore/DXAH-2273|docs: Add changelog|cross-docking-expediter
 03a384a2|lucas.reginatto@ifood.com.br|2025-02-28T15:53:21-03:00|chore/DXAH-2273|fix: Changelog version|cross-docking-expediter
+9b3601ab|lucas.reginatto@ifood.com.br|2025-02-28T16:46:56-03:00|feature/DXAH-2273|chore: Fix mantainers emails|logistics-hub-manager
