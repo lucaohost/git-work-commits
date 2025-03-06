@@ -1671,3 +1671,10 @@ Branch: chore/DXAH-2274
 Commit Message: chores: Adjust maxReplicas on sandbox enviroment
 Repository: ifood-box-api
 -------------------
+Commit: fcac9215
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T11:31:44-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust memory/cpu in sandbox environment
+Repository: ifood-box-api
+-------------------
