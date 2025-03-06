@@ -1685,3 +1685,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust memory and cpu in prod environment
 Repository: ifood-box-api
 -------------------
+Commit: 046fac78
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T11:41:13-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust minReplicas in prod environment
+Repository: ifood-box-api
+-------------------
