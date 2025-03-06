@@ -1664,3 +1664,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust cpu limits pods
 Repository: ifood-box-api
 -------------------
+Commit: d73ae1c5
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T11:30:16-03:00
+Branch: chore/DXAH-2274
+Commit Message: chores: Adjust maxReplicas on sandbox enviroment
+Repository: ifood-box-api
+-------------------
