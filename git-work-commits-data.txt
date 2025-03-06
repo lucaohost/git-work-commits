@@ -239,3 +239,4 @@ f86f91ff|lucas.reginatto@ifood.com.br|2025-02-28T15:39:37-03:00|feature/DXAH-227
 d73ae1c5|lucas.reginatto@ifood.com.br|2025-03-06T11:30:16-03:00|chore/DXAH-2274|chores: Adjust maxReplicas on sandbox enviroment|ifood-box-api
 fcac9215|lucas.reginatto@ifood.com.br|2025-03-06T11:31:44-03:00|chore/DXAH-2274|chore: Adjust memory/cpu in sandbox environment|ifood-box-api
 930964b0|lucas.reginatto@ifood.com.br|2025-03-06T11:36:14-03:00|chore/DXAH-2274|chore: Adjust memory and cpu in prod environment|ifood-box-api
+046fac78|lucas.reginatto@ifood.com.br|2025-03-06T11:41:13-03:00|chore/DXAH-2274|chore: Adjust minReplicas in prod environment|ifood-box-api
