@@ -234,3 +234,4 @@ f86f91ff|lucas.reginatto@ifood.com.br|2025-02-28T15:39:37-03:00|feature/DXAH-227
 9ba0cb0e|lucas.reginatto@ifood.com.br|2025-02-28T15:45:23-03:00|chore/DXAH-2273|docs: Add changelog|cross-docking-expediter
 03a384a2|lucas.reginatto@ifood.com.br|2025-02-28T15:53:21-03:00|chore/DXAH-2273|fix: Changelog version|cross-docking-expediter
 9b3601ab|lucas.reginatto@ifood.com.br|2025-02-28T16:46:56-03:00|feature/DXAH-2273|chore: Fix mantainers emails|logistics-hub-manager
+8b0fa68d|lucas.reginatto@ifood.com.br|2025-03-06T09:55:33-03:00|chore/DXAH-2274|chore: Adjust pods memory and cpu|ifood-box-api

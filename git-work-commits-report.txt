@@ -1650,3 +1650,10 @@ Branch: feature/DXAH-2273
 Commit Message: chore: Fix mantainers emails
 Repository: logistics-hub-manager
 -------------------
+Commit: 8b0fa68d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T09:55:33-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust pods memory and cpu
+Repository: ifood-box-api
+-------------------
