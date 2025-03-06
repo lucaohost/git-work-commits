@@ -1657,3 +1657,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust pods memory and cpu
 Repository: ifood-box-api
 -------------------
+Commit: 8acb7e8d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T11:05:35-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust cpu limits pods
+Repository: ifood-box-api
+-------------------
