@@ -236,3 +236,4 @@ f86f91ff|lucas.reginatto@ifood.com.br|2025-02-28T15:39:37-03:00|feature/DXAH-227
 9b3601ab|lucas.reginatto@ifood.com.br|2025-02-28T16:46:56-03:00|feature/DXAH-2273|chore: Fix mantainers emails|logistics-hub-manager
 8b0fa68d|lucas.reginatto@ifood.com.br|2025-03-06T09:55:33-03:00|chore/DXAH-2274|chore: Adjust pods memory and cpu|ifood-box-api
 8acb7e8d|lucas.reginatto@ifood.com.br|2025-03-06T11:05:35-03:00|chore/DXAH-2274|chore: Adjust cpu limits pods|ifood-box-api
+d73ae1c5|lucas.reginatto@ifood.com.br|2025-03-06T11:30:16-03:00|chore/DXAH-2274|chores: Adjust maxReplicas on sandbox enviroment|ifood-box-api
