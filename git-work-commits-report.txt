@@ -1678,3 +1678,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust memory/cpu in sandbox environment
 Repository: ifood-box-api
 -------------------
+Commit: 930964b0
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-06T11:36:14-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust memory and cpu in prod environment
+Repository: ifood-box-api
+-------------------
