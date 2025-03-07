@@ -243,3 +243,4 @@ fcac9215|lucas.reginatto@ifood.com.br|2025-03-06T11:31:44-03:00|chore/DXAH-2274|
 33263b3b|lucas.reginatto@ifood.com.br|2025-03-07T09:59:13-03:00|chore/DXAH-2274|chore: Adjust cpu in sandbox environemnt|ifood-box-api
 f1861c4c|lucas.reginatto@ifood.com.br|2025-03-07T10:58:23-03:00|chore/DXAH-2275|chore: Adjust memory and cpu of pods|logistics-box-api
 4c176d75|lucas.reginatto@ifood.com.br|2025-03-07T14:54:55-03:00|chore/DXAH-2275|chore: Increase cpu in production to a safer reduction|logistics-box-api
+c0f07d59|lucas.reginatto@ifood.com.br|2025-03-07T15:23:22-03:00|chore/DXAH-2275|chore: Adjust cpu/memory sandbox pods|logistics-box-api

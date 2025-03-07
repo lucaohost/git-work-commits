@@ -1713,3 +1713,10 @@ Branch: chore/DXAH-2275
 Commit Message: chore: Increase cpu in production to a safer reduction
 Repository: logistics-box-api
 -------------------
+Commit: c0f07d59
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-07T15:23:22-03:00
+Branch: chore/DXAH-2275
+Commit Message: chore: Adjust cpu/memory sandbox pods
+Repository: logistics-box-api
+-------------------
