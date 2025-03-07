@@ -1706,3 +1706,10 @@ Branch: chore/DXAH-2275
 Commit Message: chore: Adjust memory and cpu of pods
 Repository: logistics-box-api
 -------------------
+Commit: 4c176d75
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-07T14:54:55-03:00
+Branch: chore/DXAH-2275
+Commit Message: chore: Increase cpu in production to a safer reduction
+Repository: logistics-box-api
+-------------------
