@@ -1699,3 +1699,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust cpu in sandbox environemnt
 Repository: ifood-box-api
 -------------------
+Commit: f1861c4c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-07T10:58:23-03:00
+Branch: chore/DXAH-2275
+Commit Message: chore: Adjust memory and cpu of pods
+Repository: logistics-box-api
+-------------------
