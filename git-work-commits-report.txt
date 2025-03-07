@@ -1692,3 +1692,10 @@ Branch: chore/DXAH-2274
 Commit Message: chore: Adjust minReplicas in prod environment
 Repository: ifood-box-api
 -------------------
+Commit: 33263b3b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-07T09:59:13-03:00
+Branch: chore/DXAH-2274
+Commit Message: chore: Adjust cpu in sandbox environemnt
+Repository: ifood-box-api
+-------------------
