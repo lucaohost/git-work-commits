@@ -1734,3 +1734,10 @@ Branch: chore/DXAH-2274
 Commit Message: Merge branch 'master' into chore/DXAH-2274
 Repository: ifood-box-api
 -------------------
+Commit: bd0012fa
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-10T16:13:53-03:00
+Branch: chore/DXAH-2275-2
+Commit Message: chore: Adjust memory/cpu pods
+Repository: logistics-box-api
+-------------------
