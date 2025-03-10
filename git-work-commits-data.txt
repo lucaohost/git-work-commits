@@ -246,3 +246,4 @@ f1861c4c|lucas.reginatto@ifood.com.br|2025-03-07T10:58:23-03:00|chore/DXAH-2275|
 c0f07d59|lucas.reginatto@ifood.com.br|2025-03-07T15:23:22-03:00|chore/DXAH-2275|chore: Adjust cpu/memory sandbox pods|logistics-box-api
 5c71cd25|lucas.reginatto@ifood.com.br|2025-03-10T09:46:04-03:00|chore/DXAH-2275|Merge branch 'master' into chore/DXAH-2275|logistics-box-api
 c6ae7576|lucas.reginatto@ifood.com.br|2025-03-10T09:46:43-03:00|chore/DXAH-2274|Merge branch 'master' into chore/DXAH-2274|ifood-box-api
+bd0012fa|lucas.reginatto@ifood.com.br|2025-03-10T16:13:53-03:00|chore/DXAH-2275-2|chore: Adjust memory/cpu pods|logistics-box-api
