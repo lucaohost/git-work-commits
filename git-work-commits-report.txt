@@ -1720,3 +1720,10 @@ Branch: chore/DXAH-2275
 Commit Message: chore: Adjust cpu/memory sandbox pods
 Repository: logistics-box-api
 -------------------
+Commit: 5c71cd25
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-10T09:46:04-03:00
+Branch: chore/DXAH-2275
+Commit Message: Merge branch 'master' into chore/DXAH-2275
+Repository: logistics-box-api
+-------------------
