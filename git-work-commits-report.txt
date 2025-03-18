@@ -1769,3 +1769,10 @@ Branch: feature/DXAH-2270
 Commit Message: Merge branch 'main' into feature/DXAH-2270
 Repository: logistics-web-bff
 -------------------
+Commit: 44980990
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-18T10:11:19-03:00
+Branch: feature/DXAH-2270
+Commit Message: Merge branch 'main' into feature/DXAH-2270
+Repository: logistics-web-bff
+-------------------
