@@ -252,3 +252,4 @@ bd0012fa|lucas.reginatto@ifood.com.br|2025-03-10T16:13:53-03:00|chore/DXAH-2275-
 44980990|lucas.reginatto@ifood.com.br|2025-03-18T10:11:19-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
 44980990|lucas.reginatto@ifood.com.br|2025-03-18T10:11:19-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
 44980990|lucas.reginatto@ifood.com.br|2025-03-18T10:11:19-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
+44980990|lucas.reginatto@ifood.com.br|2025-03-18T10:11:19-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
