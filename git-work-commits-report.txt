@@ -1804,3 +1804,10 @@ Branch: feature/DXAH-2270
 Commit Message: fix: Revert snake case headers wrong in ADR
 Repository: logistics-web-bff
 -------------------
+Commit: ac555fd6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-19T16:34:13-03:00
+Branch: feature/DXAH-2270
+Commit Message: docs: Add changelog
+Repository: logistics-web-bff
+-------------------
