@@ -1797,3 +1797,10 @@ Branch: feature/DXAH-2270
 Commit Message: feat: Create new flow for wrong address
 Repository: logistics-web-bff
 -------------------
+Commit: a258b1c6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-19T16:18:09-03:00
+Branch: feature/DXAH-2270
+Commit Message: fix: Revert snake case headers wrong in ADR
+Repository: logistics-web-bff
+-------------------
