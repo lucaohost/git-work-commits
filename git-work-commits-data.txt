@@ -257,3 +257,4 @@ bd0012fa|lucas.reginatto@ifood.com.br|2025-03-10T16:13:53-03:00|chore/DXAH-2275-
 d5552a68|lucas.reginatto@ifood.com.br|2025-03-19T15:51:32-03:00|feature/DXAH-2270|feat: Create new flow for wrong address|logistics-web-bff
 a258b1c6|lucas.reginatto@ifood.com.br|2025-03-19T16:18:09-03:00|feature/DXAH-2270|fix: Revert snake case headers wrong in ADR|logistics-web-bff
 ac555fd6|lucas.reginatto@ifood.com.br|2025-03-19T16:34:13-03:00|feature/DXAH-2270|docs: Add changelog|logistics-web-bff
+28456017|lucas.reginatto@ifood.com.br|2025-03-20T09:48:48-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
