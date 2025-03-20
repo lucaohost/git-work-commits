@@ -1818,3 +1818,10 @@ Branch: feature/DXAH-2270
 Commit Message: Merge branch 'main' into feature/DXAH-2270
 Repository: logistics-web-bff
 -------------------
+Commit: 57583bf2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-20T09:56:43-03:00
+Branch: feature/DXAH-2270
+Commit Message: fix: Name audit Id
+Repository: logistics-web-bff
+-------------------

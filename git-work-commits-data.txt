@@ -258,3 +258,4 @@ d5552a68|lucas.reginatto@ifood.com.br|2025-03-19T15:51:32-03:00|feature/DXAH-227
 a258b1c6|lucas.reginatto@ifood.com.br|2025-03-19T16:18:09-03:00|feature/DXAH-2270|fix: Revert snake case headers wrong in ADR|logistics-web-bff
 ac555fd6|lucas.reginatto@ifood.com.br|2025-03-19T16:34:13-03:00|feature/DXAH-2270|docs: Add changelog|logistics-web-bff
 28456017|lucas.reginatto@ifood.com.br|2025-03-20T09:48:48-03:00|feature/DXAH-2270|Merge branch 'main' into feature/DXAH-2270|logistics-web-bff
+57583bf2|lucas.reginatto@ifood.com.br|2025-03-20T09:56:43-03:00|feature/DXAH-2270|fix: Name audit Id|logistics-web-bff
