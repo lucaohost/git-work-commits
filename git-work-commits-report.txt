@@ -1839,3 +1839,10 @@ Branch: feature/DXAH-2271
 Commit Message: Merge branch 'main' into feature/DXAH-2271
 Repository: agent-helper-bff
 -------------------
+Commit: 035ba3b5
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-21T11:02:06-03:00
+Branch: feature/DXAH-2271
+Commit Message: refactor: Remove unused imports
+Repository: agent-helper-bff
+-------------------
