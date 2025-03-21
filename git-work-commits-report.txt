@@ -1825,3 +1825,10 @@ Branch: feature/DXAH-2270
 Commit Message: fix: Name audit Id
 Repository: logistics-web-bff
 -------------------
+Commit: 2d327869
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-21T10:52:17-03:00
+Branch: feature/DXAH-2271
+Commit Message: feat: Adaptations Wrong Address LDL
+Repository: agent-helper-bff
+-------------------
