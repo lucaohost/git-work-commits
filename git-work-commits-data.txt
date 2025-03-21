@@ -262,3 +262,4 @@ ac555fd6|lucas.reginatto@ifood.com.br|2025-03-19T16:34:13-03:00|feature/DXAH-227
 2d327869|lucas.reginatto@ifood.com.br|2025-03-21T10:52:17-03:00|feature/DXAH-2271|feat: Adaptations Wrong Address LDL|agent-helper-bff
 5b5d09c8|lucas.reginatto@ifood.com.br|2025-03-21T10:52:49-03:00|feature/DXAH-2271|Merge branch 'main' into feature/DXAH-2271|agent-helper-bff
 035ba3b5|lucas.reginatto@ifood.com.br|2025-03-21T11:02:06-03:00|feature/DXAH-2271|refactor: Remove unused imports|agent-helper-bff
+7eb0037d|lucas.reginatto@ifood.com.br|2025-03-21T15:27:55-03:00|feature/DXAH-2271|fix: System on Wrong Address Complement|agent-helper-bff
