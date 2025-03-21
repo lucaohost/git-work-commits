@@ -1832,3 +1832,10 @@ Branch: feature/DXAH-2271
 Commit Message: feat: Adaptations Wrong Address LDL
 Repository: agent-helper-bff
 -------------------
+Commit: 5b5d09c8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-21T10:52:49-03:00
+Branch: feature/DXAH-2271
+Commit Message: Merge branch 'main' into feature/DXAH-2271
+Repository: agent-helper-bff
+-------------------
