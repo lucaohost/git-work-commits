@@ -1846,3 +1846,10 @@ Branch: feature/DXAH-2271
 Commit Message: refactor: Remove unused imports
 Repository: agent-helper-bff
 -------------------
+Commit: 7eb0037d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-21T15:27:55-03:00
+Branch: feature/DXAH-2271
+Commit Message: fix: System on Wrong Address Complement
+Repository: agent-helper-bff
+-------------------
