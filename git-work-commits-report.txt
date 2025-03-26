@@ -1853,3 +1853,10 @@ Branch: feature/DXAH-2271
 Commit Message: fix: System on Wrong Address Complement
 Repository: agent-helper-bff
 -------------------
+Commit: 4f82b525
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-26T11:20:40-03:00
+Branch: feature/DXAH-2364
+Commit Message: build: Update multiples vulnerabilities
+Repository: logistics-hub-manager
+-------------------
