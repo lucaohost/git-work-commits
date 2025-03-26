@@ -1874,3 +1874,10 @@ Branch: test/DXAH-2364
 Commit Message: test: Integration tests without upgrading libs
 Repository: logistics-hub-manager
 -------------------
+Commit: cb7eb87b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-26T13:36:47-03:00
+Branch: feature/DXAH-2364
+Commit Message: docs: Add changelog
+Repository: logistics-hub-manager
+-------------------

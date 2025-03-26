@@ -266,3 +266,4 @@ ac555fd6|lucas.reginatto@ifood.com.br|2025-03-19T16:34:13-03:00|feature/DXAH-227
 4f82b525|lucas.reginatto@ifood.com.br|2025-03-26T11:20:40-03:00|feature/DXAH-2364|build: Update multiples vulnerabilities|logistics-hub-manager
 55b919d5|lucas.reginatto@ifood.com.br|2025-03-26T11:40:38-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
 75c8b139|lucas.reginatto@ifood.com.br|2025-03-26T13:36:07-03:00|test/DXAH-2364|test: Integration tests without upgrading libs|logistics-hub-manager
+cb7eb87b|lucas.reginatto@ifood.com.br|2025-03-26T13:36:47-03:00|feature/DXAH-2364|docs: Add changelog|logistics-hub-manager
