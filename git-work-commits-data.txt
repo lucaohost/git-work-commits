@@ -264,3 +264,4 @@ ac555fd6|lucas.reginatto@ifood.com.br|2025-03-19T16:34:13-03:00|feature/DXAH-227
 035ba3b5|lucas.reginatto@ifood.com.br|2025-03-21T11:02:06-03:00|feature/DXAH-2271|refactor: Remove unused imports|agent-helper-bff
 7eb0037d|lucas.reginatto@ifood.com.br|2025-03-21T15:27:55-03:00|feature/DXAH-2271|fix: System on Wrong Address Complement|agent-helper-bff
 4f82b525|lucas.reginatto@ifood.com.br|2025-03-26T11:20:40-03:00|feature/DXAH-2364|build: Update multiples vulnerabilities|logistics-hub-manager
+55b919d5|lucas.reginatto@ifood.com.br|2025-03-26T11:40:38-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
