@@ -2021,3 +2021,10 @@ Branch: feature/DXAH-2364
 Commit Message: feat: CENSORED_COMMIT_MESSAGE
 Repository: logistics-hub-manager
 -------------------
+Commit: 95070d7d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-27T18:22:04-03:00
+Branch: feature/DXAH-2364
+Commit Message: fix: Integration tests
+Repository: logistics-hub-manager
+-------------------
