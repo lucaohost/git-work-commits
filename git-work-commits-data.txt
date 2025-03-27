@@ -285,3 +285,4 @@ c7e447d7|lucas.reginatto@ifood.com.br|2025-03-27T10:37:01-03:00|feature/DXAH-236
 3df93481|lucas.reginatto@ifood.com.br|2025-03-27T10:51:09-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
 79327d76|lucas.reginatto@ifood.com.br|2025-03-27T17:14:01-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
 bb6f810e|lucas.reginatto@ifood.com.br|2025-03-27T17:27:03-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
+29ef46a8|lucas.reginatto@ifood.com.br|2025-03-27T17:32:48-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
