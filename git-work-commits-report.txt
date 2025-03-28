@@ -2028,3 +2028,10 @@ Branch: feature/DXAH-2364
 Commit Message: fix: Integration tests
 Repository: logistics-hub-manager
 -------------------
+Commit: 4b6024b0
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-03-28T15:53:57-03:00
+Branch: feature/DXAH-2364
+Commit Message: test: Fix integration test
+Repository: logistics-hub-manager
+-------------------
