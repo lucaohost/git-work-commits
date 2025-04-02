@@ -2049,3 +2049,10 @@ Branch: feature/DXAH-2371
 Commit Message: Merge branch 'main' into feature/DXAH-2371
 Repository: oraculo-driver-bff
 -------------------
+Commit: 9a20bac1
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-02T16:03:40-03:00
+Branch: feature/DXAH-2270
+Commit Message: Merge branch 'main' into feature/DXAH-2270
+Repository: logistics-web-bff
+-------------------
