@@ -2042,3 +2042,10 @@ Branch: feature/DXAH-2371
 Commit Message: feat: Add new fields on wrong-address request
 Repository: oraculo-driver-bff
 -------------------
+Commit: 0cd80878
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-02T15:41:54-03:00
+Branch: feature/DXAH-2371
+Commit Message: Merge branch 'main' into feature/DXAH-2371
+Repository: oraculo-driver-bff
+-------------------

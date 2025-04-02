@@ -290,3 +290,4 @@ bb6f810e|lucas.reginatto@ifood.com.br|2025-03-27T17:27:03-03:00|feature/DXAH-236
 95070d7d|lucas.reginatto@ifood.com.br|2025-03-27T18:22:04-03:00|feature/DXAH-2364|fix: Integration tests|logistics-hub-manager
 4b6024b0|lucas.reginatto@ifood.com.br|2025-03-28T15:53:57-03:00|feature/DXAH-2364|test: Fix integration test|logistics-hub-manager
 7286674e|lucas.reginatto@ifood.com.br|2025-04-02T15:41:17-03:00|feature/DXAH-2371|feat: Add new fields on wrong-address request|oraculo-driver-bff
+0cd80878|lucas.reginatto@ifood.com.br|2025-04-02T15:41:54-03:00|feature/DXAH-2371|Merge branch 'main' into feature/DXAH-2371|oraculo-driver-bff
