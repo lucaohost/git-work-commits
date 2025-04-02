@@ -2035,3 +2035,10 @@ Branch: feature/DXAH-2364
 Commit Message: test: Fix integration test
 Repository: logistics-hub-manager
 -------------------
+Commit: 7286674e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-02T15:41:17-03:00
+Branch: feature/DXAH-2371
+Commit Message: feat: Add new fields on wrong-address request
+Repository: oraculo-driver-bff
+-------------------
