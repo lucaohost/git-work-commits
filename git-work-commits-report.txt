@@ -2070,3 +2070,10 @@ Branch: feature/DXAH-2270
 Commit Message: refactor: Remove unnecessary async/await
 Repository: logistics-web-bff
 -------------------
+Commit: 19f13414
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-03T18:12:18-03:00
+Branch: fix/DXAH-2271
+Commit Message: fix: System on WRONG_ADDRESS request to LDC
+Repository: agent-helper-bff
+-------------------
