@@ -295,3 +295,4 @@ bb6f810e|lucas.reginatto@ifood.com.br|2025-03-27T17:27:03-03:00|feature/DXAH-236
 50cc6e95|lucas.reginatto@ifood.com.br|2025-04-02T16:04:45-03:00|feature/DXAH-2270|refactor: Suggested modifications|logistics-web-bff
 68e23993|lucas.reginatto@ifood.com.br|2025-04-02T16:27:42-03:00|feature/DXAH-2270|refactor: Remove unnecessary async/await|logistics-web-bff
 19f13414|lucas.reginatto@ifood.com.br|2025-04-03T18:12:18-03:00|fix/DXAH-2271|fix: System on WRONG_ADDRESS request to LDC|agent-helper-bff
+75849253|lucas.reginatto@ifood.com.br|2025-04-03T18:27:47-03:00|fix/DXAH-2271|docs: Add changelog|agent-helper-bff

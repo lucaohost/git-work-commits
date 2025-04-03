@@ -2077,3 +2077,10 @@ Branch: fix/DXAH-2271
 Commit Message: fix: System on WRONG_ADDRESS request to LDC
 Repository: agent-helper-bff
 -------------------
+Commit: 75849253
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-03T18:27:47-03:00
+Branch: fix/DXAH-2271
+Commit Message: docs: Add changelog
+Repository: agent-helper-bff
+-------------------
