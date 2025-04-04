@@ -2084,3 +2084,10 @@ Branch: fix/DXAH-2271
 Commit Message: docs: Add changelog
 Repository: agent-helper-bff
 -------------------
+Commit: 14f6c09f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-04T10:35:52-03:00
+Branch: feature/DXAH-2371
+Commit Message: fix: System field on Wrong Address request
+Repository: oraculo-driver-bff
+-------------------
