@@ -2112,3 +2112,10 @@ Branch: feature/DXAH-2371
 Commit Message: test: Add sucess integration test
 Repository: oraculo-driver-bff
 -------------------
+Commit: 2037f356
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-07T10:47:44-03:00
+Branch: feature/DXAH-2371
+Commit Message: test: Add internal server error integration test
+Repository: oraculo-driver-bff
+-------------------
