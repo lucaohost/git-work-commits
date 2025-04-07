@@ -2119,3 +2119,10 @@ Branch: feature/DXAH-2371
 Commit Message: test: Add internal server error integration test
 Repository: oraculo-driver-bff
 -------------------
+Commit: 6477780b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-07T10:54:52-03:00
+Branch: feature/DXAH-2371
+Commit Message: refactor: Order Complement tests applying DRY
+Repository: oraculo-driver-bff
+-------------------
