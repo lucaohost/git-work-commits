@@ -2126,3 +2126,10 @@ Branch: feature/DXAH-2371
 Commit Message: refactor: Order Complement tests applying DRY
 Repository: oraculo-driver-bff
 -------------------
+Commit: 435ae7ec
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-07T11:08:32-03:00
+Branch: feature/DXAH-2371
+Commit Message: refactor: Integration tests order complement after review
+Repository: oraculo-driver-bff
+-------------------
