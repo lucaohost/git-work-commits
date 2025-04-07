@@ -2098,3 +2098,10 @@ Branch: feature/DXAH-2371
 Commit Message: test: Add integration tests to Wrong Address LDL
 Repository: oraculo-driver-bff
 -------------------
+Commit: 014e1c01
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-07T10:34:38-03:00
+Branch: feature/DXAH-2371
+Commit Message: test: Fix new integration tests
+Repository: oraculo-driver-bff
+-------------------
