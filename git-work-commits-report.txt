@@ -2133,3 +2133,10 @@ Branch: feature/DXAH-2371
 Commit Message: refactor: Integration tests order complement after review
 Repository: oraculo-driver-bff
 -------------------
+Commit: c4340b28
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-10T10:40:16-03:00
+Branch: feature/DXAH-2376
+Commit Message: feat: Get system from request to build Wrong Address request
+Repository: oraculo-driver-bff
+-------------------
