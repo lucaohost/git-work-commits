@@ -2147,3 +2147,10 @@ Branch: feature/DXAH-2376
 Commit Message: docs: Add changelog
 Repository: oraculo-driver-bff
 -------------------
+Commit: 767621c6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-10T13:56:38-03:00
+Branch: feature/DXAH-2376
+Commit Message: fix: Revert complement filter logic, its on WIP
+Repository: oraculo-driver-bff
+-------------------
