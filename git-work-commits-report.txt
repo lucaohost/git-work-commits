@@ -2140,3 +2140,10 @@ Branch: feature/DXAH-2376
 Commit Message: feat: Get system from request to build Wrong Address request
 Repository: oraculo-driver-bff
 -------------------
+Commit: 550aecc0
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-10T13:45:50-03:00
+Branch: feature/DXAH-2376
+Commit Message: docs: Add changelog
+Repository: oraculo-driver-bff
+-------------------

@@ -304,3 +304,4 @@ bb6f810e|lucas.reginatto@ifood.com.br|2025-03-27T17:27:03-03:00|feature/DXAH-236
 6477780b|lucas.reginatto@ifood.com.br|2025-04-07T10:54:52-03:00|feature/DXAH-2371|refactor: Order Complement tests applying DRY|oraculo-driver-bff
 435ae7ec|lucas.reginatto@ifood.com.br|2025-04-07T11:08:32-03:00|feature/DXAH-2371|refactor: Integration tests order complement after review|oraculo-driver-bff
 c4340b28|lucas.reginatto@ifood.com.br|2025-04-10T10:40:16-03:00|feature/DXAH-2376|feat: Get system from request to build Wrong Address request|oraculo-driver-bff
+550aecc0|lucas.reginatto@ifood.com.br|2025-04-10T13:45:50-03:00|feature/DXAH-2376|docs: Add changelog|oraculo-driver-bff
