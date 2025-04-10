@@ -2154,3 +2154,10 @@ Branch: feature/DXAH-2376
 Commit Message: fix: Revert complement filter logic, its on WIP
 Repository: oraculo-driver-bff
 -------------------
+Commit: fffa862d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-10T13:59:14-03:00
+Branch: feature/DXAH-2387
+Commit Message: feat: Add initial Wrong Address filter logic
+Repository: oraculo-driver-bff
+-------------------
