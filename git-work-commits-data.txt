@@ -307,3 +307,4 @@ c4340b28|lucas.reginatto@ifood.com.br|2025-04-10T10:40:16-03:00|feature/DXAH-237
 550aecc0|lucas.reginatto@ifood.com.br|2025-04-10T13:45:50-03:00|feature/DXAH-2376|docs: Add changelog|oraculo-driver-bff
 767621c6|lucas.reginatto@ifood.com.br|2025-04-10T13:56:38-03:00|feature/DXAH-2376|fix: Revert complement filter logic, its on WIP|oraculo-driver-bff
 fffa862d|lucas.reginatto@ifood.com.br|2025-04-10T13:59:14-03:00|feature/DXAH-2387|feat: Add initial Wrong Address filter logic|oraculo-driver-bff
+6d33c180|lucas.reginatto@unisinos.com.br|2025-04-15T19:50:05-03:00|backup/2025-04-13_15-22-14|docs: Add to notes|PCVS
