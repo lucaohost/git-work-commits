@@ -2168,3 +2168,10 @@ Branch: backup/2025-04-13_15-22-14
 Commit Message: docs: Add to notes
 Repository: PCVS
 -------------------
+Commit: 706db7df
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-22T10:10:37-03:00
+Branch: feature/DXAH-2387
+Commit Message: Merge branch 'main' into feature/DXAH-2387
+Repository: oraculo-driver-bff
+-------------------
