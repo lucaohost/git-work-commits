@@ -2175,3 +2175,10 @@ Branch: feature/DXAH-2387
 Commit Message: Merge branch 'main' into feature/DXAH-2387
 Repository: oraculo-driver-bff
 -------------------
+Commit: 0a0f9045
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-23T12:56:36-03:00
+Branch: feature/DXAH-2387
+Commit Message: fix: Wrong Addresses grouped and order by date desc
+Repository: oraculo-driver-bff
+-------------------
