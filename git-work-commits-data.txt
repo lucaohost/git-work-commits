@@ -313,3 +313,4 @@ fffa862d|lucas.reginatto@ifood.com.br|2025-04-10T13:59:14-03:00|feature/DXAH-238
 74cded99|lucas.reginatto@ifood.com.br|2025-04-23T13:08:11-03:00|feature/DXAH-2387|docs: Add changelog|oraculo-driver-bff
 7f1cd0c6|lucas.reginatto@ifood.com.br|2025-04-23T13:29:56-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
 f38f9f1b|lucas.reginatto@ifood.com.br|2025-04-23T13:38:19-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
+f2815e10|lucas.reginatto@ifood.com.br|2025-04-23T13:39:01-03:00|feature/DXAH-2364|fix: Remove import with error|logistics-hub-manager
