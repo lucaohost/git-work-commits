@@ -311,3 +311,4 @@ fffa862d|lucas.reginatto@ifood.com.br|2025-04-10T13:59:14-03:00|feature/DXAH-238
 706db7df|lucas.reginatto@ifood.com.br|2025-04-22T10:10:37-03:00|feature/DXAH-2387|Merge branch 'main' into feature/DXAH-2387|oraculo-driver-bff
 0a0f9045|lucas.reginatto@ifood.com.br|2025-04-23T12:56:36-03:00|feature/DXAH-2387|fix: Wrong Addresses grouped and order by date desc|oraculo-driver-bff
 74cded99|lucas.reginatto@ifood.com.br|2025-04-23T13:08:11-03:00|feature/DXAH-2387|docs: Add changelog|oraculo-driver-bff
+7f1cd0c6|lucas.reginatto@ifood.com.br|2025-04-23T13:29:56-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager

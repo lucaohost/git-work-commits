@@ -2189,3 +2189,10 @@ Branch: feature/DXAH-2387
 Commit Message: docs: Add changelog
 Repository: oraculo-driver-bff
 -------------------
+Commit: 7f1cd0c6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-23T13:29:56-03:00
+Branch: feature/DXAH-2364
+Commit Message: feat: CENSORED_COMMIT_MESSAGE
+Repository: logistics-hub-manager
+-------------------
