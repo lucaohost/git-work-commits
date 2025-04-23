@@ -2182,3 +2182,10 @@ Branch: feature/DXAH-2387
 Commit Message: fix: Wrong Addresses grouped and order by date desc
 Repository: oraculo-driver-bff
 -------------------
+Commit: 74cded99
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-23T13:08:11-03:00
+Branch: feature/DXAH-2387
+Commit Message: docs: Add changelog
+Repository: oraculo-driver-bff
+-------------------
