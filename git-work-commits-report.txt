@@ -2231,3 +2231,10 @@ Branch: feature/DXAH-2364
 Commit Message: fix: Retry after time to 1 second
 Repository: logistics-hub-manager
 -------------------
+Commit: e940b7b0
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-24T10:57:44-03:00
+Branch: feature/DXAH-2387
+Commit Message: refactor: Improve wrong address filter logic
+Repository: oraculo-driver-bff
+-------------------
