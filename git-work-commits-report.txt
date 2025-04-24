@@ -2238,3 +2238,10 @@ Branch: feature/DXAH-2387
 Commit Message: refactor: Improve wrong address filter logic
 Repository: oraculo-driver-bff
 -------------------
+Commit: 57dd0b0c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-24T10:57:44-03:00
+Branch: feature/DXAH-2387
+Commit Message: refactor: Improve wrong address filter logic
+Repository: oraculo-driver-bff
+-------------------

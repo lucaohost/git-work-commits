@@ -318,3 +318,4 @@ f2815e10|lucas.reginatto@ifood.com.br|2025-04-23T13:39:01-03:00|feature/DXAH-236
 8b590542|lucas.reginatto@ifood.com.br|2025-04-23T14:24:39-03:00|feature/DXAH-2364|feat: CENSORED_COMMIT_MESSAGE|logistics-hub-manager
 4662b538|lucas.reginatto@ifood.com.br|2025-04-23T14:40:30-03:00|feature/DXAH-2364|fix: Retry after time to 1 second|logistics-hub-manager
 e940b7b0|lucas.reginatto@ifood.com.br|2025-04-24T10:57:44-03:00|feature/DXAH-2387|refactor: Improve wrong address filter logic|oraculo-driver-bff
+57dd0b0c|lucas.reginatto@ifood.com.br|2025-04-24T10:57:44-03:00|feature/DXAH-2387|refactor: Improve wrong address filter logic|oraculo-driver-bff
