@@ -2280,3 +2280,10 @@ Branch: fix/SEC-601456
 Commit Message: feat: CENSORED_COMMIT_MESSAGE
 Repository: sentinel-classifier
 -------------------
+Commit: ce513795
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-04-29T10:37:48-03:00
+Branch: fix/SEC-600336
+Commit Message: docs: Add changelog
+Repository: oraculo-driver-bff
+-------------------

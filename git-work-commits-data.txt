@@ -324,3 +324,4 @@ cfe55cf4|lucas.reginatto@ifood.com.br|2025-04-24T17:23:50-03:00|feature/DXAH-236
 5547da6b|lucas.reginatto@unisinos.com.br|2025-04-29T07:13:00-03:00|backup/2025-04-13_15-22-14|feat: Add xlsx plotter logic|PCVS
 78ed3cc4|lucas.reginatto@ifood.com.br|2025-04-29T10:24:12-03:00|fix/SEC-600336|feat: CENSORED_COMMIT_MESSAGE|oraculo-driver-bff
 2050c943|lucas.reginatto@ifood.com.br|2025-04-29T10:29:51-03:00|fix/SEC-601456|feat: CENSORED_COMMIT_MESSAGE|sentinel-classifier
+ce513795|lucas.reginatto@ifood.com.br|2025-04-29T10:37:48-03:00|fix/SEC-600336|docs: Add changelog|oraculo-driver-bff
