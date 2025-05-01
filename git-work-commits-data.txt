@@ -326,3 +326,4 @@ cfe55cf4|lucas.reginatto@ifood.com.br|2025-04-24T17:23:50-03:00|feature/DXAH-236
 2050c943|lucas.reginatto@ifood.com.br|2025-04-29T10:29:51-03:00|fix/SEC-601456|feat: CENSORED_COMMIT_MESSAGE|sentinel-classifier
 ce513795|lucas.reginatto@ifood.com.br|2025-04-29T10:37:48-03:00|fix/SEC-600336|docs: Add changelog|oraculo-driver-bff
 8824e772|lucas.reginatto@ifood.com.br|2025-04-29T10:45:51-03:00|fix/SEC-601456|docs: Add changelog|sentinel-classifier
+bd86a9ad|lucas.reginatto@unisinos.com.br|2025-05-01T09:28:49-03:00|feat/paleoclimate-visualization-system|feat: Add xlsx validator|PCVS

@@ -2294,3 +2294,10 @@ Branch: fix/SEC-601456
 Commit Message: docs: Add changelog
 Repository: sentinel-classifier
 -------------------
+Commit: bd86a9ad
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-01T09:28:49-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: feat: Add xlsx validator
+Repository: PCVS
+-------------------
