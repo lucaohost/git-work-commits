@@ -2301,3 +2301,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Add xlsx validator
 Repository: PCVS
 -------------------
+Commit: 7ab7a6db
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-02T08:40:18-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: feat: Add xlsx plotter points for geojson 105
+Repository: PCVS
+-------------------
