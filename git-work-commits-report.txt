@@ -2308,3 +2308,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Add xlsx plotter points for geojson 105
 Repository: PCVS
 -------------------
+Commit: d2fa0466
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-05T10:08:26-03:00
+Branch: fix/SEC-600336
+Commit Message: Merge branch 'main' into fix/SEC-600336
+Repository: oraculo-driver-bff
+-------------------
