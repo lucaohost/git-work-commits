@@ -328,3 +328,4 @@ ce513795|lucas.reginatto@ifood.com.br|2025-04-29T10:37:48-03:00|fix/SEC-600336|d
 8824e772|lucas.reginatto@ifood.com.br|2025-04-29T10:45:51-03:00|fix/SEC-601456|docs: Add changelog|sentinel-classifier
 bd86a9ad|lucas.reginatto@unisinos.com.br|2025-05-01T09:28:49-03:00|feat/paleoclimate-visualization-system|feat: Add xlsx validator|PCVS
 7ab7a6db|lucas.reginatto@unisinos.com.br|2025-05-02T08:40:18-03:00|feat/paleoclimate-visualization-system|feat: Add xlsx plotter points for geojson 105|PCVS
+18624dee|lucas.reginatto@unisinos.com.br|2025-05-06T08:13:49-03:00|feat/paleoclimate-visualization-system|feat: Enhance validation for Show on Maps cell and improve error logging|PCVS
