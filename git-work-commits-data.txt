@@ -330,3 +330,4 @@ bd86a9ad|lucas.reginatto@unisinos.com.br|2025-05-01T09:28:49-03:00|feat/paleocli
 7ab7a6db|lucas.reginatto@unisinos.com.br|2025-05-02T08:40:18-03:00|feat/paleoclimate-visualization-system|feat: Add xlsx plotter points for geojson 105|PCVS
 d2fa0466|lucas.reginatto@ifood.com.br|2025-05-05T10:08:26-03:00|fix/SEC-600336|Merge branch 'main' into fix/SEC-600336|oraculo-driver-bff
 18624dee|lucas.reginatto@unisinos.com.br|2025-05-06T08:13:49-03:00|feat/paleoclimate-visualization-system|feat: Enhance validation for Show on Maps cell and improve error logging|PCVS
+6013aa8f|lucas.reginatto@unisinos.com.br|2025-05-06T08:24:46-03:00|feat/paleoclimate-visualization-system|feat: Trim whitespace from Show on Maps cell values before validation|PCVS
