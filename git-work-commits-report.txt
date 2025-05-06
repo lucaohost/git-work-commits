@@ -2327,3 +2327,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Trim whitespace from Show on Maps cell values before validation
 Repository: PCVS
 -------------------
+Commit: 1d6b39b5
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-06T08:44:37-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Add To Do
+Repository: PCVS
+-------------------
