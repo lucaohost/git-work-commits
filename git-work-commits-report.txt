@@ -2308,12 +2308,12 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Add xlsx plotter points for geojson 105
 Repository: PCVS
 -------------------
-Commit: 18624dee
-Author: lucas.reginatto@unisinos.com.br
-Date: 2025-05-06T08:13:49-03:00
-Branch: feat/paleoclimate-visualization-system
-Commit Message: feat: Enhance validation for Show on Maps cell and improve error logging
-Repository: PCVS
+Commit: d2fa0466
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-05T10:08:26-03:00
+Branch: fix/SEC-600336
+Commit Message: Merge branch 'main' into fix/SEC-600336
+Repository: oraculo-driver-bff
 -------------------
 Commit: 18624dee
 Author: lucas.reginatto@unisinos.com.br
@@ -2321,4 +2321,3 @@ Date: 2025-05-06T08:13:49-03:00
 Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Enhance validation for Show on Maps cell and improve error logging
 Repository: PCVS
--------------------
