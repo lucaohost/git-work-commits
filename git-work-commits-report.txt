@@ -2502,3 +2502,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Commit to retrigger pipeline
 Repository: cross-docking-expediter
 -------------------
+Commit: 200f247d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T10:39:14-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Update impact level
+Repository: box-email-templates
+-------------------
