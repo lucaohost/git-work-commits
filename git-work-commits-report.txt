@@ -2446,3 +2446,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Change repository owner slug
 Repository: cross-docking-expediter
 -------------------
+Commit: af107ee0
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T08:05:14-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Change repository owner slug
+Repository: logistics-hub-manager
+-------------------
