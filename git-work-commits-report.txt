@@ -2460,3 +2460,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Update impact level
 Repository: ifood-box-api
 -------------------
+Commit: 3f328624
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T10:08:30-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Update impact level
+Repository: ifood-box-site
+-------------------
