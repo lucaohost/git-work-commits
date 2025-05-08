@@ -2495,3 +2495,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Update impact level
 Repository: logistics-hub-manager
 -------------------
+Commit: 8d25bf39
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T10:18:18-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Commit to retrigger pipeline
+Repository: cross-docking-expediter
+-------------------
