@@ -347,3 +347,4 @@ ff15c7fc|lucas.reginatto@ifood.com.br|2025-05-08T07:41:30-03:00|chore/DXAH-2438|
 5c9d141e|lucas.reginatto@ifood.com.br|2025-05-08T07:44:30-03:00|main|Chore: Change repository owner slug|cross-docking-expediter
 670f967a|lucas.reginatto@ifood.com.br|2025-05-08T07:51:02-03:00|chore/DXAH-2438|Revert "Chore: Change repository owner slug"|cross-docking-expediter
 670f967a|lucas.reginatto@ifood.com.br|2025-05-08T07:51:02-03:00|chore/DXAH-2438|Revert "Chore: Change repository owner slug"|cross-docking-expediter
+ae6bf35e|lucas.reginatto@ifood.com.br|2025-05-08T07:52:52-03:00|chore/DXAH-2438|Chore: Change repository owner slug|cross-docking-expediter
