@@ -352,3 +352,4 @@ af107ee0|lucas.reginatto@ifood.com.br|2025-05-08T08:05:14-03:00|chore/DXAH-2438|
 15a7552c|lucas.reginatto@ifood.com.br|2025-05-08T10:05:56-03:00|chore/DXAH-2438|Chore: Update impact level|ifood-box-api
 3f328624|lucas.reginatto@ifood.com.br|2025-05-08T10:08:30-03:00|chore/DXAH-2438|Chore: Update impact level|ifood-box-site
 0d113c3d|lucas.reginatto@ifood.com.br|2025-05-08T10:10:15-03:00|chore/DXAH-2438|Chore: Update impact level|logistics-box-admin-api
+1df70658|lucas.reginatto@ifood.com.br|2025-05-08T10:11:13-03:00|chore/DXAH-2438|Chore: Update impact level|logistics-box-admin-web
