@@ -2355,3 +2355,10 @@ Branch: chore/DXAH-2438
 Commit Message: Docs: Add changelog
 Repository: ifood-box-api
 -------------------
+Commit: 45e059fe
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T07:06:30-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Change repository owner slug
+Repository: ifood-box-site
+-------------------
