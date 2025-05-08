@@ -2404,3 +2404,10 @@ Branch: chore/DXAH-2438
 Commit Message: feat: CENSORED_COMMIT_MESSAGE
 Repository: ifood-box-site
 -------------------
+Commit: c9cb281a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T07:38:27-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Change repository owner slug
+Repository: logistics-box-admin-web
+-------------------
