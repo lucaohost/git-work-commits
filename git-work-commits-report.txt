@@ -2334,3 +2334,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: docs: Add To Do
 Repository: PCVS
 -------------------
+Commit: b13f9848
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T06:57:58-03:00
+Branch: chore/DXAH-2438
+Commit Message: chore: Change repository owner slug
+Repository: box-email-templates
+-------------------
