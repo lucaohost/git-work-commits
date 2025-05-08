@@ -2453,3 +2453,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Change repository owner slug
 Repository: logistics-hub-manager
 -------------------
+Commit: 15a7552c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T10:05:56-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Update impact level
+Repository: ifood-box-api
+-------------------
