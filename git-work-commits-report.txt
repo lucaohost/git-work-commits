@@ -2341,3 +2341,10 @@ Branch: chore/DXAH-2438
 Commit Message: chore: Change repository owner slug
 Repository: box-email-templates
 -------------------
+Commit: f87261bb
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-08T07:00:35-03:00
+Branch: chore/DXAH-2438
+Commit Message: chore: Change repository owner slug
+Repository: ifood-box-api
+-------------------

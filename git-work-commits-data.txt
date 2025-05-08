@@ -333,3 +333,4 @@ d2fa0466|lucas.reginatto@ifood.com.br|2025-05-05T10:08:26-03:00|fix/SEC-600336|M
 6013aa8f|lucas.reginatto@unisinos.com.br|2025-05-06T08:24:46-03:00|feat/paleoclimate-visualization-system|feat: Trim whitespace from Show on Maps cell values before validation|PCVS
 1d6b39b5|lucas.reginatto@unisinos.com.br|2025-05-06T08:44:37-03:00|feat/paleoclimate-visualization-system|docs: Add To Do|PCVS
 b13f9848|lucas.reginatto@ifood.com.br|2025-05-08T06:57:58-03:00|chore/DXAH-2438|chore: Change repository owner slug|box-email-templates
+f87261bb|lucas.reginatto@ifood.com.br|2025-05-08T07:00:35-03:00|chore/DXAH-2438|chore: Change repository owner slug|ifood-box-api
