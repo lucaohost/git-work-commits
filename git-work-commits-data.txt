@@ -337,3 +337,4 @@ f87261bb|lucas.reginatto@ifood.com.br|2025-05-08T07:00:35-03:00|chore/DXAH-2438|
 4692cfba|lucas.reginatto@ifood.com.br|2025-05-08T07:03:36-03:00|chore/DXAH-2438|Docs: Add changelog|ifood-box-api
 45e059fe|lucas.reginatto@ifood.com.br|2025-05-08T07:06:30-03:00|chore/DXAH-2438|Chore: Change repository owner slug|ifood-box-site
 45e059fe|lucas.reginatto@ifood.com.br|2025-05-08T07:06:30-03:00|chore/DXAH-2438|Chore: Change repository owner slug|ifood-box-site
+45e059fe|lucas.reginatto@ifood.com.br|2025-05-08T07:06:30-03:00|chore/DXAH-2438|Chore: Change repository owner slug|ifood-box-site
