@@ -359,3 +359,4 @@ cd315e27|lucas.reginatto@ifood.com.br|2025-05-08T10:12:06-03:00|chore/DXAH-2438|
 200f247d|lucas.reginatto@ifood.com.br|2025-05-08T10:39:14-03:00|chore/DXAH-2438|Chore: Update impact level|box-email-templates
 d62ab9c0|lucas.reginatto@ifood.com.br|2025-05-08T11:24:10-03:00|chore/DXAH-2438|feat: CENSORED_COMMIT_MESSAGE|logistics-box-admin-web
 ee0acc13|lucas.reginatto@unisinos.com.br|2025-05-09T08:32:14-03:00|feat/paleoclimate-visualization-system|Feat: Add Coordinates Converter V2|PCVS
+50d22223|lucas.reginatto@unisinos.com.br|2025-05-09T08:35:30-03:00|feat/paleoclimate-visualization-system|Fix: Remove double attribution on reconstruction time|PCVS

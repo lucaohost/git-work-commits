@@ -2523,3 +2523,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Feat: Add Coordinates Converter V2
 Repository: PCVS
 -------------------
+Commit: 50d22223
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-09T08:35:30-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Fix: Remove double attribution on reconstruction time
+Repository: PCVS
+-------------------
