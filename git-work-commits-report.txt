@@ -2537,3 +2537,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Test: Add test to 100 milions year ago
 Repository: PCVS
 -------------------
+Commit: d202d509
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-09T08:55:07-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Test: Add test to 120 milions year ago
+Repository: PCVS
+-------------------
