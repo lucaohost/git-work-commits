@@ -362,3 +362,4 @@ ee0acc13|lucas.reginatto@unisinos.com.br|2025-05-09T08:32:14-03:00|feat/paleocli
 50d22223|lucas.reginatto@unisinos.com.br|2025-05-09T08:35:30-03:00|feat/paleoclimate-visualization-system|Fix: Remove double attribution on reconstruction time|PCVS
 27481f2a|lucas.reginatto@unisinos.com.br|2025-05-09T08:50:45-03:00|feat/paleoclimate-visualization-system|Test: Add test to 100 milions year ago|PCVS
 d202d509|lucas.reginatto@unisinos.com.br|2025-05-09T08:55:07-03:00|feat/paleoclimate-visualization-system|Test: Add test to 120 milions year ago|PCVS
+cd2a1a71|lucas.reginatto@unisinos.com.br|2025-05-09T09:02:54-03:00|feat/paleoclimate-visualization-system|Docs: Add README about PyGplates and Python Version|PCVS
