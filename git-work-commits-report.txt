@@ -2558,3 +2558,10 @@ Branch: chore/DXAH-2437
 Commit Message: Chore: Enable Canary 2.0
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: 82eb18d9
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-13T10:26:26-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Enable Canary 2.0
+Repository: oraculo-driver-bff
+-------------------

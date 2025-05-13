@@ -364,3 +364,4 @@ ee0acc13|lucas.reginatto@unisinos.com.br|2025-05-09T08:32:14-03:00|feat/paleocli
 d202d509|lucas.reginatto@unisinos.com.br|2025-05-09T08:55:07-03:00|feat/paleoclimate-visualization-system|Test: Add test to 120 milions year ago|PCVS
 cd2a1a71|lucas.reginatto@unisinos.com.br|2025-05-09T09:02:54-03:00|feat/paleoclimate-visualization-system|Docs: Add README about PyGplates and Python Version|PCVS
 6592d64f|lucas.reginatto@ifood.com.br|2025-05-13T10:23:42-03:00|chore/DXAH-2437|Chore: Enable Canary 2.0|logistics-delivery-chatbot-faq
+82eb18d9|lucas.reginatto@ifood.com.br|2025-05-13T10:26:26-03:00|chore/DXAH-2438|Chore: Enable Canary 2.0|oraculo-driver-bff
