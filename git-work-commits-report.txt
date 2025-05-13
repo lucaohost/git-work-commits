@@ -2565,3 +2565,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Enable Canary 2.0
 Repository: oraculo-driver-bff
 -------------------
+Commit: 89a4be2b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-13T15:33:24-03:00
+Branch: chore/DXAH-2438
+Commit Message: Docs: Add Changelog
+Repository: oraculo-driver-bff
+-------------------
