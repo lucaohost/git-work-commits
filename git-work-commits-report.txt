@@ -2551,3 +2551,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Docs: Add README about PyGplates and Python Version
 Repository: PCVS
 -------------------
+Commit: 6592d64f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-13T10:23:42-03:00
+Branch: chore/DXAH-2437
+Commit Message: Chore: Enable Canary 2.0
+Repository: logistics-delivery-chatbot-faq
+-------------------
