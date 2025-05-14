@@ -2572,3 +2572,10 @@ Branch: chore/DXAH-2438
 Commit Message: Docs: Add Changelog
 Repository: oraculo-driver-bff
 -------------------
+Commit: 2995c815
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-14T20:15:03-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Feat: Update points data
+Repository: PCVS
+-------------------
