@@ -2586,3 +2586,10 @@ Branch: chore/DXAH-2437
 Commit Message: Chore: Enable Canary 2.0
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 2781f8c2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-15T10:41:57-03:00
+Branch: chore/DXAH-2437
+Commit Message: Chore: Enable Canary 2.0
+Repository: sentinel-classifier
+-------------------
