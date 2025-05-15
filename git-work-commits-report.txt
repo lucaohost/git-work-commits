@@ -2579,3 +2579,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Feat: Update points data
 Repository: PCVS
 -------------------
+Commit: af548251
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-15T10:37:07-03:00
+Branch: chore/DXAH-2437
+Commit Message: Chore: Enable Canary 2.0
+Repository: logistics-delivery-driver-faq
+-------------------
