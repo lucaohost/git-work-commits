@@ -2593,3 +2593,10 @@ Branch: chore/DXAH-2437
 Commit Message: Chore: Enable Canary 2.0
 Repository: sentinel-classifier
 -------------------
+Commit: d3e6c22c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-15T10:44:18-03:00
+Branch: chore/DXAH-2437
+Commit Message: Docs: Add changelog
+Repository: logistics-delivery-chatbot-faq
+-------------------

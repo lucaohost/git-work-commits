@@ -369,3 +369,4 @@ cd2a1a71|lucas.reginatto@unisinos.com.br|2025-05-09T09:02:54-03:00|feat/paleocli
 2995c815|lucas.reginatto@unisinos.com.br|2025-05-14T20:15:03-03:00|feat/paleoclimate-visualization-system|Feat: Update points data|PCVS
 af548251|lucas.reginatto@ifood.com.br|2025-05-15T10:37:07-03:00|chore/DXAH-2437|Chore: Enable Canary 2.0|logistics-delivery-driver-faq
 2781f8c2|lucas.reginatto@ifood.com.br|2025-05-15T10:41:57-03:00|chore/DXAH-2437|Chore: Enable Canary 2.0|sentinel-classifier
+d3e6c22c|lucas.reginatto@ifood.com.br|2025-05-15T10:44:18-03:00|chore/DXAH-2437|Docs: Add changelog|logistics-delivery-chatbot-faq
