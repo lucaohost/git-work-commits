@@ -2600,3 +2600,10 @@ Branch: chore/DXAH-2437
 Commit Message: Docs: Add changelog
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: f61e84ea
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-15T13:45:28-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Remove canary on branch for first canary 2.0 deploy
+Repository: oraculo-driver-bff
+-------------------
