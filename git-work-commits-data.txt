@@ -372,3 +372,4 @@ af548251|lucas.reginatto@ifood.com.br|2025-05-15T10:37:07-03:00|chore/DXAH-2437|
 d3e6c22c|lucas.reginatto@ifood.com.br|2025-05-15T10:44:18-03:00|chore/DXAH-2437|Docs: Add changelog|logistics-delivery-chatbot-faq
 f61e84ea|lucas.reginatto@ifood.com.br|2025-05-15T13:45:28-03:00|chore/DXAH-2438|Chore: Remove canary on branch for first canary 2.0 deploy|oraculo-driver-bff
 574f69eb|lucas.reginatto@ifood.com.br|2025-05-15T13:47:20-03:00|chore/DXAH-2437|Chore: Remove canary on branch for first canary 2.0 deploy|logistics-delivery-driver-faq
+d6c8b1d2|lucas.reginatto@ifood.com.br|2025-05-15T16:50:39-03:00|chore/DXAH-2437|Chore: Remove canary on branch for first canary 2.0 deploy|logistics-delivery-chatbot-faq
