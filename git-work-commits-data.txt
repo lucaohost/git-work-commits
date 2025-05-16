@@ -377,3 +377,4 @@ d6c8b1d2|lucas.reginatto@ifood.com.br|2025-05-15T16:50:39-03:00|chore/DXAH-2437|
 abf3fb3b|lucas.reginatto@unisinos.com.br|2025-05-16T08:26:32-03:00|feat/paleoclimate-visualization-system|Refactor: Truncate longitude and latitude|PCVS
 854ad6a2|lucas.reginatto@unisinos.com.br|2025-05-16T08:38:36-03:00|feat/paleoclimate-visualization-system|Test: Add other coordinates tests|PCVS
 2cd42b67|lucas.reginatto@unisinos.com.br|2025-05-16T08:45:24-03:00|feat/paleoclimate-visualization-system|Docs: Update To Do|PCVS
+bbe3ebac|lucas.reginatto@ifood.com.br|2025-05-16T10:06:14-03:00|chore/DXAH-2438|Chore: Increase memory/cpu to avoid timeout deploy|oraculo-driver-bff

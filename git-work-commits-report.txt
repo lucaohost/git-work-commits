@@ -2649,3 +2649,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Docs: Update To Do
 Repository: PCVS
 -------------------
+Commit: bbe3ebac
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-16T10:06:14-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Increase memory/cpu to avoid timeout deploy
+Repository: oraculo-driver-bff
+-------------------
