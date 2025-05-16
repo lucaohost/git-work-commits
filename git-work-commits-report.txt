@@ -2642,3 +2642,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Test: Add other coordinates tests
 Repository: PCVS
 -------------------
+Commit: 2cd42b67
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-16T08:45:24-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Docs: Update To Do
+Repository: PCVS
+-------------------
