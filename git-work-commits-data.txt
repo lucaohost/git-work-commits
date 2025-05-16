@@ -374,3 +374,4 @@ f61e84ea|lucas.reginatto@ifood.com.br|2025-05-15T13:45:28-03:00|chore/DXAH-2438|
 574f69eb|lucas.reginatto@ifood.com.br|2025-05-15T13:47:20-03:00|chore/DXAH-2437|Chore: Remove canary on branch for first canary 2.0 deploy|logistics-delivery-driver-faq
 d6c8b1d2|lucas.reginatto@ifood.com.br|2025-05-15T16:50:39-03:00|chore/DXAH-2437|Chore: Remove canary on branch for first canary 2.0 deploy|logistics-delivery-chatbot-faq
 5d556ea4|lucas.reginatto@unisinos.com.br|2025-05-16T08:23:50-03:00|feat/paleoclimate-visualization-system|Fix: Coordinates converter|PCVS
+abf3fb3b|lucas.reginatto@unisinos.com.br|2025-05-16T08:26:32-03:00|feat/paleoclimate-visualization-system|Refactor: Truncate longitude and latitude|PCVS

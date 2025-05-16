@@ -2628,3 +2628,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Fix: Coordinates converter
 Repository: PCVS
 -------------------
+Commit: abf3fb3b
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-16T08:26:32-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Refactor: Truncate longitude and latitude
+Repository: PCVS
+-------------------
