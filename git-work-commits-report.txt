@@ -2635,3 +2635,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: Refactor: Truncate longitude and latitude
 Repository: PCVS
 -------------------
+Commit: 854ad6a2
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-16T08:38:36-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: Test: Add other coordinates tests
+Repository: PCVS
+-------------------
