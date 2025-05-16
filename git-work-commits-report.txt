@@ -2663,3 +2663,10 @@ Branch: chore/DXAH-2438
 Commit Message: Refactor: Measure unit on cpu to follow the pattern
 Repository: oraculo-driver-bff
 -------------------
+Commit: 7b95f9d4
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-16T10:28:32-03:00
+Branch: chore/DXAH-2438
+Commit Message: Chore: Increase memory/cpu to test sandbox deploy
+Repository: oraculo-driver-bff
+-------------------
