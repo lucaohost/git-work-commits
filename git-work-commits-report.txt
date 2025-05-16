@@ -2656,3 +2656,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Increase memory/cpu to avoid timeout deploy
 Repository: oraculo-driver-bff
 -------------------
+Commit: 6efd8337
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-16T10:08:17-03:00
+Branch: chore/DXAH-2438
+Commit Message: Refactor: Measure unit on cpu to follow the pattern
+Repository: oraculo-driver-bff
+-------------------
