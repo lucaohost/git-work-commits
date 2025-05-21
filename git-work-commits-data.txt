@@ -383,3 +383,4 @@ bbe3ebac|lucas.reginatto@ifood.com.br|2025-05-16T10:06:14-03:00|chore/DXAH-2438|
 fb767d96|lucas.reginatto@ifood.com.br|2025-05-16T17:29:56-03:00|chore/DXAH-2438|Chore: Increase helm timeout to test sandbox deploy|oraculo-driver-bff
 3666590e|lucas.reginatto@ifood.com.br|2025-05-21T09:46:12-03:00|chore/DXAH-2437-2|Revert "Chore: Enable Canary 2.0"|sentinel-classifier
 dba20baf|lucas.reginatto@ifood.com.br|2025-05-21T09:50:16-03:00|chore/DXAH-2437-2|docs: Add changelgo|sentinel-classifier
+b38becd1|lucas.reginatto@ifood.com.br|2025-05-21T10:38:39-03:00|chore/DXAH-2438|chore: Update CI to test Canary V2|oraculo-driver-bff

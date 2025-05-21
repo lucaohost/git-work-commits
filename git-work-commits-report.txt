@@ -2691,3 +2691,10 @@ Branch: chore/DXAH-2437-2
 Commit Message: docs: Add changelgo
 Repository: sentinel-classifier
 -------------------
+Commit: b38becd1
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T10:38:39-03:00
+Branch: chore/DXAH-2438
+Commit Message: chore: Update CI to test Canary V2
+Repository: oraculo-driver-bff
+-------------------
