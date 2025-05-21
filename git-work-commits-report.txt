@@ -2698,3 +2698,10 @@ Branch: chore/DXAH-2438
 Commit Message: chore: Update CI to test Canary V2
 Repository: oraculo-driver-bff
 -------------------
+Commit: fb9773dc
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T11:20:29-03:00
+Branch: chore/DXAH-2438
+Commit Message: fix: Healthcheck liveness and readiness
+Repository: oraculo-driver-bff
+-------------------
