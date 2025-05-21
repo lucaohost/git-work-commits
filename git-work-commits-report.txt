@@ -2712,3 +2712,10 @@ Branch: chore/DXAH-2438
 Commit Message: Fix: Remove unnecessary CI changes
 Repository: oraculo-driver-bff
 -------------------
+Commit: 22dd364c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T13:29:57-03:00
+Branch: chore/DXAH-2437-2
+Commit Message: chore: Update codeowners to allow approves
+Repository: sentinel-classifier
+-------------------

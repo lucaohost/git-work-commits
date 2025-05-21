@@ -386,3 +386,4 @@ dba20baf|lucas.reginatto@ifood.com.br|2025-05-21T09:50:16-03:00|chore/DXAH-2437-
 b38becd1|lucas.reginatto@ifood.com.br|2025-05-21T10:38:39-03:00|chore/DXAH-2438|chore: Update CI to test Canary V2|oraculo-driver-bff
 fb9773dc|lucas.reginatto@ifood.com.br|2025-05-21T11:20:29-03:00|chore/DXAH-2438|fix: Healthcheck liveness and readiness|oraculo-driver-bff
 122b9890|lucas.reginatto@ifood.com.br|2025-05-21T13:12:43-03:00|chore/DXAH-2438|Fix: Remove unnecessary CI changes|oraculo-driver-bff
+22dd364c|lucas.reginatto@ifood.com.br|2025-05-21T13:29:57-03:00|chore/DXAH-2437-2|chore: Update codeowners to allow approves|sentinel-classifier
