@@ -2726,3 +2726,10 @@ Branch: chore/DXAH-2437
 Commit Message: Merge branch 'main' into chore/DXAH-2437
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: cc446f4a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T15:15:07-03:00
+Branch: chore/DXAH-2437
+Commit Message: chore: Add properties to allow Canary V2
+Repository: logistics-delivery-chatbot-faq
+-------------------
