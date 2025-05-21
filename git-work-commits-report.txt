@@ -2719,3 +2719,10 @@ Branch: chore/DXAH-2437-2
 Commit Message: chore: Update codeowners to allow approves
 Repository: sentinel-classifier
 -------------------
+Commit: 69cfeef9
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T15:10:27-03:00
+Branch: chore/DXAH-2437
+Commit Message: Merge branch 'main' into chore/DXAH-2437
+Repository: logistics-delivery-chatbot-faq
+-------------------
