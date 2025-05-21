@@ -390,3 +390,4 @@ fb9773dc|lucas.reginatto@ifood.com.br|2025-05-21T11:20:29-03:00|chore/DXAH-2438|
 69cfeef9|lucas.reginatto@ifood.com.br|2025-05-21T15:10:27-03:00|chore/DXAH-2437|Merge branch 'main' into chore/DXAH-2437|logistics-delivery-chatbot-faq
 cc446f4a|lucas.reginatto@ifood.com.br|2025-05-21T15:15:07-03:00|chore/DXAH-2437|chore: Add properties to allow Canary V2|logistics-delivery-chatbot-faq
 fa794fff|lucas.reginatto@ifood.com.br|2025-05-21T16:41:19-03:00|chore/DXAH-2437|test: Revert values canary delete to test canary v2 sandbox|logistics-delivery-chatbot-faq
+67139736|lucas.reginatto@ifood.com.br|2025-05-21T16:54:08-03:00|test/pipeline-test|test: Sandbox deploy with clean main|logistics-delivery-chatbot-faq

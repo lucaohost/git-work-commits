@@ -2740,3 +2740,10 @@ Branch: chore/DXAH-2437
 Commit Message: test: Revert values canary delete to test canary v2 sandbox
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: 67139736
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T16:54:08-03:00
+Branch: test/pipeline-test
+Commit Message: test: Sandbox deploy with clean main
+Repository: logistics-delivery-chatbot-faq
+-------------------
