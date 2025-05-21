@@ -2677,3 +2677,10 @@ Branch: chore/DXAH-2438
 Commit Message: Chore: Increase helm timeout to test sandbox deploy
 Repository: oraculo-driver-bff
 -------------------
+Commit: 3666590e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T09:46:12-03:00
+Branch: chore/DXAH-2437-2
+Commit Message: Revert "Chore: Enable Canary 2.0"
+Repository: sentinel-classifier
+-------------------
