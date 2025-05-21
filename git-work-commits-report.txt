@@ -2733,3 +2733,10 @@ Branch: chore/DXAH-2437
 Commit Message: chore: Add properties to allow Canary V2
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: fa794fff
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-21T16:41:19-03:00
+Branch: chore/DXAH-2437
+Commit Message: test: Revert values canary delete to test canary v2 sandbox
+Repository: logistics-delivery-chatbot-faq
+-------------------
