@@ -2761,3 +2761,10 @@ Branch: test/pipeline-test
 Commit Message: fix: Encoding name file on vectorize job
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: 19295ce6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-22T14:11:28-03:00
+Branch: chore/DXAH-2437
+Commit Message: Merge branch 'main' into chore/DXAH-2437
+Repository: logistics-delivery-chatbot-faq
+-------------------
