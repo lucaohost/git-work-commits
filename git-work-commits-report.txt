@@ -2754,3 +2754,10 @@ Branch: test/pipeline-test
 Commit Message: test: Sandbox deploy with clean main
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: bf8e45ef
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-22T11:03:10-03:00
+Branch: test/pipeline-test
+Commit Message: fix: Encoding name file on vectorize job
+Repository: logistics-delivery-chatbot-faq
+-------------------

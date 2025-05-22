@@ -392,3 +392,4 @@ cc446f4a|lucas.reginatto@ifood.com.br|2025-05-21T15:15:07-03:00|chore/DXAH-2437|
 fa794fff|lucas.reginatto@ifood.com.br|2025-05-21T16:41:19-03:00|chore/DXAH-2437|test: Revert values canary delete to test canary v2 sandbox|logistics-delivery-chatbot-faq
 67139736|lucas.reginatto@ifood.com.br|2025-05-21T16:54:08-03:00|test/pipeline-test|test: Sandbox deploy with clean main|logistics-delivery-chatbot-faq
 f294a400|lucas.reginatto@ifood.com.br|2025-05-21T17:16:58-03:00|test/pipeline-test|test: Sandbox deploy with clean main|logistics-delivery-chatbot-faq
+bf8e45ef|lucas.reginatto@ifood.com.br|2025-05-22T11:03:10-03:00|test/pipeline-test|fix: Encoding name file on vectorize job|logistics-delivery-chatbot-faq
