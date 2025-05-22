@@ -2768,3 +2768,10 @@ Branch: chore/DXAH-2437
 Commit Message: Merge branch 'main' into chore/DXAH-2437
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: d73fe9f4
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-22T14:13:45-03:00
+Branch: chore/DXAH-2437
+Commit Message: test: Remove file test values-canary
+Repository: logistics-delivery-chatbot-faq
+-------------------
