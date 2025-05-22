@@ -395,3 +395,4 @@ f294a400|lucas.reginatto@ifood.com.br|2025-05-21T17:16:58-03:00|test/pipeline-te
 bf8e45ef|lucas.reginatto@ifood.com.br|2025-05-22T11:03:10-03:00|test/pipeline-test|fix: Encoding name file on vectorize job|logistics-delivery-chatbot-faq
 19295ce6|lucas.reginatto@ifood.com.br|2025-05-22T14:11:28-03:00|chore/DXAH-2437|Merge branch 'main' into chore/DXAH-2437|logistics-delivery-chatbot-faq
 d73fe9f4|lucas.reginatto@ifood.com.br|2025-05-22T14:13:45-03:00|chore/DXAH-2437|test: Remove file test values-canary|logistics-delivery-chatbot-faq
+e9ce66ea|lucas.reginatto@ifood.com.br|2025-05-22T14:17:33-03:00|chore/DXAH-2437|refactor: Remove unnecessary canary V1 properties|logistics-delivery-chatbot-faq

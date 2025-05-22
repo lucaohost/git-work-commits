@@ -2775,3 +2775,10 @@ Branch: chore/DXAH-2437
 Commit Message: test: Remove file test values-canary
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: e9ce66ea
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-22T14:17:33-03:00
+Branch: chore/DXAH-2437
+Commit Message: refactor: Remove unnecessary canary V1 properties
+Repository: logistics-delivery-chatbot-faq
+-------------------
