@@ -2782,3 +2782,10 @@ Branch: chore/DXAH-2437
 Commit Message: refactor: Remove unnecessary canary V1 properties
 Repository: logistics-delivery-chatbot-faq
 -------------------
+Commit: 523d0a1e
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-23T10:42:45-03:00
+Branch: chore/DXAH-2474
+Commit Message: chore: Enable Canary 2.0 part 2
+Repository: logistics-delivery-driver-faq
+-------------------
