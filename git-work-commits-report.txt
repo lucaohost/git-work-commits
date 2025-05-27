@@ -2789,3 +2789,10 @@ Branch: chore/DXAH-2474
 Commit Message: chore: Enable Canary 2.0 part 2
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 71952c39
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-05-26T23:25:41-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: feat: Plot converted points script to 105 Ma
+Repository: PCVS
+-------------------
