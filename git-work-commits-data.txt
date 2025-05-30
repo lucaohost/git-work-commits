@@ -398,3 +398,4 @@ d73fe9f4|lucas.reginatto@ifood.com.br|2025-05-22T14:13:45-03:00|chore/DXAH-2437|
 e9ce66ea|lucas.reginatto@ifood.com.br|2025-05-22T14:17:33-03:00|chore/DXAH-2437|refactor: Remove unnecessary canary V1 properties|logistics-delivery-chatbot-faq
 523d0a1e|lucas.reginatto@ifood.com.br|2025-05-23T10:42:45-03:00|chore/DXAH-2474|chore: Enable Canary 2.0 part 2|logistics-delivery-driver-faq
 71952c39|lucas.reginatto@unisinos.com.br|2025-05-26T23:25:41-03:00|feat/paleoclimate-visualization-system|feat: Plot converted points script to 105 Ma|PCVS
+80fc1045|lucas.reginatto@unisinos.com.br|2025-05-30T08:19:10-03:00|feat/paleoclimate-visualization-system|feat: Add plot points in maps 105, 110 e 115 Ma|PCVS
