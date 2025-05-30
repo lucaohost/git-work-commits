@@ -401,3 +401,4 @@ e9ce66ea|lucas.reginatto@ifood.com.br|2025-05-22T14:17:33-03:00|chore/DXAH-2437|
 80fc1045|lucas.reginatto@unisinos.com.br|2025-05-30T08:19:10-03:00|feat/paleoclimate-visualization-system|feat: Add plot points in maps 105, 110 e 115 Ma|PCVS
 ca63eac3|lucas.reginatto@ifood.com.br|2025-05-30T11:51:34-03:00|master|test: Add Dynamo DB Test|dynamo-db-test
 d92c85b4|lucas.reginatto@ifood.com.br|2025-05-30T11:55:14-03:00|master|test: Add drivers uuids to run script|dynamo-db-test
+de6ad56d|lucas.reginatto@ifood.com.br|2025-05-30T12:34:28-03:00|master|docs: Update step by step to run DynamoDB tests|dynamo-db-test

@@ -2817,3 +2817,10 @@ Branch: master
 Commit Message: test: Add drivers uuids to run script
 Repository: dynamo-db-test
 -------------------
+Commit: de6ad56d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-30T12:34:28-03:00
+Branch: master
+Commit Message: docs: Update step by step to run DynamoDB tests
+Repository: dynamo-db-test
+-------------------
