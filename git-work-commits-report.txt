@@ -2803,3 +2803,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Add plot points in maps 105, 110 e 115 Ma
 Repository: PCVS
 -------------------
+Commit: ca63eac3
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-05-30T11:51:34-03:00
+Branch: master
+Commit Message: test: Add Dynamo DB Test
+Repository: dynamo-db-test
+-------------------
