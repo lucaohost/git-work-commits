@@ -2824,3 +2824,10 @@ Branch: master
 Commit Message: docs: Update step by step to run DynamoDB tests
 Repository: dynamo-db-test
 -------------------
+Commit: 31b542c7
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-04T13:09:01-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: feat: Update tables, refactor maps names and refactor plotting script
+Repository: PCVS
+-------------------
