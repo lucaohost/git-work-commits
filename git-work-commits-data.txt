@@ -403,3 +403,4 @@ ca63eac3|lucas.reginatto@ifood.com.br|2025-05-30T11:51:34-03:00|master|test: Add
 d92c85b4|lucas.reginatto@ifood.com.br|2025-05-30T11:55:14-03:00|master|test: Add drivers uuids to run script|dynamo-db-test
 de6ad56d|lucas.reginatto@ifood.com.br|2025-05-30T12:34:28-03:00|master|docs: Update step by step to run DynamoDB tests|dynamo-db-test
 31b542c7|lucas.reginatto@unisinos.com.br|2025-06-04T13:09:01-03:00|feat/paleoclimate-visualization-system|feat: Update tables, refactor maps names and refactor plotting script|PCVS
+b6113bb2|lucas.reginatto@ifood.com.br|2025-06-05T09:54:21-03:00|refactor/DXAH-1732|refactor: Remove Driver Account old codes and toggle|oraculo-driver-bff

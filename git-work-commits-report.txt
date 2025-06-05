@@ -2831,3 +2831,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Update tables, refactor maps names and refactor plotting script
 Repository: PCVS
 -------------------
+Commit: b6113bb2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-05T09:54:21-03:00
+Branch: refactor/DXAH-1732
+Commit Message: refactor: Remove Driver Account old codes and toggle
+Repository: oraculo-driver-bff
+-------------------
