@@ -2901,3 +2901,10 @@ Branch: refactor/DXAH-1732
 Commit Message: refactor: Remove driver account v1 from ModuleDI
 Repository: oraculo-driver-bff
 -------------------
+Commit: 039271f1
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-06T10:33:30-03:00
+Branch: refactor/DXAH-1732
+Commit Message: test: Fix unit tests
+Repository: oraculo-driver-bff
+-------------------
