@@ -2859,3 +2859,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: docs: Filter error log
 Repository: PCVS
 -------------------
+Commit: b7c1d6f3
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-06T08:33:45-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: refactor: Rename and enhance file existence check for plotted GeoJSON
+Repository: PCVS
+-------------------

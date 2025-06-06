@@ -407,3 +407,4 @@ b6113bb2|lucas.reginatto@ifood.com.br|2025-06-05T09:54:21-03:00|refactor/DXAH-17
 bf929138|lucas.reginatto@unisinos.com.br|2025-06-06T06:42:38-03:00|feat/paleoclimate-visualization-system|data: Add converted geojsons for the rest of the ages|PCVS
 90dde65e|lucas.reginatto@unisinos.com.br|2025-06-06T08:06:11-03:00|feat/paleoclimate-visualization-system|perf: Improve XLSX Plotter to plot all maps in the same iteration|PCVS
 22b3b629|lucas.reginatto@unisinos.com.br|2025-06-06T08:18:17-03:00|feat/paleoclimate-visualization-system|docs: Filter error log|PCVS
+b7c1d6f3|lucas.reginatto@unisinos.com.br|2025-06-06T08:33:45-03:00|feat/paleoclimate-visualization-system|refactor: Rename and enhance file existence check for plotted GeoJSON|PCVS
