@@ -2852,3 +2852,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: perf: Improve XLSX Plotter to plot all maps in the same iteration
 Repository: PCVS
 -------------------
+Commit: 22b3b629
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-06T08:18:17-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Filter error log
+Repository: PCVS
+-------------------
