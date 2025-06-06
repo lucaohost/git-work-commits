@@ -405,3 +405,4 @@ de6ad56d|lucas.reginatto@ifood.com.br|2025-05-30T12:34:28-03:00|master|docs: Upd
 31b542c7|lucas.reginatto@unisinos.com.br|2025-06-04T13:09:01-03:00|feat/paleoclimate-visualization-system|feat: Update tables, refactor maps names and refactor plotting script|PCVS
 b6113bb2|lucas.reginatto@ifood.com.br|2025-06-05T09:54:21-03:00|refactor/DXAH-1732|refactor: Remove Driver Account old codes and toggle|oraculo-driver-bff
 bf929138|lucas.reginatto@unisinos.com.br|2025-06-06T06:42:38-03:00|feat/paleoclimate-visualization-system|data: Add converted geojsons for the rest of the ages|PCVS
+90dde65e|lucas.reginatto@unisinos.com.br|2025-06-06T08:06:11-03:00|feat/paleoclimate-visualization-system|perf: Improve XLSX Plotter to plot all maps in the same iteration|PCVS

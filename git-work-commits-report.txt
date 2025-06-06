@@ -2845,3 +2845,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: data: Add converted geojsons for the rest of the ages
 Repository: PCVS
 -------------------
+Commit: 90dde65e
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-06T08:06:11-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: perf: Improve XLSX Plotter to plot all maps in the same iteration
+Repository: PCVS
+-------------------
