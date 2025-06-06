@@ -2866,3 +2866,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: refactor: Rename and enhance file existence check for plotted GeoJSON
 Repository: PCVS
 -------------------
+Commit: 0343f3a6
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-06T09:25:33-03:00
+Branch: refactor/DXAH-1732
+Commit Message: refactor: Remove DriverAccountV1 Toggle and Tests
+Repository: oraculo-driver-bff
+-------------------
