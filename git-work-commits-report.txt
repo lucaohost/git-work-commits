@@ -2873,3 +2873,10 @@ Branch: refactor/DXAH-1732
 Commit Message: refactor: Remove DriverAccountV1 Toggle and Tests
 Repository: oraculo-driver-bff
 -------------------
+Commit: 52e2f29b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-06T09:56:09-03:00
+Branch: refactor/DXAH-1732
+Commit Message: test: Update driver account related tests
+Repository: oraculo-driver-bff
+-------------------
