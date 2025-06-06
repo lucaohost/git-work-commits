@@ -2894,3 +2894,10 @@ Branch: refactor/DXAH-1732
 Commit Message: Merge branch 'main' into refactor/DXAH-1732
 Repository: oraculo-driver-bff
 -------------------
+Commit: 94950d2b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-06T10:17:49-03:00
+Branch: refactor/DXAH-1732
+Commit Message: refactor: Remove driver account v1 from ModuleDI
+Repository: oraculo-driver-bff
+-------------------
