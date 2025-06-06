@@ -415,3 +415,4 @@ b7c1d6f3|lucas.reginatto@unisinos.com.br|2025-06-06T08:33:45-03:00|feat/paleocli
 >>>>>>> 5d61b33 (refactor: Remove DriverAccountV1 Toggle and Tests)
 52e2f29b|lucas.reginatto@ifood.com.br|2025-06-06T09:56:09-03:00|refactor/DXAH-1732|test: Update driver account related tests|oraculo-driver-bff
 183c57b7|lucas.reginatto@ifood.com.br|2025-06-06T10:04:29-03:00|refactor/DXAH-1732|refactor: Remove old method/variables of driver account v1|oraculo-driver-bff
+0761151b|lucas.reginatto@ifood.com.br|2025-06-06T10:07:12-03:00|refactor/DXAH-1732|Merge branch 'main' into refactor/DXAH-1732|oraculo-driver-bff

@@ -2887,3 +2887,10 @@ Branch: refactor/DXAH-1732
 Commit Message: refactor: Remove old method/variables of driver account v1
 Repository: oraculo-driver-bff
 -------------------
+Commit: 0761151b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-06T10:07:12-03:00
+Branch: refactor/DXAH-1732
+Commit Message: Merge branch 'main' into refactor/DXAH-1732
+Repository: oraculo-driver-bff
+-------------------
