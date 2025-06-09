@@ -2922,3 +2922,10 @@ Branch: refactor/DXAH-1732
 Commit Message: refactor: DriverAccountV1 usages to DriverAccountV2
 Repository: oraculo-driver-bff
 -------------------
+Commit: f3005aeb
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-09T10:52:26-03:00
+Branch: refactor/DXAH-1732
+Commit Message: refactor: Remove old DriverAccountV1 tests
+Repository: oraculo-driver-bff
+-------------------
