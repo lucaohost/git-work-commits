@@ -421,3 +421,4 @@ b7c1d6f3|lucas.reginatto@unisinos.com.br|2025-06-06T08:33:45-03:00|feat/paleocli
 954d6b8b|lucas.reginatto@ifood.com.br|2025-06-06T10:38:15-03:00|refactor/DXAH-1732|revert: API version on OrderDriverRoutes after solve conflicts|oraculo-driver-bff
 f676397c|lucas.reginatto@ifood.com.br|2025-06-09T10:42:00-03:00|refactor/DXAH-1732|refactor: DriverAccountV1 usages to DriverAccountV2|oraculo-driver-bff
 f3005aeb|lucas.reginatto@ifood.com.br|2025-06-09T10:52:26-03:00|refactor/DXAH-1732|refactor: Remove old DriverAccountV1 tests|oraculo-driver-bff
+6dc354c2|lucas.reginatto@ifood.com.br|2025-06-11T08:25:40-03:00|refactor/DXAH-1732|refactor: Remove driver account v1 client and dtos|oraculo-driver-bff

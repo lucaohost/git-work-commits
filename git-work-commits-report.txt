@@ -2929,3 +2929,10 @@ Branch: refactor/DXAH-1732
 Commit Message: refactor: Remove old DriverAccountV1 tests
 Repository: oraculo-driver-bff
 -------------------
+Commit: 6dc354c2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-11T08:25:40-03:00
+Branch: refactor/DXAH-1732
+Commit Message: refactor: Remove driver account v1 client and dtos
+Repository: oraculo-driver-bff
+-------------------
