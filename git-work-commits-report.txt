@@ -2957,3 +2957,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: docs: Update error_log with last script execution
 Repository: PCVS
 -------------------
+Commit: 53258498
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-17T06:44:09-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: log: Improve error log on show on maps
+Repository: PCVS
+-------------------

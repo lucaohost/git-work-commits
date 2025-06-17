@@ -425,3 +425,4 @@ f3005aeb|lucas.reginatto@ifood.com.br|2025-06-09T10:52:26-03:00|refactor/DXAH-17
 9dfc7a68|lucas.reginatto@ifood.com.br|2025-06-11T08:29:39-03:00|refactor/DXAH-1732|docs: Add changelog|oraculo-driver-bff
 8c410131|lucas.reginatto@unisinos.com.br|2025-06-17T05:24:15-03:00|feat/paleoclimate-visualization-system|feat: Add logs of lines processed and points plotted|PCVS
 27b26599|lucas.reginatto@unisinos.com.br|2025-06-17T06:33:20-03:00|feat/paleoclimate-visualization-system|docs: Update error_log with last script execution|PCVS
+53258498|lucas.reginatto@unisinos.com.br|2025-06-17T06:44:09-03:00|feat/paleoclimate-visualization-system|log: Improve error log on show on maps|PCVS
