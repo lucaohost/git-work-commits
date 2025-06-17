@@ -2971,3 +2971,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: docs: Clean logs and keep only crucial errors
 Repository: PCVS
 -------------------
+Commit: c99ed835
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-17T10:25:29-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: feat: Add DriverSafetyScoreController
+Repository: logistics-delivery-driver-safety
+-------------------
