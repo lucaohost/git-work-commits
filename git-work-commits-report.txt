@@ -2964,3 +2964,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: log: Improve error log on show on maps
 Repository: PCVS
 -------------------
+Commit: b35375f2
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-17T07:02:05-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Clean logs and keep only crucial errors
+Repository: PCVS
+-------------------
