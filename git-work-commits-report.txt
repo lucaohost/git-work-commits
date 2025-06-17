@@ -2943,3 +2943,10 @@ Branch: refactor/DXAH-1732
 Commit Message: docs: Add changelog
 Repository: oraculo-driver-bff
 -------------------
+Commit: 8c410131
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-17T05:24:15-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: feat: Add logs of lines processed and points plotted
+Repository: PCVS
+-------------------

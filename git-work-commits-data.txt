@@ -423,3 +423,4 @@ f676397c|lucas.reginatto@ifood.com.br|2025-06-09T10:42:00-03:00|refactor/DXAH-17
 f3005aeb|lucas.reginatto@ifood.com.br|2025-06-09T10:52:26-03:00|refactor/DXAH-1732|refactor: Remove old DriverAccountV1 tests|oraculo-driver-bff
 6dc354c2|lucas.reginatto@ifood.com.br|2025-06-11T08:25:40-03:00|refactor/DXAH-1732|refactor: Remove driver account v1 client and dtos|oraculo-driver-bff
 9dfc7a68|lucas.reginatto@ifood.com.br|2025-06-11T08:29:39-03:00|refactor/DXAH-1732|docs: Add changelog|oraculo-driver-bff
+8c410131|lucas.reginatto@unisinos.com.br|2025-06-17T05:24:15-03:00|feat/paleoclimate-visualization-system|feat: Add logs of lines processed and points plotted|PCVS
