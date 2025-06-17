@@ -2950,3 +2950,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: feat: Add logs of lines processed and points plotted
 Repository: PCVS
 -------------------
+Commit: 27b26599
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-17T06:33:20-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Update error_log with last script execution
+Repository: PCVS
+-------------------
