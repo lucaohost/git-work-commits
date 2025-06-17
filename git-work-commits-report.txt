@@ -2978,3 +2978,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: feat: Add DriverSafetyScoreController
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 009c4804
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-17T11:08:00-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: Merge branch 'feat/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into feat/DXAH-2494-2
+Repository: logistics-delivery-driver-safety
+-------------------

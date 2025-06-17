@@ -428,3 +428,4 @@ f3005aeb|lucas.reginatto@ifood.com.br|2025-06-09T10:52:26-03:00|refactor/DXAH-17
 53258498|lucas.reginatto@unisinos.com.br|2025-06-17T06:44:09-03:00|feat/paleoclimate-visualization-system|log: Improve error log on show on maps|PCVS
 b35375f2|lucas.reginatto@unisinos.com.br|2025-06-17T07:02:05-03:00|feat/paleoclimate-visualization-system|docs: Clean logs and keep only crucial errors|PCVS
 c99ed835|lucas.reginatto@ifood.com.br|2025-06-17T10:25:29-03:00|feat/DXAH-2494-2|feat: Add DriverSafetyScoreController|logistics-delivery-driver-safety
+009c4804|lucas.reginatto@ifood.com.br|2025-06-17T11:08:00-03:00|feat/DXAH-2494-2|Merge branch 'feat/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into feat/DXAH-2494-2|logistics-delivery-driver-safety
