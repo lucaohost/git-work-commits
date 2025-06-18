@@ -3020,3 +3020,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: chore: Add Dynamo configs
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 1d91922a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T17:07:35-03:00
+Branch: chore/DXAH-2496-prod
+Commit Message: chore: Update infra component version
+Repository: aws-infrastructure-live
+-------------------
