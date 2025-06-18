@@ -3034,3 +3034,10 @@ Branch: chore/DXAH-2496-sandbox
 Commit Message: chore: Update infra component version
 Repository: aws-infrastructure-live
 -------------------
+Commit: 17772ef2
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T17:11:26-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: chore: Remove unnecessary dynamo config
+Repository: logistics-delivery-driver-safety
+-------------------
