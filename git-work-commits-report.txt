@@ -3027,3 +3027,10 @@ Branch: chore/DXAH-2496-prod
 Commit Message: chore: Update infra component version
 Repository: aws-infrastructure-live
 -------------------
+Commit: 71b0440a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T17:08:50-03:00
+Branch: chore/DXAH-2496-sandbox
+Commit Message: chore: Update infra component version
+Repository: aws-infrastructure-live
+-------------------

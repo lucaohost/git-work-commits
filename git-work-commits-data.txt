@@ -435,3 +435,4 @@ b07aadc3|lucas.reginatto@ifood.com.br|2025-06-18T14:53:55-03:00|chore/DXAH-2496-
 ad6a203b|lucas.reginatto@ifood.com.br|2025-06-18T15:51:04-03:00|feat/DXAH-2494-2|refactor: Entity properties names and adapter|logistics-delivery-driver-safety
 00fb6003|lucas.reginatto@ifood.com.br|2025-06-18T16:56:50-03:00|feat/DXAH-2494-2|chore: Add Dynamo configs|logistics-delivery-driver-safety
 1d91922a|lucas.reginatto@ifood.com.br|2025-06-18T17:07:35-03:00|chore/DXAH-2496-prod|chore: Update infra component version|aws-infrastructure-live
+71b0440a|lucas.reginatto@ifood.com.br|2025-06-18T17:08:50-03:00|chore/DXAH-2496-sandbox|chore: Update infra component version|aws-infrastructure-live
