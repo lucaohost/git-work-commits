@@ -3006,3 +3006,10 @@ Branch: chore/DXAH-2496-prod
 Commit Message: chore: Fix k8s resources
 Repository: aws-infrastructure-live
 -------------------
+Commit: ad6a203b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T15:51:04-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: refactor: Entity properties names and adapter
+Repository: logistics-delivery-driver-safety
+-------------------
