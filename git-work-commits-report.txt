@@ -2992,3 +2992,10 @@ Branch: chore/DXAH-2496-prod
 Commit Message: chore: Add production infra for driver safety service
 Repository: aws-infrastructure-live
 -------------------
+Commit: b07aadc3
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T14:53:55-03:00
+Branch: chore/DXAH-2496-sandbox
+Commit Message: chore: Add sandbox infra for driver safety service
+Repository: aws-infrastructure-live
+-------------------
