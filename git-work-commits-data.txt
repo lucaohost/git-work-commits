@@ -429,3 +429,4 @@ f3005aeb|lucas.reginatto@ifood.com.br|2025-06-09T10:52:26-03:00|refactor/DXAH-17
 b35375f2|lucas.reginatto@unisinos.com.br|2025-06-17T07:02:05-03:00|feat/paleoclimate-visualization-system|docs: Clean logs and keep only crucial errors|PCVS
 c99ed835|lucas.reginatto@ifood.com.br|2025-06-17T10:25:29-03:00|feat/DXAH-2494-2|feat: Add DriverSafetyScoreController|logistics-delivery-driver-safety
 009c4804|lucas.reginatto@ifood.com.br|2025-06-17T11:08:00-03:00|feat/DXAH-2494-2|Merge branch 'feat/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into feat/DXAH-2494-2|logistics-delivery-driver-safety
+5fa68c7b|lucas.reginatto@ifood.com.br|2025-06-18T14:47:41-03:00|chore/DXAH-2496-prod|chore: Add production infra for driver safety service|aws-infrastructure-live

@@ -2985,3 +2985,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: Merge branch 'feat/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into feat/DXAH-2494-2
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 5fa68c7b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T14:47:41-03:00
+Branch: chore/DXAH-2496-prod
+Commit Message: chore: Add production infra for driver safety service
+Repository: aws-infrastructure-live
+-------------------
