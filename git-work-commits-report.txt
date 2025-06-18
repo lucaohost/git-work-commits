@@ -3013,3 +3013,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: refactor: Entity properties names and adapter
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 00fb6003
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-18T16:56:50-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: chore: Add Dynamo configs
+Repository: logistics-delivery-driver-safety
+-------------------

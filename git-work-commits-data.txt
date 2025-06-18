@@ -433,3 +433,4 @@ c99ed835|lucas.reginatto@ifood.com.br|2025-06-17T10:25:29-03:00|feat/DXAH-2494-2
 b07aadc3|lucas.reginatto@ifood.com.br|2025-06-18T14:53:55-03:00|chore/DXAH-2496-sandbox|chore: Add sandbox infra for driver safety service|aws-infrastructure-live
 7d07f1d6|lucas.reginatto@ifood.com.br|2025-06-18T14:55:55-03:00|chore/DXAH-2496-prod|chore: Fix k8s resources|aws-infrastructure-live
 ad6a203b|lucas.reginatto@ifood.com.br|2025-06-18T15:51:04-03:00|feat/DXAH-2494-2|refactor: Entity properties names and adapter|logistics-delivery-driver-safety
+00fb6003|lucas.reginatto@ifood.com.br|2025-06-18T16:56:50-03:00|feat/DXAH-2494-2|chore: Add Dynamo configs|logistics-delivery-driver-safety
