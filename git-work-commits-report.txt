@@ -3041,3 +3041,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: chore: Remove unnecessary dynamo config
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: aa7c064b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-23T17:06:50-03:00
+Branch: chore/DXAH-2496-sandbox
+Commit Message: fix: Sandbox infra for driver safety service
+Repository: aws-infrastructure-live
+-------------------
