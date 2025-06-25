@@ -3048,3 +3048,10 @@ Branch: chore/DXAH-2496-sandbox
 Commit Message: fix: Sandbox infra for driver safety service
 Repository: aws-infrastructure-live
 -------------------
+Commit: 18f3323a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-25T10:42:32-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: refactor: Driver safety score API
+Repository: logistics-delivery-driver-safety
+-------------------
