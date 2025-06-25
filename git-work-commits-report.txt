@@ -3055,3 +3055,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: refactor: Driver safety score API
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: d4d9f230
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-25T10:46:41-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-driver-safety
+-------------------

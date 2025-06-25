@@ -439,3 +439,4 @@ ad6a203b|lucas.reginatto@ifood.com.br|2025-06-18T15:51:04-03:00|feat/DXAH-2494-2
 17772ef2|lucas.reginatto@ifood.com.br|2025-06-18T17:11:26-03:00|feat/DXAH-2494-2|chore: Remove unnecessary dynamo config|logistics-delivery-driver-safety
 aa7c064b|lucas.reginatto@ifood.com.br|2025-06-23T17:06:50-03:00|chore/DXAH-2496-sandbox|fix: Sandbox infra for driver safety service|aws-infrastructure-live
 18f3323a|lucas.reginatto@ifood.com.br|2025-06-25T10:42:32-03:00|feat/DXAH-2494-2|refactor: Driver safety score API|logistics-delivery-driver-safety
+d4d9f230|lucas.reginatto@ifood.com.br|2025-06-25T10:46:41-03:00|feat/DXAH-2494-2|docs: Add changelog|logistics-delivery-driver-safety
