@@ -3111,3 +3111,10 @@ Branch: chore/DXAH-2496-sandbox-4
 Commit Message: chore: Create new Sandbox driver-safety DynamoDB table
 Repository: aws-infrastructure-live
 -------------------
+Commit: 3e68f7ab
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T15:18:19-03:00
+Branch: chore/DXAH-2496-sandbox-4
+Commit Message: chore: Update component version Sandbox driver-safety DynamoDB table
+Repository: aws-infrastructure-live
+-------------------
