@@ -449,3 +449,4 @@ f43de058|lucas.reginatto@ifood.com.br|2025-06-26T15:08:18-03:00|chore/DXAH-2496-
 333b410d|lucas.reginatto@ifood.com.br|2025-06-26T15:10:25-03:00|chore/DXAH-2496-sandbox-4|chore: Create new Sandbox driver-safety DynamoDB table|aws-infrastructure-live
 3e68f7ab|lucas.reginatto@ifood.com.br|2025-06-26T15:18:19-03:00|chore/DXAH-2496-sandbox-4|chore: Update component version Sandbox driver-safety DynamoDB table|aws-infrastructure-live
 6d6e9dd1|lucas.reginatto@ifood.com.br|2025-06-26T15:20:53-03:00|chore/DXAH-2496-prod-4|chore: Update component version Production driver-safety DynamoDB table|aws-infrastructure-live
+b2c5b6e8|lucas.reginatto@ifood.com.br|2025-06-26T15:56:45-03:00|chore/DXAH-2496-prod-4|chore: Add driver-safety Prod dynamo table v2 on IAM resources|aws-infrastructure-live

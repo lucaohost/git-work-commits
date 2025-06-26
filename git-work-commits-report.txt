@@ -3125,3 +3125,10 @@ Branch: chore/DXAH-2496-prod-4
 Commit Message: chore: Update component version Production driver-safety DynamoDB table
 Repository: aws-infrastructure-live
 -------------------
+Commit: b2c5b6e8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T15:56:45-03:00
+Branch: chore/DXAH-2496-prod-4
+Commit Message: chore: Add driver-safety Prod dynamo table v2 on IAM resources
+Repository: aws-infrastructure-live
+-------------------
