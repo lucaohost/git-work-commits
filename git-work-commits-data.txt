@@ -444,3 +444,4 @@ aa8c1536|lucas.reginatto@ifood.com.br|2025-06-26T10:24:19-03:00|feat/DXAH-2494-2
 6903f7da|lucas.reginatto@ifood.com.br|2025-06-26T10:29:02-03:00|feat/DXAH-2494-2|Merge branch 'chore/adjust-endpoint-get-safety-core/DXAH-2496' into feat/DXAH-2494-2|logistics-delivery-driver-safety
 d166ef7a|lucas.reginatto@ifood.com.br|2025-06-26T14:43:50-03:00|chore/DXAH-2496-prod-2|chore: Delete driver-safety DynamoDB table|aws-infrastructure-live
 a156ccef|lucas.reginatto@ifood.com.br|2025-06-26T14:46:36-03:00|chore/DXAH-2496-sandbox-2|chore: Delete Sandbox driver-safety DynamoDB table|aws-infrastructure-live
+8e77f7aa|lucas.reginatto@ifood.com.br|2025-06-26T14:47:29-03:00|chore/DXAH-2496-prod-2|chore: Delete Sandbox driver-safety DynamoDB table|aws-infrastructure-live
