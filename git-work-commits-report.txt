@@ -3062,3 +3062,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: docs: Add changelog
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: aa8c1536
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T10:24:19-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: Merge branch 'main' into feat/DXAH-2494-2
+Repository: logistics-delivery-driver-safety
+-------------------
