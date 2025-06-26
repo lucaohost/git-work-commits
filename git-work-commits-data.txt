@@ -452,3 +452,4 @@ f43de058|lucas.reginatto@ifood.com.br|2025-06-26T15:08:18-03:00|chore/DXAH-2496-
 b2c5b6e8|lucas.reginatto@ifood.com.br|2025-06-26T15:56:45-03:00|chore/DXAH-2496-prod-4|chore: Add driver-safety Prod dynamo table v2 on IAM resources|aws-infrastructure-live
 f80bf6c9|lucas.reginatto@ifood.com.br|2025-06-26T15:58:50-03:00|chore/DXAH-2496-sandbox-4|chore: Add driver-safety Sandbox dynamo table v2 on IAM resources|aws-infrastructure-live
 e9cfa3b8|lucas.reginatto@ifood.com.br|2025-06-26T16:37:32-03:00|chore/DXAH-2496-sandbox-4|chore: Refactor dependency driver-safety Sandbox dynamo table v2 on IAM resources|aws-infrastructure-live
+8f82e06d|lucas.reginatto@ifood.com.br|2025-06-26T16:44:16-03:00|chore/DXAH-2496-prod-4|chore: Refactor dependency driver-safety Prod dynamo table v2 on IAM resources|aws-infrastructure-live

@@ -3146,3 +3146,10 @@ Branch: chore/DXAH-2496-sandbox-4
 Commit Message: chore: Refactor dependency driver-safety Sandbox dynamo table v2 on IAM resources
 Repository: aws-infrastructure-live
 -------------------
+Commit: 8f82e06d
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T16:44:16-03:00
+Branch: chore/DXAH-2496-prod-4
+Commit Message: chore: Refactor dependency driver-safety Prod dynamo table v2 on IAM resources
+Repository: aws-infrastructure-live
+-------------------
