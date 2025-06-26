@@ -3083,3 +3083,10 @@ Branch: chore/DXAH-2496-prod-2
 Commit Message: chore: Delete driver-safety DynamoDB table
 Repository: aws-infrastructure-live
 -------------------
+Commit: a156ccef
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T14:46:36-03:00
+Branch: chore/DXAH-2496-sandbox-2
+Commit Message: chore: Delete Sandbox driver-safety DynamoDB table
+Repository: aws-infrastructure-live
+-------------------
