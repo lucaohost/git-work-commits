@@ -3153,3 +3153,10 @@ Branch: chore/DXAH-2496-prod-4
 Commit Message: chore: Refactor dependency driver-safety Prod dynamo table v2 on IAM resources
 Repository: aws-infrastructure-live
 -------------------
+Commit: a5a4086a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-26T22:00:08-03:00
+Branch: feat/DXAH-2494-2
+Commit Message: chore: Fix DynamoDBConfiguration
+Repository: logistics-delivery-driver-safety
+-------------------
