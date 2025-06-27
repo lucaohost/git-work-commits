@@ -3243,3 +3243,10 @@ Branch: feat/paleoclimate-visualization-system
 Commit Message: test: Update points tables and geojsons
 Repository: PCVS
 -------------------
+Commit: 732a582c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T17:25:17-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: refactor: Annotation on DriverSafetyScoreRepository
+Repository: logistics-delivery-driver-safety
+-------------------
