@@ -3223,3 +3223,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: fix: Linter problem on imports
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 8ed5867b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T16:38:14-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-driver-safety
+-------------------

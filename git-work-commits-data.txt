@@ -463,3 +463,4 @@ bdfe8322|lucas.reginatto@ifood.com.br|2025-06-27T00:50:56-03:00|chore/DXAH-2494-
 58898318|lucas.reginatto@ifood.com.br|2025-06-27T16:29:27-03:00|fix/fix-service-dynamo-repo/DXAH-2494|fix: Convert data class to normal class to avoid reflection problems|logistics-delivery-driver-safety
 42f91d53|lucas.reginatto@ifood.com.br|2025-06-27T16:31:37-03:00|fix/fix-service-dynamo-repo/DXAH-2494|fix: Linter problem on imports|logistics-delivery-driver-safety
 71f29138|lucas.reginatto@ifood.com.br|2025-06-27T16:33:42-03:00|fix/fix-service-dynamo-repo/DXAH-2494|fix: Linter problem on imports|logistics-delivery-driver-safety
+8ed5867b|lucas.reginatto@ifood.com.br|2025-06-27T16:38:14-03:00|fix/fix-service-dynamo-repo/DXAH-2494|docs: Add changelog|logistics-delivery-driver-safety
