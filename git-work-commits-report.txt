@@ -3195,3 +3195,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: fix: Convert data class to normal class to avoid reflection problems
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 58898318
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T16:29:27-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: fix: Convert data class to normal class to avoid reflection problems
+Repository: logistics-delivery-driver-safety
+-------------------
