@@ -3257,3 +3257,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: Merge branch 'fix/fix-service-dynamo-repo/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into fix/fix-service-dynamo-repo/DXAH-2494
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 1af9d0a8
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T17:30:55-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: chore: Add sonar exclusions
+Repository: logistics-delivery-driver-safety
+-------------------
