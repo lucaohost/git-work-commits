@@ -455,3 +455,4 @@ e9cfa3b8|lucas.reginatto@ifood.com.br|2025-06-26T16:37:32-03:00|chore/DXAH-2496-
 8f82e06d|lucas.reginatto@ifood.com.br|2025-06-26T16:44:16-03:00|chore/DXAH-2496-prod-4|chore: Refactor dependency driver-safety Prod dynamo table v2 on IAM resources|aws-infrastructure-live
 a5a4086a|lucas.reginatto@ifood.com.br|2025-06-26T22:00:08-03:00|feat/DXAH-2494-2|chore: Fix DynamoDBConfiguration|logistics-delivery-driver-safety
 032d9022|lucas.reginatto@ifood.com.br|2025-06-27T00:31:47-03:00|chore/DXAH-2494-3|chore: Enable canary 2.0|logistics-delivery-driver-safety
+bdfe8322|lucas.reginatto@ifood.com.br|2025-06-27T00:50:56-03:00|chore/DXAH-2494-4|chore: Enable canary v1 to test|logistics-delivery-driver-safety
