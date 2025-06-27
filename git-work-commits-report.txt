@@ -3160,3 +3160,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: chore: Fix DynamoDBConfiguration
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 032d9022
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T00:31:47-03:00
+Branch: chore/DXAH-2494-3
+Commit Message: chore: Enable canary 2.0
+Repository: logistics-delivery-driver-safety
+-------------------
