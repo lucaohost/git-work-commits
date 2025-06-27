@@ -456,3 +456,4 @@ e9cfa3b8|lucas.reginatto@ifood.com.br|2025-06-26T16:37:32-03:00|chore/DXAH-2496-
 a5a4086a|lucas.reginatto@ifood.com.br|2025-06-26T22:00:08-03:00|feat/DXAH-2494-2|chore: Fix DynamoDBConfiguration|logistics-delivery-driver-safety
 032d9022|lucas.reginatto@ifood.com.br|2025-06-27T00:31:47-03:00|chore/DXAH-2494-3|chore: Enable canary 2.0|logistics-delivery-driver-safety
 bdfe8322|lucas.reginatto@ifood.com.br|2025-06-27T00:50:56-03:00|chore/DXAH-2494-4|chore: Enable canary v1 to test|logistics-delivery-driver-safety
+59b38b6f|lucas.reginatto@ifood.com.br|2025-06-27T00:58:51-03:00|chore/DXAH-2494-5|chore: Add dev/prod helms|logistics-delivery-driver-safety

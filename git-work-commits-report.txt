@@ -3174,3 +3174,10 @@ Branch: chore/DXAH-2494-4
 Commit Message: chore: Enable canary v1 to test
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 59b38b6f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T00:58:51-03:00
+Branch: chore/DXAH-2494-5
+Commit Message: chore: Add dev/prod helms
+Repository: logistics-delivery-driver-safety
+-------------------
