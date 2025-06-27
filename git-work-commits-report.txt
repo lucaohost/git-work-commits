@@ -3209,3 +3209,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: fix: Convert data class to normal class to avoid reflection problems
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 42f91d53
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T16:31:37-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: fix: Linter problem on imports
+Repository: logistics-delivery-driver-safety
+-------------------
