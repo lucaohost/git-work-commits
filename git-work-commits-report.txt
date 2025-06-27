@@ -3250,3 +3250,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: refactor: Annotation on DriverSafetyScoreRepository
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 691dc1bc
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T17:26:13-03:00
+Branch: fix/fix-service-dynamo-repo/DXAH-2494
+Commit Message: Merge branch 'fix/fix-service-dynamo-repo/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into fix/fix-service-dynamo-repo/DXAH-2494
+Repository: logistics-delivery-driver-safety
+-------------------

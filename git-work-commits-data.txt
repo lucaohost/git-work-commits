@@ -464,3 +464,4 @@ bdfe8322|lucas.reginatto@ifood.com.br|2025-06-27T00:50:56-03:00|chore/DXAH-2494-
 9182d8d4|lucas.reginatto@ifood.com.br|2025-06-27T17:02:35-03:00|fix/fix-service-dynamo-repo/DXAH-2494|chore: Change makefile commands|logistics-delivery-driver-safety
 eb2fc012|lucas.reginatto@unisinos.com.br|2025-06-26T23:53:47-03:00|feat/paleoclimate-visualization-system|test: Update points tables and geojsons|PCVS
 732a582c|lucas.reginatto@ifood.com.br|2025-06-27T17:25:17-03:00|fix/fix-service-dynamo-repo/DXAH-2494|refactor: Annotation on DriverSafetyScoreRepository|logistics-delivery-driver-safety
+691dc1bc|lucas.reginatto@ifood.com.br|2025-06-27T17:26:13-03:00|fix/fix-service-dynamo-repo/DXAH-2494|Merge branch 'fix/fix-service-dynamo-repo/DXAH-2494' of git.ifoodcorp.com.br:ifood/logistics/logistics-delivery-driver-safety into fix/fix-service-dynamo-repo/DXAH-2494|logistics-delivery-driver-safety
