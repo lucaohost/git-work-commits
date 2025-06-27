@@ -3160,3 +3160,10 @@ Branch: feat/DXAH-2494-2
 Commit Message: chore: Fix DynamoDBConfiguration
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: eb2fc012
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-06-26T23:53:47-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: test: Update points tables and geojsons
+Repository: PCVS
+-------------------
