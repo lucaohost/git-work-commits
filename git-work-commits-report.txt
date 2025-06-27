@@ -3181,3 +3181,10 @@ Branch: chore/DXAH-2494-5
 Commit Message: chore: Add dev/prod helms
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 0da2e55a
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-06-27T01:00:39-03:00
+Branch: chore/DXAH-2494-5
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-driver-safety
+-------------------
