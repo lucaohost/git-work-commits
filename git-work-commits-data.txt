@@ -458,3 +458,4 @@ a5a4086a|lucas.reginatto@ifood.com.br|2025-06-26T22:00:08-03:00|feat/DXAH-2494-2
 bdfe8322|lucas.reginatto@ifood.com.br|2025-06-27T00:50:56-03:00|chore/DXAH-2494-4|chore: Enable canary v1 to test|logistics-delivery-driver-safety
 59b38b6f|lucas.reginatto@ifood.com.br|2025-06-27T00:58:51-03:00|chore/DXAH-2494-5|chore: Add dev/prod helms|logistics-delivery-driver-safety
 0da2e55a|lucas.reginatto@ifood.com.br|2025-06-27T01:00:39-03:00|chore/DXAH-2494-5|docs: Add changelog|logistics-delivery-driver-safety
+7fad7c94|lucas.reginatto@ifood.com.br|2025-06-27T16:28:36-03:00|fix/fix-service-dynamo-repo/DXAH-2494|fix: Convert data class to normal class to avoid reflection problems|logistics-delivery-driver-safety
