@@ -468,3 +468,4 @@ eb2fc012|lucas.reginatto@unisinos.com.br|2025-06-26T23:53:47-03:00|feat/paleocli
 1af9d0a8|lucas.reginatto@ifood.com.br|2025-06-27T17:30:55-03:00|fix/fix-service-dynamo-repo/DXAH-2494|chore: Add sonar exclusions|logistics-delivery-driver-safety
 686bbf39|lucas.reginatto@ifood.com.br|2025-07-01T10:17:00-03:00|refactor/DXAH-2504|refactor: Migrate redis sandbox|logistics-delivery-driver-faq
 502fc72b|lucas.reginatto@ifood.com.br|2025-07-01T10:18:39-03:00|refactor/DXAH-2504|docs: Add changelog|logistics-delivery-driver-faq
+d531bf07|lucas.reginatto@ifood.com.br|2025-07-01T10:21:19-03:00|refactor/DXAH-2504|refactor: Migrate redis sandbox|logistics-delivery-chatbot-faq
