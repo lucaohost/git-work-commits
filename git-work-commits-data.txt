@@ -471,3 +471,4 @@ eb2fc012|lucas.reginatto@unisinos.com.br|2025-06-26T23:53:47-03:00|feat/paleocli
 d531bf07|lucas.reginatto@ifood.com.br|2025-07-01T10:21:19-03:00|refactor/DXAH-2504|refactor: Migrate redis sandbox|logistics-delivery-chatbot-faq
 68f046cd|lucas.reginatto@ifood.com.br|2025-07-01T10:23:09-03:00|refactor/DXAH-2504|refactor: Migrate redis sandbox|logistics-delivery-chatbot-faq
 998b7eed|lucas.reginatto@ifood.com.br|2025-07-01T10:32:38-03:00|test/pipeline-test|test: Create MR with clean branch to test pipeline|logistics-delivery-driver-faq
+0818af7c|lucas.reginatto@ifood.com.br|2025-07-01T11:31:17-03:00|test/pipeline-test|chores: Remove unnecessary IAM Role|logistics-delivery-driver-faq

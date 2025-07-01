@@ -3299,3 +3299,10 @@ Branch: test/pipeline-test
 Commit Message: test: Create MR with clean branch to test pipeline
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 0818af7c
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-01T11:31:17-03:00
+Branch: test/pipeline-test
+Commit Message: chores: Remove unnecessary IAM Role
+Repository: logistics-delivery-driver-faq
+-------------------
