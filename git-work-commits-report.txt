@@ -3271,3 +3271,10 @@ Branch: refactor/DXAH-2504
 Commit Message: refactor: Migrate redis sandbox
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 502fc72b
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-01T10:18:39-03:00
+Branch: refactor/DXAH-2504
+Commit Message: docs: Add changelog
+Repository: logistics-delivery-driver-faq
+-------------------
