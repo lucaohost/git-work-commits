@@ -3264,3 +3264,10 @@ Branch: fix/fix-service-dynamo-repo/DXAH-2494
 Commit Message: chore: Add sonar exclusions
 Repository: logistics-delivery-driver-safety
 -------------------
+Commit: 686bbf39
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-01T10:17:00-03:00
+Branch: refactor/DXAH-2504
+Commit Message: refactor: Migrate redis sandbox
+Repository: logistics-delivery-driver-faq
+-------------------
