@@ -475,3 +475,4 @@ d531bf07|lucas.reginatto@ifood.com.br|2025-07-01T10:21:19-03:00|refactor/DXAH-25
 f0105dce|lucas.reginatto@ifood.com.br|2025-07-01T11:32:36-03:00|refactor/DXAH-2504|chores: Remove unnecessary IAM Role|logistics-delivery-driver-faq
 2b23ffcf|lucas.reginatto@ifood.com.br|2025-07-07T14:04:08-03:00|chore/DXAH-2485|chore: Adjust keepalive and maxlifetime connection to avoid NLB drop|logistics-delivery-driver-faq
 951b6324|lucas.reginatto@ifood.com.br|2025-07-07T15:03:26-03:00|chore/DXAH-2485|docs: Adjust changelog version|logistics-delivery-driver-faq
+12c405c5|lucas.reginatto@ifood.com.br|2025-07-07T15:11:22-03:00|chore/DXAH-2563|chore: Remove sandbox Redis resource on driver-faq|aws-infrastructure-live

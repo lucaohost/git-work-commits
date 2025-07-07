@@ -3327,3 +3327,10 @@ Branch: chore/DXAH-2485
 Commit Message: docs: Adjust changelog version
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 12c405c5
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-07T15:11:22-03:00
+Branch: chore/DXAH-2563
+Commit Message: chore: Remove sandbox Redis resource on driver-faq
+Repository: aws-infrastructure-live
+-------------------
