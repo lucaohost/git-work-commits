@@ -3313,3 +3313,10 @@ Branch: refactor/DXAH-2504
 Commit Message: chores: Remove unnecessary IAM Role
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 2b23ffcf
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-07T14:04:08-03:00
+Branch: chore/DXAH-2485
+Commit Message: chore: Adjust keepalive and maxlifetime connection to avoid NLB drop
+Repository: logistics-delivery-driver-faq
+-------------------

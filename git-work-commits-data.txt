@@ -473,3 +473,4 @@ d531bf07|lucas.reginatto@ifood.com.br|2025-07-01T10:21:19-03:00|refactor/DXAH-25
 998b7eed|lucas.reginatto@ifood.com.br|2025-07-01T10:32:38-03:00|test/pipeline-test|test: Create MR with clean branch to test pipeline|logistics-delivery-driver-faq
 0818af7c|lucas.reginatto@ifood.com.br|2025-07-01T11:31:17-03:00|test/pipeline-test|chores: Remove unnecessary IAM Role|logistics-delivery-driver-faq
 f0105dce|lucas.reginatto@ifood.com.br|2025-07-01T11:32:36-03:00|refactor/DXAH-2504|chores: Remove unnecessary IAM Role|logistics-delivery-driver-faq
+2b23ffcf|lucas.reginatto@ifood.com.br|2025-07-07T14:04:08-03:00|chore/DXAH-2485|chore: Adjust keepalive and maxlifetime connection to avoid NLB drop|logistics-delivery-driver-faq
