@@ -3320,3 +3320,10 @@ Branch: chore/DXAH-2485
 Commit Message: chore: Adjust keepalive and maxlifetime connection to avoid NLB drop
 Repository: logistics-delivery-driver-faq
 -------------------
+Commit: 951b6324
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-07T15:03:26-03:00
+Branch: chore/DXAH-2485
+Commit Message: docs: Adjust changelog version
+Repository: logistics-delivery-driver-faq
+-------------------
