@@ -3334,3 +3334,10 @@ Branch: chore/DXAH-2563
 Commit Message: chore: Remove sandbox Redis resource on driver-faq
 Repository: aws-infrastructure-live
 -------------------
+Commit: 34f76b1f
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-07T15:17:35-03:00
+Branch: chore/DXAH-2563-2
+Commit Message: chore: Remove sandbox Redis resource on chatbot-faq
+Repository: aws-infrastructure-live
+-------------------
