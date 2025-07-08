@@ -3341,3 +3341,10 @@ Branch: chore/DXAH-2563-2
 Commit Message: chore: Remove sandbox Redis resource on chatbot-faq
 Repository: aws-infrastructure-live
 -------------------
+Commit: d94e765a
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-07-08T19:35:10-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Add to do
+Repository: PCVS
+-------------------
