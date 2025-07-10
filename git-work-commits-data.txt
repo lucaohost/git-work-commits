@@ -477,3 +477,4 @@ f0105dce|lucas.reginatto@ifood.com.br|2025-07-01T11:32:36-03:00|refactor/DXAH-25
 951b6324|lucas.reginatto@ifood.com.br|2025-07-07T15:03:26-03:00|chore/DXAH-2485|docs: Adjust changelog version|logistics-delivery-driver-faq
 12c405c5|lucas.reginatto@ifood.com.br|2025-07-07T15:11:22-03:00|chore/DXAH-2563|chore: Remove sandbox Redis resource on driver-faq|aws-infrastructure-live
 34f76b1f|lucas.reginatto@ifood.com.br|2025-07-07T15:17:35-03:00|chore/DXAH-2563-2|chore: Remove sandbox Redis resource on chatbot-faq|aws-infrastructure-live
+28c36d50|lucas.reginatto@ifood.com.br|2025-07-10T09:45:50-03:00|feat/DXAH-2526|test: Add and update list delivery drivers tests|logistics-web-bff
