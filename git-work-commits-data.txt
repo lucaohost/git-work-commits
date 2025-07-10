@@ -481,3 +481,4 @@ f0105dce|lucas.reginatto@ifood.com.br|2025-07-01T11:32:36-03:00|refactor/DXAH-25
 28c36d50|lucas.reginatto@ifood.com.br|2025-07-10T09:45:50-03:00|feat/DXAH-2526|test: Add and update list delivery drivers tests|logistics-web-bff
 28c36d50|lucas.reginatto@ifood.com.br|2025-07-10T09:45:50-03:00|feature/DXAH-2526|test: Add and update list delivery drivers tests|logistics-web-bff
 d94e765a|lucas.reginatto@unisinos.com.br|2025-07-08T19:35:10-03:00|feat/paleoclimate-visualization-system|docs: Add to do|PCVS
+cccd9a89|lucas.reginatto@ifood.com.br|2025-07-10T09:51:44-03:00|feature/DXAH-2526|docs: Add changelog|logistics-web-bff
