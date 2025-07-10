@@ -3355,3 +3355,10 @@ Branch: feat/DXAH-2526
 Commit Message: test: Add and update list delivery drivers tests
 Repository: logistics-web-bff
 -------------------
+Commit: 28c36d50
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-10T09:45:50-03:00
+Branch: feature/DXAH-2526
+Commit Message: test: Add and update list delivery drivers tests
+Repository: logistics-web-bff
+-------------------
