@@ -3375,3 +3375,10 @@ Branch: feature/DXAH-2526
 Commit Message: docs: Add changelog
 Repository: logistics-web-bff
 -------------------
+Commit: 4c87b3ac
+Author: lucas.reginatto@ifood.com.br
+Date: 2025-07-10T17:10:51-03:00
+Branch: chore/DXAH-2585
+Commit Message: chore: Delete sandbox Redis resource on driver-faq and chatbot-faq
+Repository: aws-infrastructure-live
+-------------------
