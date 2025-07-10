@@ -3361,4 +3361,10 @@ Date: 2025-07-10T09:45:50-03:00
 Branch: feature/DXAH-2526
 Commit Message: test: Add and update list delivery drivers tests
 Repository: logistics-web-bff
+Commit: d94e765a
+Author: lucas.reginatto@unisinos.com.br
+Date: 2025-07-08T19:35:10-03:00
+Branch: feat/paleoclimate-visualization-system
+Commit Message: docs: Add to do
+Repository: PCVS
 -------------------
